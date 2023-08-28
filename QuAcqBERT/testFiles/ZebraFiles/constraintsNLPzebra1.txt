@@ -1,0 +1,65 @@
+red must not be the same as green
+red must not be the same as ivory
+red must not be the same as yellow
+red must not be the same as blue
+green must not be the same as ivory
+green must not be the same as yellow
+green must not be the same as blue
+ivory must not be the same as yellow
+ivory must not be the same as blue
+yellow must not be the same as blue
+dog must not be the same as snails
+dog must not be the same as fox
+dog must not be the same as horse
+dog must not be the same as zebra
+snails must not be the same as fox
+snails must not be the same as horse
+snails must not be the same as zebra
+fox must not be the same as horse
+fox must not be the same as zebra
+horse must not be the same as zebra
+coffee must not be the same as tea
+coffee must not be the same as milk
+coffee must not be the same as orange juice
+coffee must not be the same as water
+tea must not be the same as milk
+tea must not be the same as orange juice
+tea must not be the same as water
+milk must not be the same as orange juice
+milk must not be the same as water
+orange juice must not be the same as water
+English must not be the same as Sparniad
+English must not be the same as Ukranian
+English must not be the same as Norwegian
+English must not be the same as Japanese
+Sparniad must not be the same as Ukranian
+Sparniad must not be the same as Norwegian
+Sparniad must not be the same as Japanese
+Ukranian must not be the same as Norwegian
+Ukranian must not be the same as Japanese
+Norwegian must not be the same as Japanese
+Old Gold must not be the same as Kools
+Old Gold must not be the same as Chesterfields
+Old Gold must not be the same as Lucky Strike
+Old Gold must not be the same as Parliaments
+Kools must not be the same as Chesterfields
+Kools must not be the same as Lucky Strike
+Kools must not be the same as Parliaments
+Chesterfields must not be the same as Lucky Strike
+Chesterfields must not be the same as Parliaments
+Lucky Strike must not be the same as Parliaments
+English must have the same value as red
+Sparniad must have the same value as dog
+coffee must have the same value as green
+Ukranian must have the same value as tea
+Old Gold must have the same value as snails
+Kools must have the same value as yellow
+Lucky Strike must have the same value as orange juice
+Japanese must have the same value as Parliaments
+green must exceed ivory
+the space separating green and ivory must have the same value as 1
+the space separating Chesterfields and fox must have the same value as 1
+the space separating Kools and horse must have the same value as 1
+the space separating Norwegian and blue must have the same value as 1
+milk must have the same value as 3
+Norwegian must have the same value as 1

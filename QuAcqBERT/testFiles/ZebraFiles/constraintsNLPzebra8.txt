@@ -1,0 +1,65 @@
+red is essential to have disparities from green
+red is essential to have disparities from ivory
+red is essential to have disparities from yellow
+red is essential to have disparities from blue
+green is essential to have disparities from ivory
+green is essential to have disparities from yellow
+green is essential to have disparities from blue
+ivory is essential to have disparities from yellow
+ivory is essential to have disparities from blue
+yellow is essential to have disparities from blue
+dog is essential to have disparities from snails
+dog is essential to have disparities from fox
+dog is essential to have disparities from horse
+dog is essential to have disparities from zebra
+snails is essential to have disparities from fox
+snails is essential to have disparities from horse
+snails is essential to have disparities from zebra
+fox is essential to have disparities from horse
+fox is essential to have disparities from zebra
+horse is essential to have disparities from zebra
+coffee is essential to have disparities from tea
+coffee is essential to have disparities from milk
+coffee is essential to have disparities from orange juice
+coffee is essential to have disparities from water
+tea is essential to have disparities from milk
+tea is essential to have disparities from orange juice
+tea is essential to have disparities from water
+milk is essential to have disparities from orange juice
+milk is essential to have disparities from water
+orange juice is essential to have disparities from water
+English is essential to have disparities from Sparniad
+English is essential to have disparities from Ukranian
+English is essential to have disparities from Norwegian
+English is essential to have disparities from Japanese
+Sparniad is essential to have disparities from Ukranian
+Sparniad is essential to have disparities from Norwegian
+Sparniad is essential to have disparities from Japanese
+Ukranian is essential to have disparities from Norwegian
+Ukranian is essential to have disparities from Japanese
+Norwegian is essential to have disparities from Japanese
+Old Gold is essential to have disparities from Kools
+Old Gold is essential to have disparities from Chesterfields
+Old Gold is essential to have disparities from Lucky Strike
+Old Gold is essential to have disparities from Parliaments
+Kools is essential to have disparities from Chesterfields
+Kools is essential to have disparities from Lucky Strike
+Kools is essential to have disparities from Parliaments
+Chesterfields is essential to have disparities from Lucky Strike
+Chesterfields is essential to have disparities from Parliaments
+Lucky Strike is essential to have disparities from Parliaments
+English mandatory to be at par with red
+Sparniad mandatory to be at par with dog
+coffee mandatory to be at par with green
+Ukranian mandatory to be at par with tea
+Old Gold mandatory to be at par with snails
+Kools mandatory to be at par with yellow
+Lucky Strike mandatory to be at par with orange juice
+Japanese mandatory to be at par with Parliaments
+green mandatory to be above ivory
+the breadth of the divide between green and ivory mandatory to be at par with 1
+the breadth of the divide between Chesterfields and fox mandatory to be at par with 1
+the breadth of the divide between Kools and horse mandatory to be at par with 1
+the breadth of the divide between Norwegian and blue mandatory to be at par with 1
+milk mandatory to be at par with 3
+Norwegian mandatory to be at par with 1

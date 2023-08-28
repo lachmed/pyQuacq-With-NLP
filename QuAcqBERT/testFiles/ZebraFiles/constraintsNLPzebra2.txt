@@ -1,0 +1,65 @@
+red should not be identical to green
+red should not be identical to ivory
+red should not be identical to yellow
+red should not be identical to blue
+green should not be identical to ivory
+green should not be identical to yellow
+green should not be identical to blue
+ivory should not be identical to yellow
+ivory should not be identical to blue
+yellow should not be identical to blue
+dog should not be identical to snails
+dog should not be identical to fox
+dog should not be identical to horse
+dog should not be identical to zebra
+snails should not be identical to fox
+snails should not be identical to horse
+snails should not be identical to zebra
+fox should not be identical to horse
+fox should not be identical to zebra
+horse should not be identical to zebra
+coffee should not be identical to tea
+coffee should not be identical to milk
+coffee should not be identical to orange juice
+coffee should not be identical to water
+tea should not be identical to milk
+tea should not be identical to orange juice
+tea should not be identical to water
+milk should not be identical to orange juice
+milk should not be identical to water
+orange juice should not be identical to water
+English should not be identical to Sparniad
+English should not be identical to Ukranian
+English should not be identical to Norwegian
+English should not be identical to Japanese
+Sparniad should not be identical to Ukranian
+Sparniad should not be identical to Norwegian
+Sparniad should not be identical to Japanese
+Ukranian should not be identical to Norwegian
+Ukranian should not be identical to Japanese
+Norwegian should not be identical to Japanese
+Old Gold should not be identical to Kools
+Old Gold should not be identical to Chesterfields
+Old Gold should not be identical to Lucky Strike
+Old Gold should not be identical to Parliaments
+Kools should not be identical to Chesterfields
+Kools should not be identical to Lucky Strike
+Kools should not be identical to Parliaments
+Chesterfields should not be identical to Lucky Strike
+Chesterfields should not be identical to Parliaments
+Lucky Strike should not be identical to Parliaments
+English should be identical to red
+Sparniad should be identical to dog
+coffee should be identical to green
+Ukranian should be identical to tea
+Old Gold should be identical to snails
+Kools should be identical to yellow
+Lucky Strike should be identical to orange juice
+Japanese should be identical to Parliaments
+green Should surpass ivory
+the gap amidst green and ivory should be identical to 1
+the gap amidst Chesterfields and fox should be identical to 1
+the gap amidst Kools and horse should be identical to 1
+the gap amidst Norwegian and blue should be identical to 1
+milk should be identical to 3
+Norwegian should be identical to 1

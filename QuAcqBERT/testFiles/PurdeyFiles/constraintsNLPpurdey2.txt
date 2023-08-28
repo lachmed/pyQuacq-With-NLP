@@ -1,0 +1,27 @@
+family1 should not be identical to family2
+family1 should not be identical to family3
+family1 should not be identical to family4
+family2 should not be identical to family3
+family2 should not be identical to family4
+family3 should not be identical to family4
+bought1 should not be identical to bought2
+bought1 should not be identical to bought3
+bought1 should not be identical to bought4
+bought2 should not be identical to bought3
+bought2 should not be identical to bought4
+bought3 should not be identical to bought4
+paid1 should not be identical to paid2
+paid1 should not be identical to paid3
+paid1 should not be identical to paid4
+paid2 should not be identical to paid3
+paid2 should not be identical to paid4
+paid3 should not be identical to paid4
+bought1 should be identical to paid3
+family3 should be identical to bought1
+bought4 should be identical to paid4
+family2 should be identical to bought3
+bought3 should be identical to paid2
+family1 Should surpass bought1
+bought1 Should surpass bought3
+bought1 Should surpass bought4
+paid4 should not surpass paid2

@@ -1,0 +1,27 @@
+family1 need to differ from family2
+family1 need to differ from family3
+family1 need to differ from family4
+family2 need to differ from family3
+family2 need to differ from family4
+family3 need to differ from family4
+bought1 need to differ from bought2
+bought1 need to differ from bought3
+bought1 need to differ from bought4
+bought2 need to differ from bought3
+bought2 need to differ from bought4
+bought3 need to differ from bought4
+paid1 need to differ from paid2
+paid1 need to differ from paid3
+paid1 need to differ from paid4
+paid2 need to differ from paid3
+paid2 need to differ from paid4
+paid3 need to differ from paid4
+bought1 needs to be on par with paid3
+family3 needs to be on par with bought1
+bought4 needs to be on par with paid4
+family2 needs to be on par with bought3
+bought3 needs to be on par with paid2
+family1 needs to be higher than bought1
+bought1 needs to be higher than bought3
+bought1 needs to be higher than bought4
+paid4 cannot go beyond paid2

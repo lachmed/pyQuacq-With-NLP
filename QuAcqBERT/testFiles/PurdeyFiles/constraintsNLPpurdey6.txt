@@ -1,0 +1,27 @@
+family1 necessitates being dissimilar to family2
+family1 necessitates being dissimilar to family3
+family1 necessitates being dissimilar to family4
+family2 necessitates being dissimilar to family3
+family2 necessitates being dissimilar to family4
+family3 necessitates being dissimilar to family4
+bought1 necessitates being dissimilar to bought2
+bought1 necessitates being dissimilar to bought3
+bought1 necessitates being dissimilar to bought4
+bought2 necessitates being dissimilar to bought3
+bought2 necessitates being dissimilar to bought4
+bought3 necessitates being dissimilar to bought4
+paid1 necessitates being dissimilar to paid2
+paid1 necessitates being dissimilar to paid3
+paid1 necessitates being dissimilar to paid4
+paid2 necessitates being dissimilar to paid3
+paid2 necessitates being dissimilar to paid4
+paid3 necessitates being dissimilar to paid4
+bought1 has to be equivalent to paid3
+family3 has to be equivalent to bought1
+bought4 has to be equivalent to paid4
+family2 has to be equivalent to bought3
+bought3 has to be equivalent to paid2
+family1 demands a higher value than bought1
+bought1 demands a higher value than bought3
+bought1 demands a higher value than bought4
+paid4 must remain under paid2

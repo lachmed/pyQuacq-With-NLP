@@ -1,0 +1,108 @@
+{"id":3421,"text":"The separation between point1 and point 3 should not equal 7","label":[[23,41,"CONST_ELMS_LEFT"],[49,58,"ne"],[59,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3422,"text":"The gap from location1 to location2 must not match 9","label":[[13,35,"CONST_ELMS_LEFT"],[41,49,"ne"],[51,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3423,"text":"The measure of separation between reference point1 and reference point2 should not equal 8","label":[[34,71,"CONST_ELMS_LEFT"],[79,88,"ne"],[89,90,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3424,"text":"The length between landmark3 and landmark4 must be dissimilar to 10","label":[[19,42,"CONST_ELMS_LEFT"],[51,61,"ne"],[65,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3425,"text":"The gap between position 3 and position 8 should not equal 20","label":[[16,41,"CONST_ELMS_LEFT"],[49,58,"ne"],[59,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3426,"text":"The distance between marker1 and marker2 should be distinct from 0","label":[[21,40,"CONST_ELMS_LEFT"],[48,59,"ne"],[65,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3427,"text":"The separation between reference spot 3 and reference spot 7 should contrast with 3","label":[[23,60,"CONST_ELMS_LEFT"],[68,76,"ne"],[82,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3428,"text":"The length between point 2 and point 3 should be different than 8","label":[[19,38,"CONST_ELMS_LEFT"],[46,58,"ne"],[64,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3429,"text":"The separation between point1 and point 3 should not equal 7.","label":[[23,41,"CONST_ELMS_LEFT"],[49,58,"ne"],[59,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3430,"text":"The gap from location7 to location4 must not match 9.","label":[[13,35,"CONST_ELMS_LEFT"],[41,50,"ne"],[51,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3431,"text":"The measure of separation between reference point2 and reference point9 should not equal 8.","label":[[34,71,"CONST_ELMS_LEFT"],[79,88,"ne"],[89,90,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3432,"text":"The length between landmark9 and landmark4 must be dissimilar to 10.","label":[[19,42,"CONST_ELMS_LEFT"],[48,61,"ne"],[65,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3433,"text":"The gap between position 3 and position 8 should not equal 20.","label":[[16,41,"CONST_ELMS_LEFT"],[49,58,"ne"],[59,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3434,"text":"The distance between marker1 and marker2 should be distinct from 0.","label":[[21,40,"CONST_ELMS_LEFT"],[48,59,"ne"],[65,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3435,"text":"The separation between reference spot 3 and reference spot 7 should contrast with 3.","label":[[23,60,"CONST_ELMS_LEFT"],[68,76,"ne"],[82,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3436,"text":"The length between point 2 and point 3 should be different than 8.","label":[[19,38,"CONST_ELMS_LEFT"],[49,63,"ne"],[64,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3437,"text":"The gap between node5 and node9 should not exceed 12.","label":[[16,31,"CONST_ELMS_LEFT"],[39,49,"lt"],[50,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3438,"text":"The measure of separation between vertex4 and vertex8 must not be equal to 15.","label":[[34,53,"CONST_ELMS_LEFT"],[59,71,"ne"],[75,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3439,"text":"The separation between point1 and point3 should equal 7.","label":[[23,40,"CONST_ELMS_LEFT"],[48,53,"eq"],[54,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3440,"text":"The gap from location1 to location2 must match 9.","label":[[13,35,"CONST_ELMS_LEFT"],[41,46,"eq"],[47,48,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3441,"text":"The measure of separation between reference point1 and reference point2 should equal 8.","label":[[34,71,"CONST_ELMS_LEFT"],[79,84,"eq"],[85,86,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3442,"text":"The length between landmark3 and landmark4 must be exactly 10.","label":[[19,42,"CONST_ELMS_LEFT"],[48,58,"eq"],[59,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3443,"text":"The gap between position3 and position8 should equal 20.","label":[[16,39,"CONST_ELMS_LEFT"],[47,52,"eq"],[53,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3444,"text":"The distance between marker1 and marker2 should be identical to 0.","label":[[21,40,"CONST_ELMS_LEFT"],[48,59,"eq"],[64,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3445,"text":"The separation between reference spot3 and reference spot7 should be precisely 3.","label":[[23,58,"CONST_ELMS_LEFT"],[66,78,"eq"],[79,80,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3446,"text":"The length between point2 and point3 should be equal to 8.","label":[[19,36,"CONST_ELMS_LEFT"],[44,52,"eq"],[56,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3447,"text":"The distance between node1 and node5 should equal 12.","label":[[21,36,"CONST_ELMS_LEFT"],[44,49,"eq"],[50,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3448,"text":"The measure of separation between vertex4 and vertex8 must be 15.","label":[[34,53,"CONST_ELMS_LEFT"],[59,61,"eq"],[62,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3449,"text":"The duration from event1 to event3 should equal 7 hours.","label":[[18,34,"CONST_ELMS_LEFT"],[42,47,"eq"],[48,49,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3450,"text":"The gap between cityA and cityB must match a distance of 50 kilometers.","label":[[16,31,"CONST_ELMS_LEFT"],[37,42,"eq"],[57,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3451,"text":"The measure of separation between objectA and objectB should equal 5 units.","label":[[34,53,"CONST_ELMS_LEFT"],[61,66,"eq"],[67,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3452,"text":"The length between destinationX and destinationY must be exactly 100 meters.","label":[[19,48,"CONST_ELMS_LEFT"],[54,64,"eq"],[65,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3453,"text":"The gap between index3 and index9 should equal 6.","label":[[16,33,"CONST_ELMS_LEFT"],[41,46,"eq"],[47,48,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3454,"text":"The distance between station1 and station2 should be identical to 2 miles.","label":[[21,42,"CONST_ELMS_LEFT"],[50,62,"eq"],[66,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3455,"text":"The separation between landmark9 and landmark12 should be precisely 10.","label":[[23,47,"CONST_ELMS_LEFT"],[55,67,"eq"],[68,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3456,"text":"The length between point6 and point7 should be equal to 9.","label":[[19,36,"CONST_ELMS_LEFT"],[44,52,"eq"],[56,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3457,"text":"The separation between point1 and point3 should be less than 7.","label":[[23,40,"CONST_ELMS_LEFT"],[51,60,"lt"],[61,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3458,"text":"The gap from location1 to location2 must be less than 9.","label":[[13,35,"CONST_ELMS_LEFT"],[44,53,"lt"],[54,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3459,"text":"The measure of separation between reference point1 and reference point2 should be less than 8.","label":[[34,70,"CONST_ELMS_LEFT"],[82,91,"lt"],[92,93,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3460,"text":"The length between landmark3 and landmark4 must be less than 10.","label":[[19,42,"CONST_ELMS_LEFT"],[51,60,"lt"],[61,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3461,"text":"The gap between position3 and position8 should be less than 20.","label":[[16,39,"CONST_ELMS_LEFT"],[50,59,"lt"],[60,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3462,"text":"The distance between marker1 and marker2 should be less than 0.","label":[[21,40,"CONST_ELMS_LEFT"],[51,60,"lt"],[61,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3463,"text":"The separation between reference spot3 and reference spot7 should be less than 3.","label":[[23,58,"CONST_ELMS_LEFT"],[69,78,"lt"],[79,80,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3464,"text":"The length between point2 and point3 should be less than 8.","label":[[19,36,"CONST_ELMS_LEFT"],[47,56,"lt"],[57,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3465,"text":"The distance between node5 and node9 should not exceed 12.","label":[[21,36,"CONST_ELMS_LEFT"],[44,54,"lt"],[55,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3466,"text":"The measure of separation between vertex4 and vertex8 must be less than 15.","label":[[34,53,"CONST_ELMS_LEFT"],[62,71,"lt"],[72,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3467,"text":"The duration from event1 to event3 should be less than 7 hours.","label":[[18,34,"CONST_ELMS_LEFT"],[45,54,"lt"],[55,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3468,"text":"The gap between cityA and cityB must be less than 50 kilometers.","label":[[16,31,"CONST_ELMS_LEFT"],[40,49,"lt"],[50,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3469,"text":"The measure of separation between objectA and objectB should be less than 5 units.","label":[[34,53,"CONST_ELMS_LEFT"],[64,73,"lt"],[73,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3470,"text":"The length between destinationX and destinationY must be less than 100 meters.","label":[[19,48,"CONST_ELMS_LEFT"],[57,66,"lt"],[67,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3471,"text":"The gap between index3 and index9 should be less than 6.","label":[[16,33,"CONST_ELMS_LEFT"],[44,53,"lt"],[54,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3472,"text":"The distance between station1 and station2 should be less than 2 miles.","label":[[21,42,"CONST_ELMS_LEFT"],[53,62,"lt"],[63,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3473,"text":"The separation between landmark9 and landmark12 should be less than 10.","label":[[22,47,"CONST_ELMS_LEFT"],[58,67,"lt"],[68,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3474,"text":"The length between point6 and point7 should be less than 9.","label":[[19,36,"CONST_ELMS_LEFT"],[47,56,"lt"],[57,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3475,"text":"The separation between point1 and point3 should be less than or equal to 7.","label":[[23,40,"CONST_ELMS_LEFT"],[51,69,"le"],[73,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3476,"text":"The gap from location1 to location2 must be less than or equal to 9.","label":[[13,35,"CONST_ELMS_LEFT"],[44,62,"le"],[66,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3477,"text":"The measure of separation between reference point1 and reference point2 should be less than or equal to 8.","label":[[34,71,"CONST_ELMS_LEFT"],[82,100,"le"],[104,105,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3478,"text":"The length between landmark3 and landmark4 must be less than or equal to 10.","label":[[19,42,"CONST_ELMS_LEFT"],[51,69,"le"],[73,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3479,"text":"The gap between position3 and position8 should be less than or equal to 20.","label":[[16,39,"CONST_ELMS_LEFT"],[50,68,"le"],[72,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3480,"text":"The distance between marker1 and marker2 should be less than or equal to 0.","label":[[21,40,"CONST_ELMS_LEFT"],[51,69,"le"],[73,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3481,"text":"The separation between reference spot3 and reference spot7 should be less than or equal to 3.","label":[[23,58,"CONST_ELMS_LEFT"],[69,87,"le"],[91,92,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3482,"text":"The length between point2 and point3 should be less than or equal to 8.","label":[[19,36,"CONST_ELMS_LEFT"],[47,65,"le"],[69,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3483,"text":"The distance between node5 and node9 should not exceed 12.","label":[[21,36,"CONST_ELMS_LEFT"],[44,54,"lt"],[55,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3484,"text":"The measure of separation between vertex4 and vertex8 must be less than or equal to 15.","label":[[34,53,"CONST_ELMS_LEFT"],[62,80,"le"],[84,86,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3485,"text":"The duration from event1 to event3 should be less than or equal to 7 hours.","label":[[18,34,"CONST_ELMS_LEFT"],[45,63,"le"],[67,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3486,"text":"The gap between cityA and cityB must be less than or equal to 50 kilometers.","label":[[16,31,"CONST_ELMS_LEFT"],[40,58,"le"],[62,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3487,"text":"The measure of separation between objectA and objectB should be less than or equal to 5 units.","label":[[34,53,"CONST_ELMS_LEFT"],[64,82,"le"],[86,87,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3488,"text":"The length between destinationX and destinationY must be less than or equal to 100 meters.","label":[[19,48,"CONST_ELMS_LEFT"],[57,75,"le"],[79,82,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3489,"text":"The gap between index3 and index9 should be less than or equal to 6.","label":[[16,33,"CONST_ELMS_LEFT"],[44,62,"le"],[66,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3490,"text":"The distance between station1 and station2 should be less than or equal to 2 miles.","label":[[21,42,"CONST_ELMS_LEFT"],[53,71,"le"],[75,76,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3491,"text":"The separation between landmark9 and landmark12 should be less than or equal to 10.","label":[[23,47,"CONST_ELMS_LEFT"],[58,76,"le"],[80,82,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3492,"text":"The length between point6 and point7 should be less than or equal to 9.","label":[[19,36,"CONST_ELMS_LEFT"],[47,64,"le"],[69,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3493,"text":"The separation between point1 and point3 should be greater than 7.","label":[[23,40,"CONST_ELMS_LEFT"],[51,63,"gt"],[64,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3494,"text":"The gap from location1 to location2 must be greater than 9.","label":[[13,35,"CONST_ELMS_LEFT"],[44,56,"gt"],[57,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3495,"text":"The measure of separation between reference point1 and reference point2 should be greater than 8.","label":[[34,71,"CONST_ELMS_LEFT"],[82,94,"gt"],[95,96,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3496,"text":"The length between landmark3 and landmark4 must be greater than 10.","label":[[19,42,"CONST_ELMS_LEFT"],[51,63,"gt"],[64,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3497,"text":"The gap between position3 and position8 should be greater than 20.","label":[[16,40,"CONST_ELMS_LEFT"],[50,62,"gt"],[63,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3498,"text":"The distance between marker1 and marker2 should be greater than 0.","label":[[21,40,"CONST_ELMS_LEFT"],[51,63,"gt"],[64,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3499,"text":"The separation between reference spot3 and reference spot7 should be greater than 3.","label":[[23,58,"CONST_ELMS_LEFT"],[69,81,"gt"],[82,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3500,"text":"The length between point2 and point3 should be greater than 8.","label":[[19,36,"CONST_ELMS_LEFT"],[47,59,"gt"],[60,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3501,"text":"The distance between node5 and node9 should exceed 12.","label":[[21,36,"CONST_ELMS_LEFT"],[44,50,"gt"],[51,53,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3502,"text":"The measure of separation between vertex4 and vertex8 must be greater than 15.","label":[[34,53,"CONST_ELMS_LEFT"],[62,74,"gt"],[75,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3503,"text":"The duration from event1 to event3 should exceed 7 hours.","label":[[18,34,"CONST_ELMS_LEFT"],[42,48,"gt"],[49,50,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3504,"text":"The gap between cityA and cityB must be greater than 50 kilometers.","label":[[16,31,"CONST_ELMS_LEFT"],[40,52,"gt"],[53,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3505,"text":"The measure of separation between objectA and objectB should be greater than 5 units.","label":[[34,53,"CONST_ELMS_LEFT"],[64,76,"gt"],[77,78,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3506,"text":"The length between destinationX and destinationY must be greater than 100 meters.","label":[[19,48,"CONST_ELMS_LEFT"],[57,69,"gt"],[70,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3507,"text":"The gap between index3 and index9 should be greater than 6.","label":[[16,33,"CONST_ELMS_LEFT"],[44,56,"gt"],[57,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3508,"text":"The distance between station1 and station2 should be greater than 2 miles.","label":[[21,42,"CONST_ELMS_LEFT"],[53,65,"gt"],[66,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3509,"text":"The separation between landmark9 and landmark12 should be greater than 10.","label":[[23,47,"CONST_ELMS_LEFT"],[58,70,"gt"],[71,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3510,"text":"The length between point6 and point7 should be greater than 9.","label":[[19,36,"CONST_ELMS_LEFT"],[47,59,"gt"],[60,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3511,"text":"The separation between point1 and point3 should be greater than or equal to 7.","label":[[23,40,"CONST_ELMS_LEFT"],[51,72,"ge"],[76,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3512,"text":"The gap from location1 to location2 must be greater than or equal to 9.","label":[[13,35,"CONST_ELMS_LEFT"],[44,65,"ge"],[69,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3513,"text":"The measure of separation between reference point1 and reference point2 should be greater than or equal to 8.","label":[[34,71,"CONST_ELMS_LEFT"],[82,103,"ge"],[107,108,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3514,"text":"The length between landmark3 and landmark4 must be greater than or equal to 10.","label":[[19,42,"CONST_ELMS_LEFT"],[51,72,"ge"],[76,78,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3515,"text":"The gap between position3 and position8 should be greater than or equal to 20.","label":[[16,39,"CONST_ELMS_LEFT"],[50,71,"ge"],[75,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3516,"text":"The distance between marker1 and marker2 should be greater than or equal to 0.","label":[[21,40,"CONST_ELMS_LEFT"],[51,72,"ge"],[76,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3517,"text":"The separation between reference spot3 and reference spot7 should be greater than or equal to 3.","label":[[23,58,"CONST_ELMS_LEFT"],[69,90,"ge"],[94,95,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3518,"text":"The length between point2 and point3 should be greater than or equal to 8.","label":[[19,36,"CONST_ELMS_LEFT"],[47,68,"ge"],[72,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3519,"text":"The distance between node5 and node9 should exceed or equal 12.","label":[[21,36,"CONST_ELMS_LEFT"],[44,59,"ge"],[60,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3520,"text":"The measure of separation between vertex4 and vertex8 must be greater than or equal to 15.","label":[[34,53,"CONST_ELMS_LEFT"],[62,83,"ge"],[87,89,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3521,"text":"The duration from event1 to event3 should exceed or equal 7 hours.","label":[[18,34,"CONST_ELMS_LEFT"],[42,57,"ge"],[58,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3522,"text":"The gap between cityA and cityB must be greater than or equal to 50 kilometers.","label":[[16,31,"CONST_ELMS_LEFT"],[40,61,"ge"],[65,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3523,"text":"The measure of separation between objectA and objectB should be greater than or equal to 5 units.","label":[[34,53,"CONST_ELMS_LEFT"],[64,85,"ge"],[89,90,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3524,"text":"The length between destinationX and destinationY must be greater than or equal to 100 meters.","label":[[19,48,"CONST_ELMS_LEFT"],[57,78,"ge"],[82,85,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3525,"text":"The gap between index3 and index9 should be greater than or equal to 6.","label":[[16,33,"CONST_ELMS_LEFT"],[44,65,"ge"],[69,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3526,"text":"The distance between station1 and station2 should be greater than or equal to 2 miles.","label":[[21,42,"CONST_ELMS_LEFT"],[54,74,"ge"],[78,79,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3527,"text":"The separation between landmark9 and landmark12 should be greater than or equal to 10.","label":[[23,47,"CONST_ELMS_LEFT"],[58,79,"ge"],[83,85,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3528,"text":"The length between point6 and point7 should be greater than or equal to 9.","label":[[19,36,"CONST_ELMS_LEFT"],[47,68,"ge"],[72,73,"CONST_ELMS_RIGHT"]],"Comments":[]}

@@ -1,0 +1,299 @@
+{"id":3633,"text":"A should be greater than 9.","label":[[0,1,"VARIABLE"],[12,24,"gtConst"],[25,26,"PARAMETER"]],"Comments":[]}
+{"id":3634,"text":"X must be greater than 13.","label":[[0,1,"VARIABLE"],[10,22,"gtConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3635,"text":"Variable3 needs to be greater than -5.","label":[[0,9,"VARIABLE"],[22,34,"gtConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3636,"text":"The quantity Ypsilon must surpass 0.","label":[[13,20,"VARIABLE"],[26,33,"gtConst"],[34,35,"PARAMETER"]],"Comments":[]}
+{"id":3637,"text":"Ensure that Bravo is of a magnitude greater than 9.","label":[[12,17,"VARIABLE"],[36,48,"gtConst"],[49,50,"PARAMETER"]],"Comments":[]}
+{"id":3638,"text":"It is imperative that Tango exceeds a value of 3.","label":[[22,27,"VARIABLE"],[28,35,"gtConst"],[47,48,"PARAMETER"]],"Comments":[]}
+{"id":3639,"text":"The condition demands that Gamma surpasses -4.","label":[[27,32,"VARIABLE"],[33,42,"gtConst"],[43,45,"PARAMETER"]],"Comments":[]}
+{"id":3640,"text":"The threshold for H3 must be set higher than 6.","label":[[18,20,"VARIABLE"],[33,44,"gtConst"],[45,46,"PARAMETER"]],"Comments":[]}
+{"id":3641,"text":"The stipulation necessitates that Juliet is greater than -77.","label":[[34,40,"VARIABLE"],[44,56,"gtConst"],[57,60,"PARAMETER"]],"Comments":[]}
+{"id":3642,"text":"The prescribed requirement is that Kilo exceeds 23.","label":[[35,39,"VARIABLE"],[40,47,"gtConst"],[48,50,"PARAMETER"]],"Comments":[]}
+{"id":3643,"text":"It is a requirement for X3 to be greater than 344.","label":[[24,26,"VARIABLE"],[33,45,"gtConst"],[46,49,"PARAMETER"]],"Comments":[]}
+{"id":3644,"text":"Charlie8 needs to have a magnitude greater than 39.","label":[[0,8,"VARIABLE"],[35,47,"gtConst"],[48,50,"PARAMETER"]],"Comments":[]}
+{"id":3645,"text":"I must attain a value greater than 67.","label":[[0,1,"VARIABLE"],[22,34,"gtConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3646,"text":"It is necessary for J to be greater than -7.","label":[[20,21,"VARIABLE"],[28,40,"gtConst"],[41,43,"PARAMETER"]],"Comments":[]}
+{"id":3647,"text":"It is essential that MK be above 23 in value.","label":[[21,23,"VARIABLE"],[27,32,"gtConst"],[33,35,"PARAMETER"]],"Comments":[]}
+{"id":3648,"text":"Y must exceed 92.","label":[[0,1,"VARIABLE"],[7,13,"gtConst"],[14,16,"PARAMETER"]],"Comments":[]}
+{"id":3649,"text":"Z should be greater than 45.","label":[[0,1,"VARIABLE"],[12,24,"gtConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3650,"text":"Q needs to be greater than 60.","label":[[0,1,"VARIABLE"],[14,26,"gtConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3651,"text":"V must be higher than 55.","label":[[0,1,"VARIABLE"],[10,21,"gtConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3652,"text":"U should surpass 82.","label":[[0,1,"VARIABLE"],[9,16,"gtConst"],[17,19,"PARAMETER"]],"Comments":[]}
+{"id":3653,"text":"T needs to be greater than 63.","label":[[0,1,"VARIABLE"],[14,26,"gtConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3654,"text":"R should exceed 47.","label":[[0,1,"VARIABLE"],[9,15,"gtConst"],[16,18,"PARAMETER"]],"Comments":[]}
+{"id":3655,"text":"S must be greater than 71.","label":[[0,1,"VARIABLE"],[10,22,"gtConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3656,"text":"P needs to surpass 66.","label":[[0,1,"VARIABLE"],[11,18,"gtConst"],[19,21,"PARAMETER"]],"Comments":[]}
+{"id":3657,"text":"O should be greater than 38.","label":[[0,1,"VARIABLE"],[12,24,"gtConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3658,"text":"ABC must be greater than 123.","label":[[0,3,"VARIABLE"],[12,24,"gtConst"],[25,28,"PARAMETER"]],"Comments":[]}
+{"id":3659,"text":"XYZ should exceed 456.","label":[[0,3,"VARIABLE"],[11,17,"gtConst"],[18,21,"PARAMETER"]],"Comments":[]}
+{"id":3660,"text":"LMN needs to be higher than 789.","label":[[0,3,"VARIABLE"],[16,27,"gtConst"],[28,31,"PARAMETER"]],"Comments":[]}
+{"id":3661,"text":"DEF must be greater than 234.","label":[[0,3,"VARIABLE"],[12,24,"gtConst"],[25,28,"PARAMETER"]],"Comments":[]}
+{"id":3662,"text":"GHI should surpass 567.","label":[[0,3,"VARIABLE"],[11,18,"gtConst"],[19,22,"PARAMETER"]],"Comments":[]}
+{"id":3663,"text":"JKL needs to be greater than 890.","label":[[0,3,"VARIABLE"],[16,28,"gtConst"],[29,32,"PARAMETER"]],"Comments":[]}
+{"id":3664,"text":"NV must be larger than 9 in magnitude.","label":[[0,2,"VARIABLE"],[11,22,"gtConst"],[23,24,"PARAMETER"]],"Comments":[]}
+{"id":3665,"text":"The criterion stipulates that OS should exceed 13.","label":[[30,32,"VARIABLE"],[40,46,"gtConst"],[47,49,"PARAMETER"]],"Comments":[]}
+{"id":3666,"text":"the value of cell1 should be greater than 23","label":[[13,18,"VARIABLE"],[29,41,"gtConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3667,"text":"the temperature of the room 3 must be greater than 24","label":[[23,29,"VARIABLE"],[38,50,"gtConst"],[51,53,"PARAMETER"]],"Comments":[]}
+{"id":3668,"text":"the value of familly 4 must be greater than 10","label":[[13,22,"VARIABLE"],[31,43,"gtConst"],[44,46,"PARAMETER"]],"Comments":[]}
+{"id":3669,"text":"The quantity in box3 should exceed 100 units.","label":[[16,20,"VARIABLE"],[28,34,"gtConst"],[35,38,"PARAMETER"]],"Comments":[]}
+{"id":3670,"text":"The speed of the car1 must surpass 80 kilometers per hour.","label":[[17,21,"VARIABLE"],[27,34,"gtConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3671,"text":"The sales revenue for the month5 should be higher than $10,000.","label":[[26,32,"VARIABLE"],[43,54,"gtConst"],[56,62,"PARAMETER"]],"Comments":[]}
+{"id":3672,"text":"The length of the roe must extend beyond 2 meters.","label":[[18,21,"VARIABLE"],[27,40,"gtConst"],[41,42,"PARAMETER"]],"Comments":[]}
+{"id":3673,"text":"The level of humidity in the greenhouse9 should rise above 70%.","label":[[29,40,"VARIABLE"],[48,58,"gtConst"],[59,61,"PARAMETER"]],"Comments":[]}
+{"id":3674,"text":"The number of likes on the post 19 needs to exceed 500.","label":[[27,34,"VARIABLE"],[44,50,"gtConst"],[51,54,"PARAMETER"]],"Comments":[]}
+{"id":3675,"text":"The concentration of sugar in the solution3 must be greater than 5%.","label":[[34,43,"VARIABLE"],[52,64,"gtConst"],[65,66,"PARAMETER"]],"Comments":[]}
+{"id":3676,"text":"The time taken to complete the task 6 should be longer than 30 minutes.","label":[[31,37,"VARIABLE"],[48,59,"gtConst"],[60,62,"PARAMETER"]],"Comments":[]}
+{"id":3677,"text":"The population of the city2 should exceed 100,000 inhabitants.","label":[[22,27,"VARIABLE"],[35,41,"gtConst"],[42,49,"PARAMETER"]],"Comments":[]}
+{"id":3678,"text":"The height of the building 4 needs to surpass 50 stories.","label":[[18,28,"VARIABLE"],[38,45,"gtConst"],[46,48,"PARAMETER"]],"Comments":[]}
+{"id":3679,"text":"The voting percentage in the election9 must be higher than 60%.","label":[[29,38,"VARIABLE"],[47,58,"gtConst"],[59,61,"PARAMETER"]],"Comments":[]}
+{"id":3680,"text":"The acidity level of the water2 should be greater than pH 6.","label":[[25,31,"VARIABLE"],[42,54,"gtConst"],[58,59,"PARAMETER"]],"Comments":[]}
+{"id":3681,"text":"The score in the game10 needs to exceed 100 points.","label":[[17,23,"VARIABLE"],[33,39,"gtConst"],[40,43,"PARAMETER"]],"Comments":[]}
+{"id":3682,"text":"The attendance at the event 1 must surpass 1,000 participants.","label":[[22,29,"VARIABLE"],[35,42,"gtConst"],[43,48,"PARAMETER"]],"Comments":[]}
+{"id":3683,"text":"A should be equal to or greater than 13.","label":[[0,1,"VARIABLE"],[12,36,"geConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3684,"text":"X must be equal to or greater than 15.","label":[[0,1,"VARIABLE"],[10,34,"geConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3685,"text":"Variable7 needs to be equal to or greater than -3.","label":[[0,9,"VARIABLE"],[22,46,"geConst"],[47,49,"PARAMETER"]],"Comments":[]}
+{"id":3686,"text":"The value of Alpha should be greater than or equal to 14.","label":[[13,18,"VARIABLE"],[29,50,"geConst"],[54,56,"PARAMETER"]],"Comments":[]}
+{"id":3687,"text":"The quantity ylon must be greater than or equal to 12.","label":[[13,17,"VARIABLE"],[26,47,"geConst"],[51,53,"PARAMETER"]],"Comments":[]}
+{"id":3688,"text":"Ensure that bravo is of a magnitude greater than or equal to 17.","label":[[12,17,"VARIABLE"],[36,57,"geConst"],[61,63,"PARAMETER"]],"Comments":[]}
+{"id":3689,"text":"Eclipse3 must be greater than or equal to 23.","label":[[0,8,"VARIABLE"],[17,38,"geConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3690,"text":"V3 must be of a magnitude greater than or equal to -1.","label":[[0,2,"VARIABLE"],[26,47,"geConst"],[51,53,"PARAMETER"]],"Comments":[]}
+{"id":3691,"text":"5AL should surpass or equl 9","label":[[0,3,"VARIABLE"],[11,26,"geConst"],[27,28,"PARAMETER"]],"Comments":[]}
+{"id":3692,"text":"The quantity 2YP must exceed or equal 12, crossing the required threshold.","label":[[13,16,"VARIABLE"],[22,37,"geConst"],[38,40,"PARAMETER"]],"Comments":[]}
+{"id":3693,"text":"ZT needs to be above or equal to -1, establishing itself above this limit.","label":[[0,2,"VARIABLE"],[15,29,"geConst"],[33,35,"PARAMETER"]],"Comments":[]}
+{"id":3694,"text":"Ensure that BR is of a magnitude greater than or equal to 34 for optimal results.","label":[[12,14,"VARIABLE"],[33,54,"geConst"],[58,60,"PARAMETER"]],"Comments":[]}
+{"id":3695,"text":"It is imperative that TG exceeds or equals a value of 67.","label":[[22,24,"VARIABLE"],[25,42,"geConst"],[54,56,"PARAMETER"]],"Comments":[]}
+{"id":3696,"text":"The value of cellX should be greater than or equal to 23.","label":[[13,18,"VARIABLE"],[29,50,"geConst"],[54,56,"PARAMETER"]],"Comments":[]}
+{"id":3697,"text":"The temperature of roomY must be greater than or equal to 24.","label":[[19,24,"VARIABLE"],[33,54,"geConst"],[58,60,"PARAMETER"]],"Comments":[]}
+{"id":3698,"text":"The value of familyZ must be greater than or equal to 10.","label":[[13,20,"VARIABLE"],[29,50,"geConst"],[54,56,"PARAMETER"]],"Comments":[]}
+{"id":3699,"text":"The quantity in boxA should exceed or equal 100 units.","label":[[16,20,"VARIABLE"],[28,43,"geConst"],[44,47,"PARAMETER"]],"Comments":[]}
+{"id":3700,"text":"The speed of carB must surpass or equal 80 kilometers per hour.","label":[[13,17,"VARIABLE"],[23,39,"geConst"],[40,42,"PARAMETER"]],"Comments":[]}
+{"id":3701,"text":"The sales revenue for monthC should be higher than or equal to $10,000.","label":[[22,28,"VARIABLE"],[39,59,"geConst"],[64,70,"PARAMETER"]],"Comments":[]}
+{"id":3702,"text":"The length of reD must extend beyond or equal 2 meters.","label":[[14,17,"VARIABLE"],[23,45,"geConst"],[46,47,"PARAMETER"]],"Comments":[]}
+{"id":3703,"text":"The level of humidity in greenhouseE should rise above or equal to 70%.","label":[[25,36,"VARIABLE"],[44,63,"geConst"],[67,69,"PARAMETER"]],"Comments":[]}
+{"id":3704,"text":"The number of likes on postF needs to exceed or equal 500.","label":[[23,28,"VARIABLE"],[38,53,"geConst"],[54,57,"PARAMETER"]],"Comments":[]}
+{"id":3705,"text":"The concentration of sugar in solutionG must be greater than or equal to 5%.","label":[[30,39,"VARIABLE"],[48,69,"geConst"],[73,74,"PARAMETER"]],"Comments":[]}
+{"id":3706,"text":"The time taken to complete taskH should be longer than or equal to 30 minutes.","label":[[27,32,"VARIABLE"],[43,63,"geConst"],[67,69,"PARAMETER"]],"Comments":[]}
+{"id":3707,"text":"The population of cityI should exceed or equal 100,000 inhabitants.","label":[[18,23,"VARIABLE"],[31,46,"geConst"],[47,54,"PARAMETER"]],"Comments":[]}
+{"id":3708,"text":"The weight of packageP should be above or equal to 5 kilograms.","label":[[14,22,"VARIABLE"],[33,47,"geConst"],[51,52,"PARAMETER"]],"Comments":[]}
+{"id":3709,"text":"The value of stock portfolioQ must be greater than or equal to 10,000 dollars.","label":[[19,29,"VARIABLE"],[38,59,"geConst"],[63,69,"PARAMETER"]],"Comments":[]}
+{"id":3710,"text":"The capacity of storageTankX should exceed or equal 100 liters.","label":[[16,28,"VARIABLE"],[36,51,"geConst"],[52,55,"PARAMETER"]],"Comments":[]}
+{"id":3711,"text":"The maximum speed of vehicleY must surpass or equal 80 miles per hour.","label":[[21,29,"VARIABLE"],[35,51,"geConst"],[52,54,"PARAMETER"]],"Comments":[]}
+{"id":3712,"text":"The length of ropeZ must be longer than or equal to 2 meters.","label":[[14,19,"VARIABLE"],[28,48,"geConst"],[52,53,"PARAMETER"]],"Comments":[]}
+{"id":3713,"text":"The number of followers on socialMediaPostA must exceed or equal 500.","label":[[27,43,"VARIABLE"],[49,64,"geConst"],[65,68,"PARAMETER"]],"Comments":[]}
+{"id":3714,"text":"B must exceed or equal 92.","label":[[0,1,"VARIABLE"],[7,22,"geConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3715,"text":"C should be greater than or equal to 45.","label":[[0,1,"VARIABLE"],[12,33,"geConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3716,"text":"Q needs to be greater than or equal to 60.","label":[[0,1,"VARIABLE"],[14,36,"geConst"],[39,41,"PARAMETER"]],"Comments":[]}
+{"id":3717,"text":"V must be higher than or equal to 55.","label":[[0,1,"VARIABLE"],[10,30,"geConst"],[34,36,"PARAMETER"]],"Comments":[]}
+{"id":3718,"text":"U should surpass or equal 82.","label":[[0,1,"VARIABLE"],[9,25,"geConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3719,"text":"ABsC must be greater than or equal to 123.","label":[[0,4,"VARIABLE"],[13,34,"geConst"],[38,41,"PARAMETER"]],"Comments":[]}
+{"id":3720,"text":"aXYZ should exceed or equal to 456.","label":[[0,4,"VARIABLE"],[12,27,"geConst"],[31,34,"PARAMETER"]],"Comments":[]}
+{"id":3721,"text":"LvMN needs to be higher than or equal to 789.","label":[[0,4,"VARIABLE"],[17,37,"geConst"],[41,44,"PARAMETER"]],"Comments":[]}
+{"id":3722,"text":"nDEF must be greater than or equal to 234.","label":[[0,4,"VARIABLE"],[13,34,"geConst"],[38,41,"PARAMETER"]],"Comments":[]}
+{"id":3723,"text":"GgHI should surpass or equal to 567.","label":[[0,4,"VARIABLE"],[12,28,"geConst"],[32,35,"PARAMETER"]],"Comments":[]}
+{"id":3724,"text":"JKdL needs to be greater than or equal to 890.","label":[[0,4,"VARIABLE"],[17,38,"geConst"],[42,45,"PARAMETER"]],"Comments":[]}
+{"id":3725,"text":"The length of the rope 2 must extend beyond or equal 2 meters.","label":[[18,24,"VARIABLE"],[30,52,"geConst"],[53,54,"PARAMETER"]],"Comments":[]}
+{"id":3726,"text":"The level of humidity in the greenhouse9 should rise above or equal 70%.","label":[[29,40,"VARIABLE"],[48,67,"geConst"],[68,70,"PARAMETER"]],"Comments":[]}
+{"id":3727,"text":"The number of likes on the post 19 needs to exceed or equal 500.","label":[[27,34,"VARIABLE"],[44,59,"geConst"],[60,63,"PARAMETER"]],"Comments":[]}
+{"id":3728,"text":"The concentration of sugar in the solution3 must be greater than or equal 5%.","label":[[34,43,"VARIABLE"],[52,73,"geConst"],[74,75,"PARAMETER"]],"Comments":[]}
+{"id":3729,"text":"The time taken to complete the task 6 should be longer than or equal 30 minutes.","label":[[31,37,"VARIABLE"],[48,68,"geConst"],[69,71,"PARAMETER"]],"Comments":[]}
+{"id":3730,"text":"man should be greater or equal to 6","label":[[0,3,"VARIABLE"],[14,30,"geConst"],[34,35,"PARAMETER"]],"Comments":[]}
+{"id":3731,"text":"the lion must be greater than or equal to 19","label":[[4,8,"VARIABLE"],[17,38,"geConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3732,"text":"The population of the city2 should exceed or equal 100,000 inhabitants.","label":[[22,27,"VARIABLE"],[35,50,"geConst"],[51,58,"PARAMETER"]],"Comments":[]}
+{"id":3733,"text":"alpha should be less than 5.","label":[[0,5,"VARIABLE"],[16,25,"ltConst"],[26,27,"PARAMETER"]],"Comments":[]}
+{"id":3734,"text":"Foxtrot must be less than 7.","label":[[0,7,"VARIABLE"],[16,25,"ltConst"],[26,27,"PARAMETER"]],"Comments":[]}
+{"id":3735,"text":"variable5 needs to be less than -3.","label":[[0,9,"VARIABLE"],[22,31,"ltConst"],[32,34,"PARAMETER"]],"Comments":[]}
+{"id":3736,"text":"The quantity Omega must not exceed -2.","label":[[13,18,"VARIABLE"],[24,34,"neConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3737,"text":"Ensure that e is of a magnitude less than 6.","label":[[12,13,"VARIABLE"],[32,41,"ltConst"],[42,43,"PARAMETER"]],"Comments":[]}
+{"id":3738,"text":"It is imperative that sierra is below a value of 2.","label":[[22,28,"VARIABLE"],[32,37,"ltConst"],[49,50,"PARAMETER"]],"Comments":[]}
+{"id":3739,"text":"The condition demands that delta is below -3.","label":[[27,32,"VARIABLE"],[36,41,"ltConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3740,"text":"The threshold for l must be set lower than 4.","label":[[18,19,"VARIABLE"],[32,42,"ltConst"],[43,44,"PARAMETER"]],"Comments":[]}
+{"id":3741,"text":"The stipulation necessitates that Hotel is less than -70.","label":[[34,39,"VARIABLE"],[43,52,"ltConst"],[53,56,"PARAMETER"]],"Comments":[]}
+{"id":3742,"text":"The prescribed requirement is that November is below 20.","label":[[35,43,"VARIABLE"],[47,52,"ltConst"],[53,55,"PARAMETER"]],"Comments":[]}
+{"id":3743,"text":"It is a requirement for W to be less than 320.","label":[[24,25,"VARIABLE"],[32,41,"ltConst"],[42,45,"PARAMETER"]],"Comments":[]}
+{"id":3744,"text":"Golf9 needs to have a magnitude less than 35.","label":[[0,5,"VARIABLE"],[32,41,"ltConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3745,"text":"I must attain a value less than 60.","label":[[0,1,"VARIABLE"],[22,31,"ltConst"],[32,34,"PARAMETER"]],"Comments":[]}
+{"id":3746,"text":"It is necessary for a to be less than -5.","label":[[20,21,"VARIABLE"],[28,37,"ltConst"],[38,40,"PARAMETER"]],"Comments":[]}
+{"id":3747,"text":"It is essential that m is below 20 in value.","label":[[21,22,"VARIABLE"],[26,31,"ltConst"],[32,34,"PARAMETER"]],"Comments":[]}
+{"id":3748,"text":"Uniform must exceed 85.","label":[[0,7,"VARIABLE"],[13,19,"gtConst"],[20,22,"PARAMETER"]],"Comments":[]}
+{"id":3749,"text":"Victor should be less than 40.","label":[[0,6,"VARIABLE"],[17,26,"ltConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3750,"text":"Papa needs to be less than 55.","label":[[0,4,"VARIABLE"],[17,26,"ltConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3751,"text":"ray must be higher than 50.","label":[[0,3,"VARIABLE"],[12,23,"gtConst"],[24,26,"PARAMETER"]],"Comments":[]}
+{"id":3752,"text":"Yankee should surpass 77.","label":[[0,6,"VARIABLE"],[14,21,"gtConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3753,"text":"T should be less than 80.","label":[[0,1,"VARIABLE"],[12,21,"ltConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3754,"text":"R must be below 60.","label":[[0,1,"VARIABLE"],[10,15,"ltConst"],[16,18,"PARAMETER"]],"Comments":[]}
+{"id":3755,"text":"S must be less than 90.","label":[[0,1,"VARIABLE"],[10,19,"VARIABLE"],[20,22,"PARAMETER"]],"Comments":[]}
+{"id":3756,"text":"P needs to be lower than 70.","label":[[0,1,"VARIABLE"],[14,24,"ltConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3757,"text":"O should not exceed 50.","label":[[0,1,"VARIABLE"],[9,19,"ltConst"],[20,22,"PARAMETER"]],"Comments":[]}
+{"id":3758,"text":"XYsZ should be less than 500.","label":[[0,4,"VARIABLE"],[15,24,"ltConst"],[25,28,"PARAMETER"]],"Comments":[]}
+{"id":3759,"text":"LMfN must not surpass 700.","label":[[0,4,"VARIABLE"],[14,21,"gtConst"],[22,25,"PARAMETER"]],"Comments":[]}
+{"id":3760,"text":"dEsF should be lower than 400.","label":[[0,4,"VARIABLE"],[15,25,"ltConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3761,"text":"GcHI should not exceed 600.","label":[[0,4,"VARIABLE"],[12,22,"ltConst"],[23,26,"PARAMETER"]],"Comments":[]}
+{"id":3762,"text":"NV must be smaller than 9 in magnitude.","label":[[0,2,"VARIABLE"],[11,23,"ltConst"],[24,25,"PARAMETER"]],"Comments":[]}
+{"id":3763,"text":"conservatory7 should be below 60.","label":[[0,13,"VARIABLE"],[24,29,"ltConst"],[30,32,"PARAMETER"]],"Comments":[]}
+{"id":3764,"text":"post 15 should be fewer than 700.","label":[[0,7,"VARIABLE"],[18,28,"ltConst"],[29,32,"PARAMETER"]],"Comments":[]}
+{"id":3765,"text":"solution6 must be less than 8.","label":[[0,9,"VARIABLE"],[18,27,"ltConst"],[28,29,"PARAMETER"]],"Comments":[]}
+{"id":3766,"text":"The task 3 should be less than 25.","label":[[4,10,"VARIABLE"],[21,30,"ltConst"],[31,33,"PARAMETER"]],"Comments":[]}
+{"id":3767,"text":"city5 should be less than 200,000.","label":[[0,5,"VARIABLE"],[16,25,"ltConst"],[26,33,"PARAMETER"]],"Comments":[]}
+{"id":3768,"text":"building 2 should be below 60.","label":[[0,10,"VARIABLE"],[21,26,"ltConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3769,"text":"election8 must be less than 50.","label":[[0,9,"VARIABLE"],[18,27,"ltConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3770,"text":"water should be less than 5.","label":[[0,5,"VARIABLE"],[16,25,"ltConst"],[26,27,"PARAMETER"]],"Comments":[]}
+{"id":3771,"text":"The game 11 should be less than 150.","label":[[4,11,"VARIABLE"],[22,31,"ltConst"],[32,35,"PARAMETER"]],"Comments":[]}
+{"id":3772,"text":"The event 4 must be less than 2000.","label":[[4,11,"VARIABLE"],[20,29,"ltConst"],[30,34,"PARAMETER"]],"Comments":[]}
+{"id":3773,"text":"hothouse8 should not exceed 25.","label":[[0,9,"VARIABLE"],[17,27,"neConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3774,"text":"post 16 should be less than 300.","label":[[0,7,"VARIABLE"],[18,27,"ltConst"],[28,31,"PARAMETER"]],"Comments":[]}
+{"id":3775,"text":"solution7 must be less than 4.","label":[[0,9,"VARIABLE"],[18,27,"ltConst"],[28,29,"PARAMETER"]],"Comments":[]}
+{"id":3776,"text":"t 5 should be less than 15.","label":[[0,3,"VARIABLE"],[14,23,"ltConst"],[24,26,"PARAMETER"]],"Comments":[]}
+{"id":3777,"text":"c 3 should be less than 80,000.","label":[[0,3,"VARIABLE"],[14,23,"ltConst"],[24,30,"PARAMETER"]],"Comments":[]}
+{"id":3778,"text":"b6 should be below 40.","label":[[0,2,"VARIABLE"],[13,18,"ltConst"],[19,21,"PARAMETER"]],"Comments":[]}
+{"id":3779,"text":"e10 must be less than 30.","label":[[0,3,"VARIABLE"],[12,21,"ltConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3780,"text":"ater 9 should be less than 45.","label":[[0,6,"VARIABLE"],[17,26,"ltConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3781,"text":"gme13 should be less than 75.","label":[[0,5,"VARIABLE"],[16,25,"ltConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3782,"text":"ent 2 must be fewer than 800.","label":[[0,5,"VARIABLE"],[14,24,"ltConst"],[25,28,"PARAMETER"]],"Comments":[]}
+{"id":3783,"text":"pha should be less than or equal to 3.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,37,"PARAMETER"]],"Comments":[]}
+{"id":3784,"text":"oxrot must be less than or equal to 5.","label":[[0,5,"VARIABLE"],[14,32,"leConst"],[36,37,"PARAMETER"]],"Comments":[]}
+{"id":3785,"text":"ie2 needs to be less than or equal to -1.","label":[[0,3,"VARIABLE"],[16,34,"leConst"],[38,40,"PARAMETER"]],"Comments":[]}
+{"id":3786,"text":"The quantity O must be less than or equal to -2.","label":[[13,14,"VARIABLE"],[23,41,"leConst"],[45,47,"PARAMETER"]],"Comments":[]}
+{"id":3787,"text":"Ensure that eq1 is of a magnitude less than or equal to 4.","label":[[12,15,"VARIABLE"],[34,52,"leConst"],[56,57,"PARAMETER"]],"Comments":[]}
+{"id":3788,"text":"It is imperative that sa 22 is below or equal a value of 1.","label":[[22,27,"VARIABLE"],[31,45,"leConst"],[57,58,"PARAMETER"]],"Comments":[]}
+{"id":3789,"text":"The condition demands that l2ta is below or equal to -2.","label":[[27,31,"VARIABLE"],[35,49,"leConst"],[53,55,"PARAMETER"]],"Comments":[]}
+{"id":3790,"text":"j must be set lower than or equal to 3.","label":[[0,1,"VARIABLE"],[14,33,"leConst"],[37,38,"PARAMETER"]],"Comments":[]}
+{"id":3791,"text":"Hl2 is less than or equal to -60.","label":[[0,3,"VARIABLE"],[7,25,"leConst"],[29,32,"PARAMETER"]],"Comments":[]}
+{"id":3792,"text":"vember9 is below or equal to 15.","label":[[0,7,"VARIABLE"],[11,25,"leConst"],[29,31,"PARAMETER"]],"Comments":[]}
+{"id":3793,"text":"mp must be less than or equal to 300.","label":[[0,2,"VARIABLE"],[11,29,"leConst"],[33,36,"PARAMETER"]],"Comments":[]}
+{"id":3794,"text":"f6 needs tobe less than or equal to 30.","label":[[0,2,"VARIABLE"],[14,32,"leConst"],[36,38,"PARAMETER"]],"Comments":[]}
+{"id":3795,"text":"M 9 must attain a value less than or equal to 55.","label":[[0,3,"VARIABLE"],[24,42,"leConst"],[46,48,"PARAMETER"]],"Comments":[]}
+{"id":3796,"text":"enj must be less than or equal to -3.","label":[[0,3,"VARIABLE"],[12,30,"leConst"],[34,36,"PARAMETER"]],"Comments":[]}
+{"id":3797,"text":"at needs to be below or equal to 18 in value.","label":[[0,2,"VARIABLE"],[15,29,"leConst"],[33,35,"PARAMETER"]],"Comments":[]}
+{"id":3798,"text":"fosrm must be less or equal to 80.","label":[[0,5,"VARIABLE"],[14,27,"leConst"],[31,33,"PARAMETER"]],"Comments":[]}
+{"id":3799,"text":"ossr should be less than or equal to 35.","label":[[0,4,"VARIABLE"],[15,33,"leConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3800,"text":"pa needs to be less than or equal to 50.","label":[[0,2,"VARIABLE"],[15,33,"leConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3801,"text":"qsy must be less than or equal 55.","label":[[0,3,"VARIABLE"],[12,30,"leConst"],[31,33,"PARAMETER"]],"Comments":[]}
+{"id":3802,"text":"kee should be less than or equal to 75.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,38,"PARAMETER"]],"Comments":[]}
+{"id":3803,"text":"d should be less than or equal to 75.","label":[[0,1,"VARIABLE"],[12,30,"leConst"],[34,36,"PARAMETER"]],"Comments":[]}
+{"id":3804,"text":"w must be below or equal to 55.","label":[[0,1,"VARIABLE"],[10,24,"leConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3805,"text":"r must be less than or equal to 85.","label":[[0,1,"VARIABLE"],[10,28,"leConst"],[32,34,"PARAMETER"]],"Comments":[]}
+{"id":3806,"text":"u needs to be lower than or equal to 65.","label":[[0,1,"VARIABLE"],[14,33,"leConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3807,"text":"pp88 should be less than or equal to 45.","label":[[0,4,"VARIABLE"],[15,33,"leConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3808,"text":"sZ should be less than or equal to 450.","label":[[0,2,"VARIABLE"],[13,31,"leConst"],[35,38,"PARAMETER"]],"Comments":[]}
+{"id":3809,"text":"cN must be less than or equal to 650.","label":[[0,2,"VARIABLE"],[11,29,"leConst"],[33,36,"PARAMETER"]],"Comments":[]}
+{"id":3810,"text":"XXw should be lower than or equal to 375.","label":[[0,3,"VARIABLE"],[14,33,"leConst"],[37,40,"PARAMETER"]],"Comments":[]}
+{"id":3811,"text":"BMW should be less than or equal to 550.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,39,"PARAMETER"]],"Comments":[]}
+{"id":3812,"text":"Be must be smaller than or equal to 7 in magnitude.","label":[[0,2,"VARIABLE"],[11,32,"ltConst"],[36,37,"PARAMETER"]],"Comments":[]}
+{"id":3813,"text":"xsry 7 should be below or equal to 50.","label":[[0,6,"VARIABLE"],[17,31,"leConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3814,"text":"sost should be fewer than or equal to 600.","label":[[0,4,"VARIABLE"],[15,34,"leConst"],[38,41,"PARAMETER"]],"Comments":[]}
+{"id":3815,"text":"oson6 must be less than or equal to 7.","label":[[0,5,"VARIABLE"],[14,32,"leConst"],[36,37,"PARAMETER"]],"Comments":[]}
+{"id":3816,"text":"sk3 should be less than or equal to 20.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,38,"PARAMETER"]],"Comments":[]}
+{"id":3817,"text":"ts234 should be less than or equal to 150,000.","label":[[0,5,"VARIABLE"],[16,34,"leConst"],[38,45,"PARAMETER"]],"Comments":[]}
+{"id":3818,"text":"Bu222 should be below or equal to 50.","label":[[0,5,"VARIABLE"],[16,30,"leConst"],[34,36,"PARAMETER"]],"Comments":[]}
+{"id":3819,"text":"t218 must be less than or equal to 40.","label":[[0,4,"VARIABLE"],[13,32,"leConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3820,"text":"z2er should be less than or equal to 4.","label":[[0,4,"VARIABLE"],[15,33,"leConst"]],"Comments":[]}
+{"id":3821,"text":"ge 11 should be less than or equal to 130.","label":[[0,5,"VARIABLE"],[16,34,"leConst"],[38,41,"PARAMETER"]],"Comments":[]}
+{"id":3822,"text":"event 4 must be less than or equal to 1800.","label":[[0,7,"VARIABLE"],[16,34,"leConst"],[38,42,"PARAMETER"]],"Comments":[]}
+{"id":3823,"text":"se 8 should be less than or equal to 20.","label":[[0,4,"VARIABLE"],[15,33,"leConst"],[37,39,"PARAMETER"]],"Comments":[]}
+{"id":3824,"text":"s 16 should be less than or equal to 280.","label":[[0,4,"VARIABLE"],[15,33,"leConst"],[37,40,"PARAMETER"]],"Comments":[]}
+{"id":3825,"text":"Sn7 must be less than or equal to 3.","label":[[0,3,"VARIABLE"],[12,30,"leConst"],[34,35,"PARAMETER"]],"Comments":[]}
+{"id":3826,"text":"Tw5 should be less than or equal to 12.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,38,"PARAMETER"]],"Comments":[]}
+{"id":3827,"text":"G3 should be less than or equal to 70,000.","label":[[0,2,"VARIABLE"],[13,31,"leConst"],[35,41,"PARAMETER"]],"Comments":[]}
+{"id":3828,"text":"B88 should be below or equal to 35.","label":[[0,3,"VARIABLE"],[14,28,"leConst"],[32,34,"PARAMETER"]],"Comments":[]}
+{"id":3829,"text":"kls must be less than or equal to 25.","label":[[0,3,"VARIABLE"],[12,30,"leConst"],[34,36,"PARAMETER"]],"Comments":[]}
+{"id":3830,"text":"wer should be less than or equal to 40.","label":[[0,3,"VARIABLE"],[14,32,"leConst"],[36,38,"PARAMETER"]],"Comments":[]}
+{"id":3831,"text":"op should be less than or equal to 70.","label":[[0,2,"VARIABLE"],[13,31,"leConst"],[35,37,"PARAMETER"]],"Comments":[]}
+{"id":3832,"text":"MA90 must be fewer than or equal to 750.","label":[[0,4,"VARIABLE"],[13,32,"leConst"],[36,39,"PARAMETER"]],"Comments":[]}
+{"id":3833,"text":"xa should equal 2.","label":[[0,2,"VARIABLE"],[10,15,"eqConst"],[16,17,"PARAMETER"]],"Comments":[]}
+{"id":3834,"text":"Ot must equal 4.","label":[[0,2,"VARIABLE"],[8,13,"eqConst"],[14,15,"PARAMETER"]],"Comments":[]}
+{"id":3835,"text":"q2 needs to equal -2.","label":[[0,2,"VARIABLE"],[9,17,"eqConst"],[18,20,"PARAMETER"]],"Comments":[]}
+{"id":3836,"text":"O must equal -1.","label":[[0,1,"VARIABLE"],[7,12,"eqConst"],[13,15,"PARAMETER"]],"Comments":[]}
+{"id":3837,"text":"q1 is of a magnitude equal to 3.","label":[[0,2,"VARIABLE"],[21,26,"eqConst"],[30,31,"PARAMETER"]],"Comments":[]}
+{"id":3838,"text":"It is imperative that zee 22 equals a value of 2.","label":[[22,28,"VARIABLE"],[29,35,"eqConst"],[47,48,"PARAMETER"]],"Comments":[]}
+{"id":3839,"text":"The condition demands that pink equals -1.","label":[[27,31,"VARIABLE"],[32,38,"eqConst"],[39,41,"PARAMETER"]],"Comments":[]}
+{"id":3840,"text":"d must be set equal to 2.","label":[[0,1,"VARIABLE"],[7,19,"eqConst"],[23,24,"PARAMETER"]],"Comments":[]}
+{"id":3841,"text":"l2 is equal to -55.","label":[[0,2,"VARIABLE"],[3,11,"eqConst"],[15,18,"PARAMETER"]],"Comments":[]}
+{"id":3842,"text":"N9 is equal to 12.","label":[[0,2,"VARIABLE"],[3,11,"eqConst"],[15,17,"PARAMETER"]],"Comments":[]}
+{"id":3843,"text":"MSp must equal 280.","label":[[0,3,"VARIABLE"],[9,14,"eqConst"],[15,18,"PARAMETER"]],"Comments":[]}
+{"id":3844,"text":"PMMS6 needs to be equal to 25.","label":[[0,5,"VARIABLE"],[15,23,"eqConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3846,"text":"Ensqj must be equal to -4.","label":[[0,5,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3847,"text":"szst needs to be equal to 15 in value.","label":[[0,4,"VARIABLE"],[14,22,"eqConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3848,"text":"Fosrm must be equal to 75.","label":[[0,5,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3849,"text":"Khalid should be equal to 30.","label":[[0,6,"VARIABLE"],[14,22,"eqConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3850,"text":"Karim needs to be equal to 45.","label":[[0,5,"VARIABLE"],[15,23,"eqConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3851,"text":"Employee must be equal to 50.","label":[[0,8,"VARIABLE"],[14,22,"eqConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3852,"text":"director should be equal to 70.","label":[[0,8,"VARIABLE"],[16,24,"eqConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3853,"text":"Dog should be equal to 70.","label":[[0,3,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3854,"text":"Watson must be equal to 50.","label":[[0,6,"VARIABLE"],[12,20,"eqConst"],[24,26,"PARAMETER"]],"Comments":[]}
+{"id":3855,"text":"reel must be equal to 80.","label":[[0,4,"VARIABLE"],[10,18,"eqConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3856,"text":"united2 needs to be equal to 60.","label":[[0,7,"VARIABLE"],[17,25,"eqConst"],[29,31,"PARAMETER"]],"Comments":[]}
+{"id":3857,"text":"pinks should be equal to 40.","label":[[0,5,"VARIABLE"],[13,21,"eqConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3858,"text":"seat should be equal to 400.","label":[[0,4,"VARIABLE"],[12,20,"eqConst"],[24,27,"PARAMETER"]],"Comments":[]}
+{"id":3859,"text":"cow3 must be equal to 600.","label":[[0,4,"VARIABLE"],[10,18,"eqConst"],[22,25,"PARAMETER"]],"Comments":[]}
+{"id":3860,"text":"nor 15 should be equal to 350.","label":[[0,6,"VARIABLE"],[14,22,"eqConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3861,"text":"waiter should be equal to 500.","label":[[0,6,"VARIABLE"],[14,22,"eqConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3862,"text":"bee 9 must be equal to 6 in magnitude.","label":[[0,5,"VARIABLE"],[11,19,"eqConst"],[23,24,"PARAMETER"]],"Comments":[]}
+{"id":3863,"text":"dice9 should be equal to 45.","label":[[0,5,"VARIABLE"],[13,21,"eqConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3864,"text":"sweet1 should be equal to 500.","label":[[0,6,"VARIABLE"],[14,22,"eqConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3865,"text":"oa must be equal to 6.","label":[[0,2,"VARIABLE"],[8,16,"eqConst"],[20,21,"PARAMETER"]],"Comments":[]}
+{"id":3866,"text":"knighte should be equal to 15.","label":[[0,7,"VARIABLE"],[15,23,"eqConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3867,"text":"town1 should be equal to 140,000.","label":[[0,5,"VARIABLE"],[13,21,"eqConst"],[25,32,"PARAMETER"]],"Comments":[]}
+{"id":3868,"text":"bull2 should be equal to 45.","label":[[0,5,"VARIABLE"],[13,21,"eqConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3869,"text":"eater must be equal to 35.","label":[[0,5,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3870,"text":"highland should be equal to 3.","label":[[0,8,"VARIABLE"],[16,24,"eqConst"],[28,29,"PARAMETER"]],"Comments":[]}
+{"id":3871,"text":"garage should be equal to 120.","label":[[0,6,"VARIABLE"],[14,22,"eqConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3872,"text":"pbd must be equal to 1700.","label":[[0,3,"VARIABLE"],[9,17,"eqConst"],[21,25,"PARAMETER"]],"Comments":[]}
+{"id":3873,"text":"df should be equal to 15.","label":[[0,2,"VARIABLE"],[10,18,"eqConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3874,"text":"f6 should be equal to 260.","label":[[0,2,"VARIABLE"],[10,18,"eqConst"],[22,25,"PARAMETER"]],"Comments":[]}
+{"id":3875,"text":"v7 must be equal to 2.","label":[[0,2,"VARIABLE"],[8,16,"eqConst"],[20,21,"PARAMETER"]],"Comments":[]}
+{"id":3876,"text":"V5 should be equal to 10.","label":[[0,2,"VARIABLE"],[10,18,"eqConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3877,"text":"ve3 should be equal to 65,000.","label":[[0,3,"VARIABLE"],[11,19,"eqConst"],[23,29,"PARAMETER"]],"Comments":[]}
+{"id":3878,"text":"Be8 should be equal to 30.","label":[[0,3,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3879,"text":"mp must be equal to 20.","label":[[0,2,"VARIABLE"],[8,16,"eqConst"],[20,22,"PARAMETER"]],"Comments":[]}
+{"id":3880,"text":"lkR should be equal to 35.","label":[[0,3,"VARIABLE"],[11,19,"eqConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3881,"text":"tk should be equal to 60.","label":[[0,2,"VARIABLE"],[10,18,"eqConst"],[22,24,"PARAMETER"]],"Comments":[]}
+{"id":3882,"text":"yu90 must be equal to 700.","label":[[0,4,"VARIABLE"],[10,18,"eqConst"],[22,25,"PARAMETER"]],"Comments":[]}
+{"id":3883,"text":"h should not equal 5.","label":[[0,1,"VARIABLE"],[9,18,"neConst"],[19,20,"PARAMETER"]],"Comments":[]}
+{"id":3884,"text":"dt must not equal 8.","label":[[0,2,"VARIABLE"],[8,17,"neConst"],[18,19,"PARAMETER"]],"Comments":[]}
+{"id":3885,"text":"kl2 needs to not equal -3.","label":[[0,3,"VARIABLE"],[13,22,"neConst"],[23,25,"PARAMETER"]],"Comments":[]}
+{"id":3886,"text":"nr must not equal -2.","label":[[0,2,"VARIABLE"],[8,17,"neConst"],[18,20,"PARAMETER"]],"Comments":[]}
+{"id":3887,"text":"KK is of a magnitude not equal to 6.","label":[[0,2,"VARIABLE"],[21,30,"neConst"],[34,35,"PARAMETER"]],"Comments":[]}
+{"id":3888,"text":"It is imperative that king90 not equals a value of 4.","label":[[22,28,"VARIABLE"],[29,39,"neConst"],[51,52,"PARAMETER"]],"Comments":[]}
+{"id":3889,"text":"The condition demands that nddk not equal -2.","label":[[27,31,"VARIABLE"],[32,41,"neConst"],[42,44,"PARAMETER"]],"Comments":[]}
+{"id":3890,"text":"ml must be set not equal to 4.","label":[[0,2,"VARIABLE"],[15,24,"neConst"],[28,29,"PARAMETER"]],"Comments":[]}
+{"id":3891,"text":"P5 is not equal to -60.","label":[[0,2,"VARIABLE"],[6,15,"neConst"],[19,22,"PARAMETER"]],"Comments":[]}
+{"id":3892,"text":"the house32 is not equal to 18.","label":[[4,11,"VARIABLE"],[15,24,"neConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3893,"text":"masters must be different than 320.","label":[[0,7,"VARIABLE"],[13,30,"neConst"],[31,34,"PARAMETER"]],"Comments":[]}
+{"id":3894,"text":"MS6 needs to be different than 30.","label":[[0,3,"VARIABLE"],[13,30,"neConst"],[31,33,"PARAMETER"]],"Comments":[]}
+{"id":3895,"text":"SZ 9 must be different than 55.","label":[[0,4,"VARIABLE"],[10,27,"neConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3896,"text":"Esj must be different than -6.","label":[[0,3,"VARIABLE"],[9,26,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3897,"text":"dt needs to be different than 20 in value.","label":[[0,2,"VARIABLE"],[12,29,"neConst"],[30,32,"PARAMETER"]],"Comments":[]}
+{"id":3898,"text":"Fsr must be different than to 80.","label":[[0,3,"VARIABLE"],[9,26,"neConst"],[30,32,"PARAMETER"]],"Comments":[]}
+{"id":3899,"text":"Klid should be different than to 35.","label":[[0,4,"VARIABLE"],[12,29,"neConst"],[33,35,"PARAMETER"]],"Comments":[]}
+{"id":3900,"text":"Kim needs to be distinct than to 50.","label":[[0,3,"VARIABLE"],[13,29,"neConst"],[33,35,"PARAMETER"]],"Comments":[]}
+{"id":3901,"text":"Eoyee must not be equal to 55.","label":[[0,5,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3902,"text":"iretor should not be equal to 75.","label":[[0,6,"VARIABLE"],[14,26,"neConst"],[30,32,"PARAMETER"]],"Comments":[]}
+{"id":3903,"text":"Gogo should not be equal to 75.","label":[[0,4,"VARIABLE"],[12,24,"neConst"]],"Comments":[]}
+{"id":3904,"text":"Wafon must not be equal to 55.","label":[[0,5,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3905,"text":"fel must not be equal to 90.","label":[[0,3,"VARIABLE"],[9,21,"neConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3906,"text":"nied2 needs to not be equal to 70.","label":[[0,5,"VARIABLE"],[15,27,"neConst"],[31,33,"PARAMETER"]],"Comments":[]}
+{"id":3907,"text":"Pks should not be equal to 45.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3908,"text":"ue should not be equal to 450.","label":[[0,2,"VARIABLE"],[10,22,"neConst"],[26,29,"PARAMETER"]],"Comments":[]}
+{"id":3909,"text":"ow3 must not be equal to 650.","label":[[0,3,"VARIABLE"],[9,21,"neConst"],[25,28,"PARAMETER"]],"Comments":[]}
+{"id":3910,"text":"orf15 should not be equal to 375.","label":[[0,5,"VARIABLE"],[13,25,"neConst"],[29,32,"PARAMETER"]],"Comments":[]}
+{"id":3911,"text":"Wafer3 should not be equal to 550.","label":[[0,6,"VARIABLE"],[14,26,"neConst"],[30,33,"PARAMETER"]],"Comments":[]}
+{"id":3912,"text":"biggye2 must not be equal to 7 in magnitude.","label":[[0,7,"VARIABLE"],[13,25,"neConst"],[29,30,"PARAMETER"]],"Comments":[]}
+{"id":3913,"text":"eo should not be equal to 50.","label":[[0,2,"VARIABLE"],[10,22,"neConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3914,"text":"Sw1 should not be equal to 550.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,30,"PARAMETER"]],"Comments":[]}
+{"id":3915,"text":"OZ must not be equal to 7.","label":[[0,2,"VARIABLE"],[8,20,"neConst"],[24,25,"PARAMETER"]],"Comments":[]}
+{"id":3916,"text":"ighte should not be equal to 18.","label":[[0,5,"VARIABLE"],[13,25,"neConst"],[29,31,"PARAMETER"]],"Comments":[]}
+{"id":3917,"text":"n1 should not be equal to 150,000.","label":[[0,2,"VARIABLE"],[10,22,"neConst"],[26,33,"PARAMETER"]],"Comments":[]}
+{"id":3918,"text":"ll2 should not be equal to 55.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3919,"text":"ter1 must not be equal to 40.","label":[[0,4,"VARIABLE"],[10,22,"neConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3920,"text":"Hland9 should not be equal to 4.","label":[[0,6,"VARIABLE"],[14,26,"neConst"],[30,31,"PARAMETER"]],"Comments":[]}
+{"id":3921,"text":"Ge3 should not be equal to 130.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,30,"PARAMETER"]],"Comments":[]}
+{"id":3922,"text":"Ebd must not be equal to 1800.","label":[[0,3,"VARIABLE"],[9,21,"neConst"],[25,29,"PARAMETER"]],"Comments":[]}
+{"id":3923,"text":"tate2 should not be equal to 20.","label":[[0,5,"VARIABLE"],[13,25,"neConst"],[29,31,"PARAMETER"]],"Comments":[]}
+{"id":3924,"text":"OI6 should not be equal to 280.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,30,"PARAMETER"]],"Comments":[]}
+{"id":3925,"text":"EK must not be equal to 3.","label":[[0,2,"VARIABLE"],[8,20,"neConst"],[24,25,"PARAMETER"]],"Comments":[]}
+{"id":3926,"text":"fnk should not be equal to 12.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3927,"text":"de should not be equal to 70,000.","label":[[0,2,"VARIABLE"],[10,22,"neConst"],[26,32,"PARAMETER"]],"Comments":[]}
+{"id":3928,"text":"dBe8 should not be equal to 35.","label":[[0,4,"VARIABLE"],[12,24,"neConst"],[28,30,"PARAMETER"]],"Comments":[]}
+{"id":3929,"text":"MpD must not be equal to 25.","label":[[0,3,"VARIABLE"],[9,21,"neConst"],[25,27,"PARAMETER"]],"Comments":[]}
+{"id":3930,"text":"LZR should not be equal to 40.","label":[[0,3,"VARIABLE"],[11,23,"neConst"],[27,29,"PARAMETER"]],"Comments":[]}
+{"id":3931,"text":"p3 should not be equal to 70.","label":[[0,2,"VARIABLE"],[10,23,"neConst"],[26,28,"PARAMETER"]],"Comments":[]}
+{"id":3932,"text":"u90 must not be equal to 750.","label":[[0,3,"VARIABLE"],[9,21,"neConst"],[25,28,"PARAMETER"]],"Comments":[]}

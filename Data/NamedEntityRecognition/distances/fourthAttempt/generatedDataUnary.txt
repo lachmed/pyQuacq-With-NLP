@@ -1,0 +1,296 @@
+The separation between rxs5 and point 3 should not equal 7
+The gap from location1 to location2 must not match 9
+The measure of separation between g5 and reg should not equal 8
+The gap between position 3 and position 8 should not equal 20
+The length between QwEr and dTyHj should be different than 8.
+The separation between p77 and A8 should not equal 7.
+The gap between on 3 and posi8 should not equal 20.
+The length between AqWsH and ByFt9R should be different than 8
+The gap between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must not be equal to 15.
+The separation between ZxYbRa and bK8T4 should equal 7.
+The gap from loc4 to ls2 must match 9.
+The gap between UK8763 and plcekion8 should equal 20.
+The measure of separation between vex and rtex must be 45.
+The duration from event1 to event3 should equal 7 hours.
+The gap between cityA and cityB must match a distance of 50 kilometers.
+The measure of separation between objectA and objectB should equal 5 units.
+The length between destinationX and destinationY must be exactly 100 meters.
+The gap between index3 and index9 should equal 6.
+The distance between station1 and station2 should be identical to 2 miles.
+The gap from JJJ to AZ must be less than 9.
+The gap between OExc and 9LKHvc should be less than 20.
+The measure of separation between DFGVE5 and dfvv must be less than 453.
+The duration from evt45 to eIUHN should be less than 87 hours.
+The measure of separation between bjtA and ectB should be less than 235 units.
+The length between stiionX and tinati must be less than 100 meters.
+The gap between lso and p8Opp should be less than or equal to 20.
+The measure of separation between FVV and Nkv8 must be less than or equal to 0.
+The duration from CEjd to FKJ87 should be less than or equal to 7 hours.
+The measure of separation between Z3jA and cfct should be less than or equal to 5 units.
+The length between de875onX and dssz must be less than or equal to 750 meters.
+The gap between osonZ and JHNL87 should be greater than 20.
+The measure of separation between OG7 and 76TG must be greater than 76.
+The duration from v9YHJ to e67nt should exceed 7 hours.
+The measure of separation between KJG09876 and G6GJ5G should be greater than 5 units.
+The length between dPKJHFG and 999Jatio must be greater than 100 meters.
+The gap from home3 to vgg must be greater than or equal to 9.
+The gap between omoP0983 and pt23En8 should be greater than or equal to 20.
+The measure of separation between OKNne and OJYH must be greater than or equal to 15.
+The duration from KIGF to cent should exceed or equal 7 hours.
+The measure of separation between KNZ7c and HGHJ77 should be greater than or equal to 5 units.
+The length between JB67 and JUZK8Y must be greater than or equal to 100 meters.
+The required span from month4 to lease3 must measure precisely 32 units.
+Maintain a gap of exactly 20 units between Q1 and Z.
+The discrepancy between cv35 and omo2 should amount to 9, absolute in value.
+Keep a gap of exactly 9 units between Element K1 and Element K99, with the absolute difference.
+The absolute difference between Quantity K1 and Quantity K99 should equal 9 units.
+The separation between Phase 1 and Phase 2 must measure exactly 20 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should equal 9.
+The required gap between Site 1 and Site 2 should be exactly 20 units.
+The absolute disparity between Value K1 and Value K99 must equal 9 units.
+The separation between Segment 1 and Segment 2 must measure exactly 20 units.
+The interval between Region 1 and Region 2 must be 9 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should amount to 32.
+Ensure a distance of exactly 20 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be equal to 9, absolute in value.
+Keep a gap of 32 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should equal 9 units.
+The required span from gh to place3 must not measure 23 units.
+Maintain a gap different than 15 units between 24Ds and Z23Z.
+The discrepancy between DC675 and LKIK0 should not amount to 7, absolute in value.
+The interval between Checkpoint A and Checkpoint B must not be 19 units long.
+the distance between C and House5 must not equal 9
+The required span from N to c must be greater than 23 units.
+Maintain a gap greater than 15 units between d1 and e.
+The discrepancy between Z5 and t0 should be greater than 7, absolute in value.
+Ensure a distance greater than 27 is maintained between YJKd and o6U3.
+The distance between 3JKC and HoJK5 must be greater than 9.
+The required span from JS to P900 must be greater than or equal to 30 units.
+Maintain a gap greater than or equal to 12 units between d1 and e.
+Ensure a distance greater than or equal to 35 is maintained between sd and pknd.
+The distance between C23 and HLse must be greater than or equal to 7.
+The required span from GHJ to BB must be less than 50 units.
+Maintain a gap less than 30 units between d1 and e.
+The discrepancy between 2Z5 and ppid0 should be less than 12, absolute in value.
+Ensure a distance less than 35 is maintained between E90 and LHONukl.
+The distance between CI90 and Oplm must be less than 15.
+The required span from A to SS must be less than or equal to 55 units.
+Maintain a gap less than or equal to 35 units between d1 and e.
+The discrepancy between NGCv5 and sid 0 should be less than or equal to 15, absolute in value.
+Ensure a distance less than or equal to 40 is maintained between KJHNd and oRT7.
+The separation between NodeA and KaB must be less than or equal to 30 units precisely.
+The distance between C and ERHJ must be less than or equal to 20.
+The distance between ABC2 and Fy56 must be less than or equal to 1290.
+The length between Mn12 and vB3uH should be equal to 8.
+The length between fH6G7 and TqP3E should be equal to 9.
+The separation between r88tG and LfH3j should be less than 7.
+The length between vF5Df and m2r9Q should be less than 8.
+The length between pJ6Bf and jX7Rk should be less than 9.
+The separation between rTt and lD9Vt should be less than or equal to 7.
+The length between KkDq and Q3Hv should be less than or equal to 8.
+The length between r7gHt and qJ5Oj should be less than or equal to 9.
+The separation between mR3z and cE3Bh should be greater than 7.
+The length between pXw6k and aD3Ht should be greater than 8.
+The length between v2fNj and xU7Ug should be greater than 9.
+The separation between m3Qwe and zP4Vq should be greater than or equal to 7.
+The length between tL0Gh and fP3Tt should be greater than or equal to 8.
+The length between l7wFg and iR3Ej should be greater than or equal to 9.
+Ensure a distance of 32 is maintained between pY2Zt and qJ8Hk.
+The interval between AJ2x4 and BbTyT9 must be 20 units long.
+Keep a distance of 32 meters between aPqB3 and bT5vX.
+Maintain a gap of 32 units between xTv2q and YrH9b.
+The required span from xM1L9 to yT2Ht should measure precisely 20 meters.
+Maintain a distance of 20 steps between PgBv5 and qUyL4.
+The required gap between A3p9H and bBbN6 should be exactly 32 units.
+Ensure a distance of 27 is not maintained between pGm4Vx and Qh8lM.
+Keep a distance different than 33 meters between aQ7Ht and bM9Lq.
+Maintain a gap of 36 units between xU9Rt and Yv2Xk.
+The required span from Xr7tH to yN9Jh should not measure precisely 15 meters.
+Maintain a distance different than 21 steps between pP2Rt and qE7Mj.
+The required gap between A2fGh and bQ8Lm should not be exactly 27 units.
+The interval between Aq7tY and bPrR7x must be greater than 19 units long.
+Keep a distance greater than 33 meters between aJ4Vt and BU6lP.
+Maintain a gap greater than 36 units between x9XvD and Yj3Tm.
+The required span from X7mTH to yL5pJ should measure greater than 15 meters.
+Maintain a distance greater than 21 steps between PE7fR and qK2gM.
+The discrepancy between Zo5AT and pLp100V should be greater than or equal to 5, absolute in value.
+The interval between Aw3kT and BQbR8 must be greater than or equal to 15 units long.
+Keep a distance greater than or equal to 30 meters between a1Y1t and bBp7q.
+Maintain a gap greater than or equal to 33 units between xB8tW and yU2mH.
+The required span from Xr7tH to yN9Jh should measure greater than or equal to 14 meters.
+Maintain a distance greater than or equal to 19 steps between P9fJm and qL2Wj.
+The interval between Atx2k and bQkR7x must be less than 25 units long.
+Keep a distance less than 50 meters between aX4Tm and bY7Kj.
+Maintain a gap less than 60 units between xM9Gt and yR2kh.
+The required span from XTk7Lm to yH2Tb should measure less than 20 meters.
+Maintain a distance less than 30 steps between Pa3Zq and qN6Mk.
+The interval between Aq2hT and bpR5q must be less than or equal to 30 units long.
+Keep a distance less than or equal to 55 meters between aX8vt and bM3pP.
+Maintain a gap less than or equal to 65 units between xE4Jt and yB9Lk.
+The required span from XqT5Nj to yU7Trm should measure less than or equal to 25 meters.
+Maintain a distance less than or equal to 35 steps between PDf9R and qJ2Vx.
+The distance between Xy7dE and mZ2fX should be distinct from 0.
+The distance between Tj3L and nRm4 should be distinct from 718.
+The distance between Gg9fS and rtV2Kl should be identical to 12.
+The distance between Qb3Tq and e7gKrF should be less than 987.
+The distance between Aq7TgE and Hf2vFp should be less than or equal to -182.
+The distance between zR8q and mYk1p should be greater than 68.
+The distance between Pk6mVj and eT9nD should be greater than or equal to 12.
+The gap from pTq7j to xYz4T must not match 12.
+The gap from hJ1f to vFkm must be less than or equal to -18.
+The gap from JJJ2d to rTm2Ae must be greater than 390.
+Maintain a distance of 32 steps between locAq and locBs.
+Maintain a distance different than 38 steps between locXr and locYt.
+Maintain a distance greater than 38 steps between locMf and locNu.
+Maintain a distance greater than or equal to 40 steps between locJg and locKj.
+Maintain a distance less than 45 steps between locRt and locSh.
+Maintain a distance less than or equal to 50 steps between locPm and locQw.
+The separation between Xy7dE and mZ2fX should contrast with 245.
+The measure of separation between Mc3tr and xR9BtYqP should not equal 34.
+The separation between AF33 and B7ffs should contrast with 56.
+The measure of separation between KfD1mC and Pg1x9j5R should equal -6788.
+The separation between C3hGF and D7oJfd should be precisely 77.
+The separation between E3gkD and F7deOj should be less than 35.
+The measure of separation between UV and V29nH should be less than or equal to 668.
+The separation between G3KbV and H7dRTW should be less than or equal to 453.
+The measure of separation between ON1vC and S2zRx should be greater than 988.
+The separation between I3wD and J7e3S should be greater than 243.
+The measure of separation between Country1Pq and og2AB should be greater than or equal to 4.
+The separation between K3bQz and L7o9Jp should be greater than or equal to 45.
+The measure of separation between KfD1hR and Pg1x9j2W should equal 444.
+The measure of separation between P3rTy and eLgHm2r should be less than 23.
+The distance between Qs7T and VjP4zH should be dissimilar to 10.
+The distance between Lm6Fw and Gk1vXjZs should be dissimilar to 234.
+The distance between Z3Gt and Pq4yH should be exactly 10.
+The separation between Qp7rL and Zg9KtF should be precisely 244.
+The distance between Ke3Y and Cx1Wj should be less than 90.
+The separation between Zk8V and Oq5Gp should be less than 0.
+The distance between Jh4D and Nt3Xc should be less than or equal to 13.
+The separation between Zx2A and Pr9UwB should be less than or equal to 56.
+The distance between eM9F and yJ2Z should be greater than 35.
+The separation between Yr8J and Qf1dS should be greater than 63.
+The distance between Zx1BvR and Ut3A should be greater than or equal to -189.
+The separation between Qs5tD and Nc7XjMz should be greater than or equal to 10.
+Ensure a span of RH5yP is maintained between qU6sJ and dZ2A.
+Ensure a span of CvP8j is not maintained between wX3fR and eB9K.
+Ensure a span greater than Mv9Gq is maintained between pF2h and bN7kZ.
+Ensure a span greater than or equal to A2sWdY is maintained between lT3fH and jZ4mB.
+Ensure a span less than S6uVrX is maintained between gO7fD and hM2eC.
+Ensure a span less than or equal to U5bNwF is maintained between rV8cL and mT2zQ.
+The distance between pAq2W and TjL4k should equal 12.
+The distance between qZr9g and eNt3P should not exceed 86.
+The distance between xY7j and hM5bD should not exceed 3.
+The distance between cGh7K and vB2qR should exceed -78.
+The distance between pJ8mSd and xT9cG should exceed or equal 976.
+The separation between Tm4aB and Gp2kH must equal 20 units precisely.
+The separation between Ex8cL and sV3fX must measure exactly 32 units.
+The separation between zY9wD and qN7pE must not equal 18 units precisely.
+The separation between fR6uH and Kt2bM must not measure exactly 33 units.
+The separation between VqP8wE and AkbM must be greater than 18 units precisely.
+The separation between RxA9dE and DkY2nC must measure greater than 33 units.
+The separation between jZ9mB and Qp6uRyT must be greater than or equal to 20 units precisely.
+The separation between Df6bM and Cx1sV must measure greater than or equal to 28 units.
+The separation between Ty4eK and XhM7qBvS must be less than 25 units precisely.
+The separation between Tz5cV and IaM2kF must measure less than 50 units.
+The separation between qV9nT and sPlB must measure less than or equal to 55 units.
+The gap between qA5p and wJ9mF should be less than 6.
+The gap between xK4nS and tR2dV should be less than or equal to -9.
+The gap between zP8rHj and yT3mBc should be greater than 136.
+The gap between lO7wD and qV5dE should be greater than or equal to 2445.
+The magnitude of the difference between Kx2cZ and Kj9lPq should equal 34.
+The magnitude of the difference between Df4nL and Vm1jP should not equal 8.
+The magnitude of the difference between Fq8dM and Hh6sXz should be greater than 345.
+The magnitude of the difference between Jg7rN and Wp2xT should be greater than or equal to 10.
+The magnitude of the difference between Uj9yR and Zk3wF should be less than 16.
+The magnitude of the difference between Mv2cD and Xk9lV should be less than or equal to 18.
+The distance between qH5p and fR9jF should be less than 2 miles.
+The distance between xK4nS and wR2dG should be less than or equal to 2 miles.
+The distance between zP8rHj and yT3mBc should be greater than 2 miles.
+The distance between lO7wD and qV5dE should be greater than or equal to 2 miles.
+The required extent from mV2cZ to fKj9lP should be exactly 20 meters.
+The required extent from aD5sL to pV6jT should not be exactly 14 meters.
+The required extent from fQ8dE to hM6sZk should be greater than 14 meters.
+The required extent from jG7rF to wP2xFz should be greater than or equal to 20 meters.
+The required extent from dJ9yQ to vZ3wRc should be less than 30 meters.
+The required extent from cM2nD to tK9lV should be less than or equal to 35 meters.
+The gap between v7 and rX must be less than 50 kilometers.
+The gap between jH2 and uP must be less than or equal to 34.
+The gap between w3q and d8w must be greater than 73.
+The gap between s7d9 and aH5 must be greater than or equal to 759.
+The required extent from xYz to q2L should be exactly 32.
+Ensure a span of 20 is maintained between zLm and k9d.
+The required extent from p5F to hA1 should not be exactly 45 kilometers.
+Ensure a span of 18 is not maintained between nB6 and yTq.
+The required extent from f8X to t2R should be greater than 45.
+Ensure a span greater than 18 is maintained between lP9 and v3M.
+The required extent from gG4 to rKs should be greater than or equal to 50 kilometers.
+Ensure a span greater than or equal to 16 is maintained between eV2 and mN5.
+The required extent from b7W to s6Z should be less than 60 kilometers.
+The required extent from oH3 to uJ8 should be less than or equal to 65 kilometers.
+Ensure a span less than or equal to 45 is maintained between c1D and pT4.
+The magnitude of the dissimilarity between aH2 and rT8 should equal 628.
+Keep a gap different than 3 units between fX6 and mB7, with the absolute difference.
+The magnitude of the dissimilarity between pL9 and tQ2 should not equal 7.
+Keep a gap greater than 3 units between sG4 and uZ5, with the absolute difference.
+The magnitude of the dissimilarity between dY1 and vW3 should be greater than 7.
+Keep a gap greater than or equal to 2 units between jK5 and xN9, with the absolute difference.
+The magnitude of the dissimilarity between qR7 and lM8 should be greater than or equal to 9.
+Keep a gap less than 5 units between wP4 and zC6, with the absolute difference.
+Keep a gap less than or equal to 7 units between eS2 and bF3, with the absolute difference.
+The magnitude of the dissimilarity between hV6 and nU9 should be less than or equal to 14.
+The absolute difference between mJ7x and fT2z should not equal 12.
+The absolute difference between qR5y and hK9w should be greater than 234.
+The absolute difference between dP8v and lC3u should be greater than or equal to 8 units.
+The absolute difference between aW2s and rN4t should be less than 10 units.
+The absolute difference between pE6y and gQ1x should be less than or equal to 12 units.
+The separation between aH7d and rT3m must not measure exactly 16 units.
+The separation between qF9x and wZ5n must measure greater than 16 units.
+The separation between dK2y and vP8e must measure greater than or equal to 18 units.
+The separation between sW6p and lM1f must measure less than 30 units.
+The separation between cG4q and tN5z must measure less than or equal to 35 units.
+The magnitude of the dissimilarity between 8y and AB12z should not equal 12.
+The magnitude of the dissimilarity between KLM9 and PQR4 should be greater than 12.
+The magnitude of the dissimilarity between 3D12 and XYZ78 should be greater than or equal to 15.
+The magnitude of the dissimilarity between PQRS2 and JKL6 should be less than 20.
+The magnitude of the dissimilarity between MNO7 and 2EF11 should be less than or equal to 22.
+The required gap between 9a and Y12z should not be exactly 17 units.
+The required gap between LKJ6 and MNO2 should be greater than 134.
+The required gap between P1q and R8b should be greater than or equal to 16 units.
+The required gap between STU5 and V2c should be less than 30 units.
+The required gap between W3d and EF9 should be less than or equal to 35 units.
+The absolute disparity between Z9xy and A12Bz must not equal 6 units.
+The absolute disparity between Lm8n and X87Bq must be greater than 6 units.
+The absolute disparity between D1tG and W78kL must be greater than or equal to 13.
+The separation between RQ1o and T2xz must be greater than or equal to 5, absolute in value.
+The absolute disparity between F3rp and IJK12s must be less than 15 units.
+The absolute disparity between Cb9v and G2kj must be less than or equal to 17 units.
+The separation between Tm4qa and U7vg must not measure exactly 21 units.
+The separation between Sa8M and zB56 must measure greater than 21 units.
+The separation between OX9i and PD31m must measure greater than or equal to 23 units.
+The separation between wQ4sR and L8fn must measure less than 35 units.
+The separation between YT9dA and RF2bb must measure less than or equal to 40 units.
+The interval between Ix8z and zW7H must not be 7 units apart in absolute terms.
+The interval between A4msP and tI9v must be greater than 344 units apart in absolute terms.
+The interval between cK2nd and hB67F must be greater than or equal to 25 units apart in absolute terms.
+The interval between H3na and K2mjO must be less than 60 units apart in absolute terms.
+The interval between sD4fl and ZK9jR must be less than or equal to 70 units apart in absolute terms.
+Ensure a distance of exactly X8tL is not maintained between mJ9H and nK7Y.
+Ensure a distance greater than A2kP is maintained between F3jU and qH9o.
+Ensure a distance greater than or equal to rD5a is maintained between xI4E and Z2sC.
+Ensure a distance less than Ix3nm is maintained between oT9x and pR2V.
+Ensure a distance less than or equal to sK6fA is maintained between V9kb and jC2N.
+The separation between L7oQA and R4dP must not be equal to 6, absolute in value.
+The separation between tV6qZ and mI2Y must be greater than 6, absolute in value.
+The separation between nF4jH and hK8rU must be less than 10, absolute in value.
+The separation between W3DkM and Y2tP must be less than or equal to 12, absolute in value.
+Keep a gap different than C4aEB units between gK9nV and sI5xJ.
+Keep a gap greater than oQ8kF units between bT6z and hL3rM.
+Keep a gap greater than or equal to P7bJ units between F3kR and mO2qT.
+Keep a gap less than rG9fL units between tP7xU and xH3vM.
+Keep a gap less than or equal to oW6qN units between J4bB and iL9jT.
+The absolute difference between U3vH and nY8k must not equal 4 units.
+The absolute difference between Lx6fR and O4hVB should be greater than 4 units.
+The absolute difference between R8gPT and C3mU should be greater than or equal to 6 units.
+The absolute difference between yV9nX and qA4jM should be less than 8 units.
+The absolute difference between kS7aL and tW3fD should be less than or equal to 10 units.

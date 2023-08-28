@@ -1,0 +1,108 @@
+the value of cell1 should be greater than 5
+the temperature of the room 3 must be greater than 24
+the value of familly 4 must be greater than 10
+The quantity in box3 should exceed 100 units.
+The speed of the car1 must surpass 80 kilometers per hour.
+The sales revenue for the month5 should be higher than $10,000.
+The length of the rope 2 must extend beyond 2 meters.
+The level of humidity in the greenhouse9 should rise above 70%.
+The number of likes on the post 19 needs to exceed 500.
+The concentration of sugar in the solution3 must be greater than 5%.
+The time taken to complete the task 6 should be longer than 30 minutes.
+The population of the city2 should exceed 100,000 inhabitants.
+The height of the building 4 needs to surpass 50 stories.
+The voting percentage in the election9 must be higher than 60%.
+The acidity level of the water2 should be greater than pH 6.
+The score in the game10 needs to exceed 100 points.
+The attendance at the event 1 must surpass 1,000 participants.
+The salary of the employee 3 should be higher than $50,000 per year.
+The age of the applicant18 must be above or equal to 18 years for the job position.
+The rating of the movie 12 should be higher than or equal to 4 stars.
+The amount of rainfall 2 in the region needs to exceed or equal 50 millimeters for effective crop growth.
+The weight of the package3 should be above 5 kilograms.
+The temperature in the kitchen 1 must be higher than or equal to 24 degrees Celsius.
+The value of stock portfolio 7 must be greater than 10,000 dollars.
+The capacity of the storage tank 9 should exceed 100 liters.
+The maximum speed of the vehicle2 must surpass 80 miles per hour.
+The quarterly profit for the company3 should be higher than or equal to $10,000.
+The length of the rope9 must be longer than 2 meters.
+The humidity level in the greenhouse 10 should rise above or equal to 70%.
+The number of followers on the social media post9 must exceed 500.
+The concentration of salt in the solution17 needs to be greater than or equal to 5%.
+The duration of the task 9 should be longer than or equal to 30 minutes.
+The population of the town10 must exceed or equal 100,000 residents.
+The height of the skyscraper3 needs to surpass or equal 50 floors.
+The voter turnout in the election1 must be higher than or equal to 60%.
+The pH level of the water 19 should be greater than or equal to 6.
+The value of box 5 should be less than 10.
+The temperature of the room7 must be lower than 20 degrees Celsius.
+The worth of family heirloom3 must be less than $1,000.
+The quantity in box1 should not exceed 50 units.
+The speed of the car9 must not surpass 60 kilometers per hour.
+The sales revenue for the month 4 should be lower than $5,000.
+The length of the rope 6 must not exceed 1 meter.
+The level of humidity in the greenhouse 2 should not go above 60%.
+The number of dislikes on the post12 should not exceed 100.
+The concentration of sugar in the solution 5 must be less than 3%.
+The time taken to complete the task8 should be shorter than 15 minutes.
+The population of the city 6 should not surpass 50,000 inhabitants.
+The height of the building2 must be lower than 30 stories.
+The voting percentage in the election 7 should not be higher than 40%.
+The acidity level of the water8 should be less than pH 5.
+The score in the game 3 must not exceed 50 points.
+The attendance at the event11 must not surpass 500 participants.
+The salary of the employee6 should be lower than $40,000 per year.
+The value of box 5 should be less than or equal to 10.
+The temperature of the room7 must be lower than or equal to 20 degrees Celsius.
+The worth of family heirloom3 must be less than or equal to $1,000.
+The quantity in box 1 should not exceed or equal 50 units.
+The speed of the car 9 must not surpass or equal 60 kilometers per hour.
+The sales revenue for the month4 should be lower than or equal to $5,000.
+The length of the rope 6 must not exceed or equal 1 meter.
+The level of humidity in the greenhouse2 should not go above or equal to 60%.
+The number of dislikes on the post12 should not exceed or equal 100.
+The concentration of sugar in the solution 5 must be less than or equal to 3%.
+The time taken to complete the task8 should be shorter than or equal to 15 minutes.
+The population of the city 6 should not surpass or equal 50,000 inhabitants.
+The height of the building2 must be lower than or equal to 30 stories.
+The voting percentage in the election 7 should not be higher than or equal to 40%.
+The acidity level of the water8 should be less than or equal to pH 5.
+The score in the game3 must not exceed or equal 50 points.
+The attendance at the event 11 must not surpass or equal 500 participants.
+The salary of the employee 6 should be lower than or equal to $40,000 per year.
+The temperature of the room 7 must not be equal to 20 degrees Celsius.
+The worth of family heirloom3 must not be equal to $1,000.
+The quantity in box 1 should not be equal to 50 units.
+The speed of the car9 must not be equal to 60 kilometers per hour.
+The sales revenue for the month4 should not be equal to $5,000.
+The length of the rope 6 must not be equal to 1 meter.
+The level of humidity in the greenhouse 2 should not be equal to 60%.
+The number of dislikes on the post12 should not be equal to 100.
+The concentration of sugar in the solution 5 must not be equal to 3%.
+The time taken to complete the task8 should not be equal to 15 minutes.
+The population of the city 6 should not be equal to 50,000 inhabitants.
+The height of the building2 must not be equal to 30 stories.
+The voting percentage in the election7 should not be equal to 40%.
+The acidity level of the water 8 should not be equal to pH 5.
+The score in the game3 must not be equal to 50 points.
+The attendance at the event 11 must not be equal to 500 participants.
+The salary of the employee 6 should not be equal to $40,000 per year.
+The age of the applicant 4 must not be equal to 30 years for the job position.
+The quantity in box1 must be equal to 50 units.
+The speed of the car9 must be equal to 60 kilometers per hour.
+The sales revenue for the month 4 must be equal to $5,000.
+The length of the rope6 must be equal to 1 meter.
+The level of humidity in the greenhouse 2 must be equal to 60%.
+The number of dislikes on the post 12 must be equal to 100.
+The concentration of sugar in the solution 5 must be equal to 3%.
+The time taken to complete the task 8 must be equal to 15 minutes.
+The population of the city 6 must be equal to 50,000 inhabitants.
+The height of the building2 must be equal to 30 stories.
+The voting percentage in the election 7 must be equal to 40%.
+The acidity level of the water8 must be equal to pH 5.
+The score in the game 3 must be equal to 50 points.
+The attendance at the event 11 must be equal to 500 participants.
+The salary of the employee 6 must be equal to $40,000 per year.
+The age of the applicant 4 must be equal to 30 years for the job position.
+The rating of the movie 8 must be equal to 3 stars.
+The amount of rainfall in the region 6 must be equal to 20 millimeters for effective crop growth.

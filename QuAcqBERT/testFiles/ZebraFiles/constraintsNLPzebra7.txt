@@ -1,0 +1,65 @@
+red is mandatory to have variations from green
+red is mandatory to have variations from ivory
+red is mandatory to have variations from yellow
+red is mandatory to have variations from blue
+green is mandatory to have variations from ivory
+green is mandatory to have variations from yellow
+green is mandatory to have variations from blue
+ivory is mandatory to have variations from yellow
+ivory is mandatory to have variations from blue
+yellow is mandatory to have variations from blue
+dog is mandatory to have variations from snails
+dog is mandatory to have variations from fox
+dog is mandatory to have variations from horse
+dog is mandatory to have variations from zebra
+snails is mandatory to have variations from fox
+snails is mandatory to have variations from horse
+snails is mandatory to have variations from zebra
+fox is mandatory to have variations from horse
+fox is mandatory to have variations from zebra
+horse is mandatory to have variations from zebra
+coffee is mandatory to have variations from tea
+coffee is mandatory to have variations from milk
+coffee is mandatory to have variations from orange juice
+coffee is mandatory to have variations from water
+tea is mandatory to have variations from milk
+tea is mandatory to have variations from orange juice
+tea is mandatory to have variations from water
+milk is mandatory to have variations from orange juice
+milk is mandatory to have variations from water
+orange juice is mandatory to have variations from water
+English is mandatory to have variations from Sparniad
+English is mandatory to have variations from Ukranian
+English is mandatory to have variations from Norwegian
+English is mandatory to have variations from Japanese
+Sparniad is mandatory to have variations from Ukranian
+Sparniad is mandatory to have variations from Norwegian
+Sparniad is mandatory to have variations from Japanese
+Ukranian is mandatory to have variations from Norwegian
+Ukranian is mandatory to have variations from Japanese
+Norwegian is mandatory to have variations from Japanese
+Old Gold is mandatory to have variations from Kools
+Old Gold is mandatory to have variations from Chesterfields
+Old Gold is mandatory to have variations from Lucky Strike
+Old Gold is mandatory to have variations from Parliaments
+Kools is mandatory to have variations from Chesterfields
+Kools is mandatory to have variations from Lucky Strike
+Kools is mandatory to have variations from Parliaments
+Chesterfields is mandatory to have variations from Lucky Strike
+Chesterfields is mandatory to have variations from Parliaments
+Lucky Strike is mandatory to have variations from Parliaments
+English necessitates being equal to red
+Sparniad necessitates being equal to dog
+coffee necessitates being equal to green
+Ukranian necessitates being equal to tea
+Old Gold necessitates being equal to snails
+Kools necessitates being equal to yellow
+Lucky Strike necessitates being equal to orange juice
+Japanese necessitates being equal to Parliaments
+green requires a greater amount than ivory
+the length of the gap between green and ivory necessitates being equal to 1
+the length of the gap between Chesterfields and fox necessitates being equal to 1
+the length of the gap between Kools and horse necessitates being equal to 1
+the length of the gap between Norwegian and blue necessitates being equal to 1
+milk necessitates being equal to 3
+Norwegian necessitates being equal to 1

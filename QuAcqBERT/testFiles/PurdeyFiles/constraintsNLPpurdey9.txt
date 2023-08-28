@@ -1,0 +1,27 @@
+family1 is recommended to have contrasts with family2
+family1 is recommended to have contrasts with family3
+family1 is recommended to have contrasts with family4
+family2 is recommended to have contrasts with family3
+family2 is recommended to have contrasts with family4
+family3 is recommended to have contrasts with family4
+bought1 is recommended to have contrasts with bought2
+bought1 is recommended to have contrasts with bought3
+bought1 is recommended to have contrasts with bought4
+bought2 is recommended to have contrasts with bought3
+bought2 is recommended to have contrasts with bought4
+bought3 is recommended to have contrasts with bought4
+paid1 is recommended to have contrasts with paid2
+paid1 is recommended to have contrasts with paid3
+paid1 is recommended to have contrasts with paid4
+paid2 is recommended to have contrasts with paid3
+paid2 is recommended to have contrasts with paid4
+paid3 is recommended to have contrasts with paid4
+bought1 demands equality with paid3
+family3 demands equality with bought1
+bought4 demands equality with paid4
+family2 demands equality with bought3
+bought3 demands equality with paid2
+family1 essential to have a higher value than bought1
+bought1 essential to have a higher value than bought3
+bought1 essential to have a higher value than bought4
+paid4 ought to be smaller than paid2

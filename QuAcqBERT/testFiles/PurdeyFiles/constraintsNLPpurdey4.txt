@@ -1,0 +1,27 @@
+family1 ought to be distinct from family2
+family1 ought to be distinct from family3
+family1 ought to be distinct from family4
+family2 ought to be distinct from family3
+family2 ought to be distinct from family4
+family3 ought to be distinct from family4
+bought1 ought to be distinct from bought2
+bought1 ought to be distinct from bought3
+bought1 ought to be distinct from bought4
+bought2 ought to be distinct from bought3
+bought2 ought to be distinct from bought4
+bought3 ought to be distinct from bought4
+paid1 ought to be distinct from paid2
+paid1 ought to be distinct from paid3
+paid1 ought to be distinct from paid4
+paid2 ought to be distinct from paid3
+paid2 ought to be distinct from paid4
+paid3 ought to be distinct from paid4
+bought1 is required to match paid3
+family3 is required to match bought1
+bought4 is required to match paid4
+family2 is required to match bought3
+bought3 is required to match paid2
+family1 ought to be greater than bought1
+bought1 ought to be greater than bought3
+bought1 ought to be greater than bought4
+paid4 ought to be lower than paid2

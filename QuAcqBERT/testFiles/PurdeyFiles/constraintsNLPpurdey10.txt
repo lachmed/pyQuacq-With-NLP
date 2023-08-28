@@ -1,0 +1,27 @@
+family1 is obligatory to exhibit differences from family2
+family1 is obligatory to exhibit differences from family3
+family1 is obligatory to exhibit differences from family4
+family2 is obligatory to exhibit differences from family3
+family2 is obligatory to exhibit differences from family4
+family3 is obligatory to exhibit differences from family4
+bought1 is obligatory to exhibit differences from bought2
+bought1 is obligatory to exhibit differences from bought3
+bought1 is obligatory to exhibit differences from bought4
+bought2 is obligatory to exhibit differences from bought3
+bought2 is obligatory to exhibit differences from bought4
+bought3 is obligatory to exhibit differences from bought4
+paid1 is obligatory to exhibit differences from paid2
+paid1 is obligatory to exhibit differences from paid3
+paid1 is obligatory to exhibit differences from paid4
+paid2 is obligatory to exhibit differences from paid3
+paid2 is obligatory to exhibit differences from paid4
+paid3 is obligatory to exhibit differences from paid4
+bought1 calls for an equal value as paid3
+family3 calls for an equal value as bought1
+bought4 calls for an equal value as paid4
+family2 calls for an equal value as bought3
+bought3 calls for an equal value as paid2
+family1 compulsory to be greater than bought1
+bought1 compulsory to be greater than bought3
+bought1 compulsory to be greater than bought4
+paid4 must be at a lower value than paid2

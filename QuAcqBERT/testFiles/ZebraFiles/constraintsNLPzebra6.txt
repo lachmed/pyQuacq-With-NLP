@@ -1,0 +1,65 @@
+red necessitates being dissimilar to green
+red necessitates being dissimilar to ivory
+red necessitates being dissimilar to yellow
+red necessitates being dissimilar to blue
+green necessitates being dissimilar to ivory
+green necessitates being dissimilar to yellow
+green necessitates being dissimilar to blue
+ivory necessitates being dissimilar to yellow
+ivory necessitates being dissimilar to blue
+yellow necessitates being dissimilar to blue
+dog necessitates being dissimilar to snails
+dog necessitates being dissimilar to fox
+dog necessitates being dissimilar to horse
+dog necessitates being dissimilar to zebra
+snails necessitates being dissimilar to fox
+snails necessitates being dissimilar to horse
+snails necessitates being dissimilar to zebra
+fox necessitates being dissimilar to horse
+fox necessitates being dissimilar to zebra
+horse necessitates being dissimilar to zebra
+coffee necessitates being dissimilar to tea
+coffee necessitates being dissimilar to milk
+coffee necessitates being dissimilar to orange juice
+coffee necessitates being dissimilar to water
+tea necessitates being dissimilar to milk
+tea necessitates being dissimilar to orange juice
+tea necessitates being dissimilar to water
+milk necessitates being dissimilar to orange juice
+milk necessitates being dissimilar to water
+orange juice necessitates being dissimilar to water
+English necessitates being dissimilar to Sparniad
+English necessitates being dissimilar to Ukranian
+English necessitates being dissimilar to Norwegian
+English necessitates being dissimilar to Japanese
+Sparniad necessitates being dissimilar to Ukranian
+Sparniad necessitates being dissimilar to Norwegian
+Sparniad necessitates being dissimilar to Japanese
+Ukranian necessitates being dissimilar to Norwegian
+Ukranian necessitates being dissimilar to Japanese
+Norwegian necessitates being dissimilar to Japanese
+Old Gold necessitates being dissimilar to Kools
+Old Gold necessitates being dissimilar to Chesterfields
+Old Gold necessitates being dissimilar to Lucky Strike
+Old Gold necessitates being dissimilar to Parliaments
+Kools necessitates being dissimilar to Chesterfields
+Kools necessitates being dissimilar to Lucky Strike
+Kools necessitates being dissimilar to Parliaments
+Chesterfields necessitates being dissimilar to Lucky Strike
+Chesterfields necessitates being dissimilar to Parliaments
+Lucky Strike necessitates being dissimilar to Parliaments
+English has to be equivalent to red
+Sparniad has to be equivalent to dog
+coffee has to be equivalent to green
+Ukranian has to be equivalent to tea
+Old Gold has to be equivalent to snails
+Kools has to be equivalent to yellow
+Lucky Strike has to be equivalent to orange juice
+Japanese has to be equivalent to Parliaments
+green demands a higher value than ivory
+the interval that separates green and ivory has to be equivalent to 1
+the interval that separates Chesterfields and fox has to be equivalent to 1
+the interval that separates Kools and horse has to be equivalent to 1
+the interval that separates Norwegian and blue has to be equivalent to 1
+milk has to be equivalent to 3
+Norwegian has to be equivalent to 1

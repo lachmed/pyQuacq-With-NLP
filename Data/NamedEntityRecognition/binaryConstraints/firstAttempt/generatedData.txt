@@ -1,0 +1,110 @@
+cell1 should be greater than cell2
+cell3 should be greater than cell5
+dog1 should be less or equal to dog2
+family1 should be less or equal to family9
+Cat1 should be greater or equal to cat2
+element3 should be greater or equal to cheeze4
+drink2 should be less than drink4
+computer10 should be less than mouse19
+brand5 should be the same as drink3
+paper5 should be equal to cable3
+cell12 should not be the same as cell7
+fruit1 should be different than phone4
+The temperature in city1 should exceed the temperature in city2.
+The sales of product1 should be higher than the sales of product3.
+The population of country3 should surpass the population of country6.
+The marathon time for runner1 should be faster than the time for runner5.
+The number of likes on post1 should be greater than the number of likes on post4.
+The IQ score of student3 should be higher than the IQ score of student7.
+The price of stock1 should be greater than the price of stock9.
+The weight of box2 should be greater than the weight of box3.
+The distance from point1 to point3 should be greater than the distance from point2 to point4.
+The rating of movie1 should be higher than the rating of movie6.
+The length of song2 should be longer than the length of song8.
+The speed of car1 should be greater than the speed of car4.
+The age of person2 should be greater than the age of person5.
+The budget for project1 should exceed the budget for project9.
+The height of tree1 should be greater than the height of tree2.
+The volume of container1 should be greater than the volume of container3.
+The salary of employee1 should be higher than the salary of employee7.
+The score of team1 should be greater than the score of team3.
+The attendance at event1 should be higher than the attendance at event4.
+The horsepower of engine2 should be greater than the horsepower of engine6.
+The brightness of light1 should be greater than the brightness of light5.
+The GPA of student1 should be higher than the GPA of student3.
+The number of subscribers for channel2 should be higher than the number of subscribers for channel9.
+The level of pollution in city1 should be greater than the level of pollution in city4.
+The income of household1 should be higher than the income of household6.
+The age of dog1 should be less than or equal to the age of dog3.
+The quantity of supplies in stock2 should be less than or equal to the quantity in stock7.
+The price of item1 should be less than or equal to the price of item5.
+The height of mountain1 should be less than or equal to the height of mountain4.
+The duration of flight2 should be less than the duration of flight6.
+The temperature in city1 should be lower than the temperature in city2.
+The sales of product1 should exceed the sales of product3.
+The population of country3 should be less than the population of country6.
+The marathon time for runner1 should be slower than the time for runner5.
+The number of likes on post1 should be fewer than the number of likes on post4.
+The IQ score of student3 should be lower than the IQ score of student7.
+The price of stock1 should be less than the price of stock9.
+The weight of box2 should be less than the weight of box3.
+The distance from point1 to point3 should be shorter than the distance from point2 to point4.
+The rating of movie1 should be lower than the rating of movie6.
+The length of song2 should be shorter than the length of song8.
+The speed of car1 should be slower than the speed of car4.
+The age of person2 should be younger than the age of person5.
+The budget for project1 should be lower than the budget for project9.
+The height of tree1 should be shorter than the height of tree2.
+The volume of container1 should be less than the volume of container3.
+The salary of employee1 should be lower than the salary of employee7.
+The score of team1 should be less than the score of team3.
+The attendance at event1 should be lower than the attendance at event4.
+The horsepower of engine2 should be less than the horsepower of engine6.
+The brightness of light1 should be lower than the brightness of light5.
+The GPA of student1 should be lower than the GPA of student3.
+The number of subscribers for channel2 should be fewer than the number of subscribers for channel9.
+The level of pollution in city1 should be lower than the level of pollution in city4.
+The income of household1 should be lower than the income of household6.
+The age of dog1 should be greater than or equal to the age of dog3.
+The quantity of supplies in stock2 should be greater than or equal to the quantity in stock7.
+The price of item1 should be greater than or equal to the price of item5.
+The height of mountain1 should be greater than or equal to the height of mountain4.
+The duration of flight2 should be greater than the duration of flight6.
+The temperature in city1 should be higher than or equal to the temperature in city2.
+The sales of product1 should be greater than or equal to the sales of product3.
+The population of country3 should surpass or equal the population of country6.
+The marathon time for runner1 should be faster than or equal to the time for runner5.
+The number of likes on post1 should be greater than or equal to the number of likes on post4.
+The IQ score of student3 should be higher than or equal to the IQ score of student7.
+The price of stock1 should be greater than or equal to the price of stock9.
+The weight of box2 should be greater than or equal to the weight of box3.
+The distance from point1 to point3 should be greater than or equal to the distance from point2 to point4.
+The rating of movie1 should be higher than or equal to the rating of movie6.
+The length of song2 should be longer than or equal to the length of song8.
+The speed of car1 should be greater than or equal to the speed of car4.
+The age of person2 should be greater than or equal to the age of person5.
+The budget for project1 should exceed or equal the budget for project9.
+The height of tree1 should be greater than or equal to the height of tree2.
+The volume of container1 should be greater than or equal to the volume of container3.
+The salary of employee1 should be higher than or equal to the salary of employee7.
+The score of team1 should be greater than or equal to the score of team3.
+The attendance at event1 should be higher than or equal to the attendance at event4.
+The horsepower of engine2 should be greater than or equal to the horsepower of engine6.
+The brightness of light1 should be greater than or equal to the brightness of light5.
+The GPA of student1 should be higher than or equal to the GPA of student3.
+The number of subscribers for channel2 should be higher than or equal to the number of subscribers for channel9.
+The level of pollution in city1 should be greater than or equal to the level of pollution in city4.
+The income of household1 should be higher than or equal to the income of household6.
+The age of dog1 should not be the same as the age of dog3.
+The quantity of supplies in stock2 should not be equal to the quantity in stock7.
+The price of item1 should not be equal to the price of item5.
+The height of mountain1 should not be equal to the height of mountain4.
+The duration of flight2 should not be equal to the duration of flight6.
+The weight of object1 should be less than the weight of object3.
+The length of road1 should be shorter than the length of road4.
+The age of child1 should be younger than the age of child5.
+The brightness of star1 should be dimmer than the brightness of star6.
+The score of team1 should be lower than the score of team5.
+The height of building1 should be shorter than the height of building3.
+The cost of item1 should be cheaper than the cost of item7.
+The quantity of apples in basket1 should be less than the quantity of oranges in basket2.

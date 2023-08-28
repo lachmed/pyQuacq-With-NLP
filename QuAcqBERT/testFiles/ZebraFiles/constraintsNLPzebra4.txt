@@ -1,0 +1,65 @@
+red ought to be distinct from green
+red ought to be distinct from ivory
+red ought to be distinct from yellow
+red ought to be distinct from blue
+green ought to be distinct from ivory
+green ought to be distinct from yellow
+green ought to be distinct from blue
+ivory ought to be distinct from yellow
+ivory ought to be distinct from blue
+yellow ought to be distinct from blue
+dog ought to be distinct from snails
+dog ought to be distinct from fox
+dog ought to be distinct from horse
+dog ought to be distinct from zebra
+snails ought to be distinct from fox
+snails ought to be distinct from horse
+snails ought to be distinct from zebra
+fox ought to be distinct from horse
+fox ought to be distinct from zebra
+horse ought to be distinct from zebra
+coffee ought to be distinct from tea
+coffee ought to be distinct from milk
+coffee ought to be distinct from orange juice
+coffee ought to be distinct from water
+tea ought to be distinct from milk
+tea ought to be distinct from orange juice
+tea ought to be distinct from water
+milk ought to be distinct from orange juice
+milk ought to be distinct from water
+orange juice ought to be distinct from water
+English ought to be distinct from Sparniad
+English ought to be distinct from Ukranian
+English ought to be distinct from Norwegian
+English ought to be distinct from Japanese
+Sparniad ought to be distinct from Ukranian
+Sparniad ought to be distinct from Norwegian
+Sparniad ought to be distinct from Japanese
+Ukranian ought to be distinct from Norwegian
+Ukranian ought to be distinct from Japanese
+Norwegian ought to be distinct from Japanese
+Old Gold ought to be distinct from Kools
+Old Gold ought to be distinct from Chesterfields
+Old Gold ought to be distinct from Lucky Strike
+Old Gold ought to be distinct from Parliaments
+Kools ought to be distinct from Chesterfields
+Kools ought to be distinct from Lucky Strike
+Kools ought to be distinct from Parliaments
+Chesterfields ought to be distinct from Lucky Strike
+Chesterfields ought to be distinct from Parliaments
+Lucky Strike ought to be distinct from Parliaments
+English is required to match red
+Sparniad is required to match dog
+coffee is required to match green
+Ukranian is required to match tea
+Old Gold is required to match snails
+Kools is required to match yellow
+Lucky Strike is required to match orange juice
+Japanese is required to match Parliaments
+green ought to be greater than ivory
+the span from green to ivory is required to match 1
+the span from Chesterfields to fox is required to match 1
+the span from Kools to horse is required to match 1
+the span from Norwegian to blue is required to match 1
+milk is required to match 3
+Norwegian is required to match 1

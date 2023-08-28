@@ -1,0 +1,300 @@
+The separation between marker5 and point 3 should not equal 7
+The gap from location1 to location2 must not match 9
+The measure of separation between reference g5 and reference dog should not equal 8
+The length between landmark3 and landmark4 must be dissimilar to 10
+The gap between position 3 and position 8 should not equal 20
+The distance between marker1 and marker2 should be distinct from 0
+The separation between reference spot 3 and reference spot 7 should contrast with 3
+The length between point 2 and point 8 should be different than 8
+The separation between p77 and A8 should not equal 7.
+The gap from location7 to location4 must not match 9.
+The measure of separation between reference M3 and reference point9 should not equal 8.
+The length between landmark9 and landmark4 must be dissimilar to 10.
+The gap between position 3 and position 8 should not equal 20.
+The distance between marker1 and marker2 should be distinct from 0.
+The separation between reference spot 3 and reference spot 7 should contrast with 3.
+The length between point 2 and B8 should be different than 8.
+The gap between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must not be equal to 15.
+The separation between Zebra and point3 should equal 7.
+The gap from loc4 to ls2 must match 9.
+The measure of separation between reference king1 and reference point2 should equal 8.
+The length between landmark3 and landmark4 must be exactly 10.
+The gap between position3 and position8 should equal 20.
+The distance between marker1 and marker2 should be identical to 0.
+The separation between reference spot3 and reference spot7 should be precisely 3.
+The length between M12 and point3 should be equal to 8.
+The distance between node1 and node5 should equal 12.
+The measure of separation between vertex4 and vertex8 must be 15.
+The duration from event1 to event3 should equal 7 hours.
+The gap between cityA and cityB must match a distance of 50 kilometers.
+The measure of separation between objectA and objectB should equal 5 units.
+The length between destinationX and destinationY must be exactly 100 meters.
+The gap between index3 and index9 should equal 6.
+The distance between station1 and station2 should be identical to 2 miles.
+The separation between landmark9 and landmark12 should be precisely 10.
+The length between point6 and point7 should be equal to 9.
+The separation between r88 and point3 should be less than 7.
+The gap from JJJ to AZ must be less than 9.
+The measure of separation between reference point1 and reference Elm2 should be less than 8.
+The length between landmark3 and landmark4 must be less than 10.
+The gap between position3 and position8 should be less than 20.
+The distance between marker1 and marker2 should be less than 0.
+The separation between reference spot3 and reference spot7 should be less than 3.
+The length between variable5 and point3 should be less than 8.
+The distance between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must be less than 15.
+The duration from event1 to event3 should be less than 7 hours.
+The gap between cityA and cityB must be less than 50 kilometers.
+The measure of separation between objectA and objectB should be less than 5 units.
+The length between destinationX and destinationY must be less than 100 meters.
+The gap between index3 and index9 should be less than 6.
+The distance between station1 and station2 should be less than 2 miles.
+The separation between landmark9 and landmark12 should be less than 10.
+The length between point6 and point7 should be less than 9.
+The separation between r and point3 should be less than or equal to 7.
+The gap from location1 to vf must be less than or equal to 9.
+The measure of separation between reference U and reference V29 should be less than or equal to 8.
+The length between landmark3 and landmark4 must be less than or equal to 10.
+The gap between position3 and position8 should be less than or equal to 20.
+The distance between marker1 and marker2 should be less than or equal to 0.
+The separation between reference spot3 and reference spot7 should be less than or equal to 3.
+The length between KKD and point3 should be less than or equal to 8.
+The distance between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must be less than or equal to 15.
+The duration from event1 to event3 should be less than or equal to 7 hours.
+The gap between cityA and cityB must be less than or equal to 50 kilometers.
+The measure of separation between objectA and objectB should be less than or equal to 5 units.
+The length between destinationX and destinationY must be less than or equal to 100 meters.
+The gap between index3 and index9 should be less than or equal to 6.
+The distance between station1 and station2 should be less than or equal to 2 miles.
+The separation between landmark9 and landmark12 should be less than or equal to 10.
+The length between point6 and point7 should be less than or equal to 9.
+The separation between marker2 and point3 should be greater than 7.
+The gap from JJJ2 to location2 must be greater than 9.
+The measure of separation between reference ON1 and reference S2 should be greater than 8.
+The length between landmark3 and landmark4 must be greater than 10.
+The gap between position3 and position8 should be greater than 20.
+The distance between marker1 and marker2 should be greater than 0.
+The separation between reference spot3 and reference spot7 should be greater than 3.
+The length between point6 and point3 should be greater than 8.
+The distance between node5 and node9 should exceed 12.
+The measure of separation between vertex4 and vertex8 must be greater than 15.
+The duration from event1 to event3 should exceed 7 hours.
+The gap between cityA and cityB must be greater than 50 kilometers.
+The measure of separation between objectA and objectB should be greater than 5 units.
+The length between destinationX and destinationY must be greater than 100 meters.
+The gap between index3 and index9 should be greater than 6.
+The distance between station1 and station2 should be greater than 2 miles.
+The separation between landmark9 and landmark12 should be greater than 10.
+The length between point6 and point7 should be greater than 9.
+The separation between m3 and point3 should be greater than or equal to 7.
+The gap from home3 to vgg must be greater than or equal to 9.
+The measure of separation between reference Country1 and reference dog2 should be greater than or equal to 8.
+The length between landmark3 and landmark4 must be greater than or equal to 10.
+The gap between position3 and position8 should be greater than or equal to 20.
+The distance between marker1 and marker2 should be greater than or equal to 0.
+The separation between reference spot3 and reference spot7 should be greater than or equal to 3.
+The length between point10 and point3 should be greater than or equal to 8.
+The distance between node5 and node9 should exceed or equal 12.
+The measure of separation between vertex4 and vertex8 must be greater than or equal to 15.
+The duration from event1 to event3 should exceed or equal 7 hours.
+The gap between cityA and cityB must be greater than or equal to 50 kilometers.
+The measure of separation between objectA and objectB should be greater than or equal to 5 units.
+The length between destinationX and destinationY must be greater than or equal to 100 meters.
+The gap between index3 and index9 should be greater than or equal to 6.
+The distance between station1 and station2 should be greater than or equal to 2 miles.
+The separation between landmark9 and landmark12 should be greater than or equal to 10.
+The length between point6 and point7 should be greater than or equal to 9.
+The required span from month4 to lease3 must measure precisely 32 units.
+Maintain a gap of exactly 20 units between Q1 and Z.
+The discrepancy between M5 and M20 should amount to 9, absolute in value.
+Ensure a distance of 32 is maintained between Point P and Point Q.
+The separation between Node A and Node B must equal 20 units precisely.
+Keep a gap of exactly 9 units between Element K1 and Element K99, with the absolute difference.
+The required extent from City X to City Y should be exactly 32 kilometers.
+The interval between Checkpoint A and Checkpoint B must be 20 units long.
+The absolute difference between Quantity K1 and Quantity K99 should equal 9 units.
+Maintain a distance of 32 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must measure exactly 20 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should equal 9.
+Ensure a span of 32 is maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should be exactly 20 units.
+The absolute disparity between Value K1 and Value K99 must equal 9 units.
+Keep a distance of 32 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must measure exactly 20 units.
+The magnitude of the difference between Index K1 and Index K99 should equal 9.
+Maintain a gap of 32 units between Point X and Point Y.
+The required extent from Station A to Station B should be exactly 20 meters.
+The interval between Region 1 and Region 2 must be 9 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should amount to 32.
+Ensure a distance of exactly 20 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be equal to 9, absolute in value.
+The required span from Point X to Point Y should measure precisely 20 meters.
+Keep a gap of 32 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should equal 9 units.
+Maintain a distance of 20 steps between Point P and Point Q.
+The separation between Node A and Node B must measure exactly 32 units.
+The magnitude of the dissimilarity between Element K1 and Element K99 should equal 9.
+Ensure a span of 20 is maintained between City X and City Y.
+The required gap between Checkpoint A and Checkpoint B should be exactly 32 units.
+The required span from gh to place3 must not measure 23 units.
+Maintain a gap different than 15 units between Q1 and Z.
+The discrepancy between M5 and M20 should not amount to 7, absolute in value.
+Ensure a distance of 27 is not maintained between Point P and Point Q.
+The separation between Node A and Node B must not equal 18 units precisely.
+Keep a gap different than 3 units between Element K1 and Element K99, with the absolute difference.
+The required extent from City X to City Y should not be exactly 45 kilometers.
+The interval between Checkpoint A and Checkpoint B must not be 19 units long.
+The absolute difference between Quantity K1 and Quantity K99 should not equal 5 units.
+Maintain a distance different than 38 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must not measure exactly 16 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should not equal 12.
+Ensure a span of 26 is not maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should not be exactly 17 units.
+The absolute disparity between Value K1 and Value K99 must not equal 6 units.
+Keep a distance different than 33 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must not measure exactly 21 units.
+The magnitude of the difference between Index K1 and Index K99 should not equal 8.
+Maintain a gap of 36 units between Point X and Point Y.
+The required extent from Station A to Station B should not be exactly 14 meters.
+The interval between Region 1 and Region 2 must not be 7 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should not amount to 28.
+Ensure a distance of exactly 19 units is not maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must not be equal to 6, absolute in value.
+The required span from Point X to Point Y should not measure precisely 15 meters.
+Keep a gap different than 29 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should not equal 4 units.
+Maintain a distance differnet than 21 steps between Point P and Point Q.
+The separation between Node A and Node B must not measure exactly 33 units.
+The magnitude of the dissimilarity between Element K1 and Element K99 should not equal 7.
+Ensure a span of 18 is not maintained between City X and City Y.
+The required gap between Checkpoint A and Checkpoint B should not be exactly 27 units.
+the distance between C and House5 must not equal 9
+The required span from N to c must be greater than 23 units.
+Maintain a gap greater than 15 units between d1 and e.
+The discrepancy between Z5 and cat0 should be greater than 7, absolute in value.
+Ensure a distance greater than 27 is maintained between pd and opd3.
+The separation between NodeA and KaB must be greater than 18 units precisely.
+Keep a gap greater than 3 units between Element K1 and Element K99, with the absolute difference.
+The required extent from HouseE to City Y should be greater than 45 kilometers.
+The interval between Checkpoint A and Checkpoint B must be greater than 19 units long.
+The absolute difference between Quantity K1 and Quantity K99 should be greater than 5 units.
+Maintain a distance greater than 38 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must measure greater than 16 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should be greater than 12.
+Ensure a span greater than 26 is maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should be greater than 17 units.
+The absolute disparity between Value K1 and Value K99 must be greater than 6 units.
+Keep a distance greater than 33 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must measure greater than 21 units.
+The magnitude of the difference between Index K1 and Index K99 should be greater than 8.
+Maintain a gap greater than 36 units between Point X and Point Y.
+The required extent from Station A to Station B should be greater than 14 meters.
+The interval between Region 1 and Region 2 must be greater than 7 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should be greater than 28.
+Ensure a distance greater than 19 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be greater than 6, absolute in value.
+The required span from Point X to Point Y should measure greater than 15 meters.
+Keep a gap greater than 29 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should be greater than 4 units.
+Maintain a distance greater than 21 steps between Point P and Point Q.
+The separation between Node A and Node B must measure greater than 33 units.
+The magnitude of the dissimilarity between Element K1 and Element K99 should be greater than 7.
+Ensure a span greater than 18 is maintained between City X and City Y.
+The distance between C and House5 must be greater than 9.
+The required span from JS to P900 must be greater than or equal to 30 units.
+Maintain a gap greater than or equal to 12 units between d1 and e.
+The discrepancy between Z5 and point 100 should be greater than or equal to 5, absolute in value.
+Ensure a distance greater than or equal to 35 is maintained between pd and opd3.
+The separation between NodeA and KaB must be greater than or equal to 20 units precisely.
+Keep a gap greater than or equal to 2 units between Element K1 and Element K99, with the absolute difference.
+The required extent from HouseE to City Y should be greater than or equal to 50 kilometers.
+The interval between Checkpoint A and Checkpoint B must be greater than or equal to 15 units long.
+The absolute difference between Quantity K1 and Quantity K99 should be greater than or equal to 8 units.
+Maintain a distance greater than or equal to 40 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must measure greater than or equal to 18 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should be greater than or equal to 15.
+Ensure a span greater than or equal to 28 is maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should be greater than or equal to 16 units.
+The absolute disparity between Value K1 and Value K99 must be greater than or equal to 7 units.
+Keep a distance greater than or equal to 30 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must measure greater than or equal to 23 units.
+The magnitude of the difference between Index K1 and Index K99 should be greater than or equal to 10.
+Maintain a gap greater than or equal to 33 units between Point X and Point Y.
+The required extent from Station A to Station B should be greater than or equal to 20 meters.
+The interval between Region 1 and Region 2 must be greater than or equal to 9 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should be greater than or equal to 25.
+Ensure a distance greater than or equal to 18 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be greater than or equal to 5, absolute in value.
+The required span from Point X to Point Y should measure greater than or equal to 14 meters.
+Keep a gap greater than or equal to 27 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should be greater than or equal to 6 units.
+Maintain a distance greater than or equal to 19 steps between Point P and Point Q.
+The separation between Node A and Node B must measure greater than or equal to 28 units.
+The magnitude of the dissimilarity between Element K1 and Element K99 should be greater than or equal to 9.
+Ensure a span greater than or equal to 16 is maintained between City X and City Y.
+The distance between C and House5 must be greater than or equal to 7.
+The required span from X to BB must be less than 50 units.
+Maintain a gap less than 30 units between d1 and e.
+The discrepancy between Z5 and ppid0 should be less than 12, absolute in value.
+Ensure a distance less than 35 is maintained between pd and opd3.
+The separation between NodeA and KaB must be less than 25 units precisely.
+Keep a gap less than 5 units between Element K1 and Element K99, with the absolute difference.
+The required extent from HouseE to City Y should be less than 60 kilometers.
+The interval between Checkpoint A and Checkpoint B must be less than 25 units long.
+The absolute difference between Quantity K1 and Quantity K99 should be less than 10 units.
+Maintain a distance less than 45 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must measure less than 30 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should be less than 20.
+Ensure a span less than 40 is maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should be less than 30 units.
+The absolute disparity between Value K1 and Value K99 must be less than 15 units.
+Keep a distance less than 50 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must measure less than 35 units.
+The magnitude of the difference between Index K1 and Index K99 should be less than 16.
+Maintain a gap less than 60 units between Point X and Point Y.
+The required extent from Station A to Station B should be less than 30 meters.
+The interval between Region 1 and Region 2 must be less than 15 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should be less than 60.
+Ensure a distance less than 25 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be less than 10, absolute in value.
+The required span from Point X to Point Y should measure less than 20 meters.
+Keep a gap less than 35 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should be less than 8 units.
+Maintain a distance less than 30 steps between Point P and Point Q.
+The separation between Node A and Node B must measure less than 50 units.
+The distance between C and House5 must be less than 15.
+The required span from A to SS must be less than or equal to 55 units.
+Maintain a gap less than or equal to 35 units between d1 and e.
+The discrepancy between Z5 and sid 0 should be less than or equal to 15, absolute in value.
+Ensure a distance less than or equal to 40 is maintained between pd and opd3.
+The separation between NodeA and KaB must be less than or equal to 30 units precisely.
+Keep a gap less than or equal to 7 units between Element K1 and Element K99, with the absolute difference.
+The required extent from HouseE to City Y should be less than or equal to 65 kilometers.
+The interval between Checkpoint A and Checkpoint B must be less than or equal to 30 units long.
+The absolute difference between Quantity K1 and Quantity K99 should be less than or equal to 12 units.
+Maintain a distance less than or equal to 50 steps between Location A and Location B.
+The separation between Phase 1 and Phase 2 must measure less than or equal to 35 units.
+The magnitude of the dissimilarity between Key K1 and Key K99 should be less than or equal to 22.
+Ensure a span less than or equal to 45 is maintained between Landmark A and Landmark B.
+The required gap between Site 1 and Site 2 should be less than or equal to 35 units.
+The absolute disparity between Value K1 and Value K99 must be less than or equal to 17 units.
+Keep a distance less than or equal to 55 meters between Point A and Point B.
+The separation between Segment 1 and Segment 2 must measure less than or equal to 40 units.
+The magnitude of the difference between Index K1 and Index K99 should be less than or equal to 18.
+Maintain a gap less than or equal to 65 units between Point X and Point Y.
+The required extent from Station A to Station B should be less than or equal to 35 meters.
+The interval between Region 1 and Region 2 must be less than or equal to 20 units apart in absolute terms.
+The discrepancy between Parameter P1 and Parameter P99 should be less than or equal to 70.
+Ensure a distance less than or equal to 30 units is maintained between Junction A and Junction B.
+The separation between Stage 1 and Stage 2 must be less than or equal to 12, absolute in value.
+The required span from Point X to Point Y should measure less than or equal to 25 meters.
+Keep a gap less than or equal to 40 units between Area A and Area B.
+The absolute difference between Item K1 and Item K99 should be less than or equal to 10 units.
+Maintain a distance less than or equal to 35 steps between Point P and Point Q.
+The separation between Node A and Node B must measure less than or equal to 55 units.
+The magnitude of the dissimilarity between Element K1 and Element K99 should be less than or equal to 14.
+Ensure a span less than or equal to 45 is maintained between City X and City Y.
+The distance between C and House5 must be less than or equal to 20.
+The distance between ABC2 and Family56 must be less than or equal to 1290.

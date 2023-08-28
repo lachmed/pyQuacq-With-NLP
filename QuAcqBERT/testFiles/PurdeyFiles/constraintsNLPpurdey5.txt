@@ -1,0 +1,27 @@
+family1 is required to be unlike family2
+family1 is required to be unlike family3
+family1 is required to be unlike family4
+family2 is required to be unlike family3
+family2 is required to be unlike family4
+family3 is required to be unlike family4
+bought1 is required to be unlike bought2
+bought1 is required to be unlike bought3
+bought1 is required to be unlike bought4
+bought2 is required to be unlike bought3
+bought2 is required to be unlike bought4
+bought3 is required to be unlike bought4
+paid1 is required to be unlike paid2
+paid1 is required to be unlike paid3
+paid1 is required to be unlike paid4
+paid2 is required to be unlike paid3
+paid2 is required to be unlike paid4
+paid3 is required to be unlike paid4
+bought1 ought to be the same as paid3
+family3 ought to be the same as bought1
+bought4 ought to be the same as paid4
+family2 ought to be the same as bought3
+bought3 ought to be the same as paid2
+family1 necessitates being larger than bought1
+bought1 necessitates being larger than bought3
+bought1 necessitates being larger than bought4
+paid4 needs to be below paid2

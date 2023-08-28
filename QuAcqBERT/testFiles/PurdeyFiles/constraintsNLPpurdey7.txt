@@ -1,0 +1,27 @@
+family1 is mandatory to have variations from family2
+family1 is mandatory to have variations from family3
+family1 is mandatory to have variations from family4
+family2 is mandatory to have variations from family3
+family2 is mandatory to have variations from family4
+family3 is mandatory to have variations from family4
+bought1 is mandatory to have variations from bought2
+bought1 is mandatory to have variations from bought3
+bought1 is mandatory to have variations from bought4
+bought2 is mandatory to have variations from bought3
+bought2 is mandatory to have variations from bought4
+bought3 is mandatory to have variations from bought4
+paid1 is mandatory to have variations from paid2
+paid1 is mandatory to have variations from paid3
+paid1 is mandatory to have variations from paid4
+paid2 is mandatory to have variations from paid3
+paid2 is mandatory to have variations from paid4
+paid3 is mandatory to have variations from paid4
+bought1 necessitates being equal to paid3
+family3 necessitates being equal to bought1
+bought4 necessitates being equal to paid4
+family2 necessitates being equal to bought3
+bought3 necessitates being equal to paid2
+family1 requires a greater amount than bought1
+bought1 requires a greater amount than bought3
+bought1 requires a greater amount than bought4
+paid4 should stay beneath paid2

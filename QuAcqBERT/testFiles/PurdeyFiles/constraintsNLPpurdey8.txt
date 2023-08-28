@@ -1,0 +1,27 @@
+family1 is essential to have disparities from family2
+family1 is essential to have disparities from family3
+family1 is essential to have disparities from family4
+family2 is essential to have disparities from family3
+family2 is essential to have disparities from family4
+family3 is essential to have disparities from family4
+bought1 is essential to have disparities from bought2
+bought1 is essential to have disparities from bought3
+bought1 is essential to have disparities from bought4
+bought2 is essential to have disparities from bought3
+bought2 is essential to have disparities from bought4
+bought3 is essential to have disparities from bought4
+paid1 is essential to have disparities from paid2
+paid1 is essential to have disparities from paid3
+paid1 is essential to have disparities from paid4
+paid2 is essential to have disparities from paid3
+paid2 is essential to have disparities from paid4
+paid3 is essential to have disparities from paid4
+bought1 mandatory to be at par with paid3
+family3 mandatory to be at par with bought1
+bought4 mandatory to be at par with paid4
+family2 mandatory to be at par with bought3
+bought3 mandatory to be at par with paid2
+family1 mandatory to be above bought1
+bought1 mandatory to be above bought3
+bought1 mandatory to be above bought4
+paid4 cannot surpass the limit of paid2

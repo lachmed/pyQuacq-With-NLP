@@ -1,0 +1,312 @@
+{"id":3934,"text":"cell1 should be greater than cell2","label":[[0,5,"CONST_ELMS_LEFT"],[16,28,"gt"],[29,34,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3935,"text":"cell3 should be greater than cell5","label":[[0,5,"CONST_ELMS_LEFT"],[16,28,"gt"],[29,34,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3936,"text":"dog1 should be less or equal to dog2","label":[[0,4,"CONST_ELMS_LEFT"],[15,28,"le"],[32,36,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3937,"text":"family1 should be less or equal to family9","label":[[0,7,"CONST_ELMS_LEFT"],[18,31,"le"],[35,42,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3938,"text":"Cat1 should be greater or equal to cat2","label":[[0,4,"CONST_ELMS_LEFT"],[15,31,"ge"],[35,39,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3939,"text":"element3 should be greater or equal to cheeze4","label":[[0,8,"CONST_ELMS_LEFT"],[19,35,"ge"],[39,46,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3940,"text":"drink2 should be less than drink4","label":[[0,6,"CONST_ELMS_LEFT"],[17,26,"lt"],[27,33,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3941,"text":"computer10 should be less than mouse19","label":[[0,10,"CONST_ELMS_LEFT"],[21,30,"lt"],[31,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3942,"text":"brand5 should be the same as drink3","label":[[0,6,"CONST_ELMS_LEFT"],[14,28,"eq"],[29,35,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3943,"text":"paper5 should be equal to cable3","label":[[0,6,"CONST_ELMS_LEFT"],[14,23,"eq"],[26,32,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3944,"text":"cell12 should not be the same as cell7","label":[[0,6,"CONST_ELMS_LEFT"],[14,32,"ne"],[33,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3945,"text":"fruit1 should be different than phone4","label":[[0,6,"CONST_ELMS_LEFT"],[14,31,"ne"],[32,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3946,"text":"The temperature in city1 should exceed the temperature in city2.","label":[[19,24,"CONST_ELMS_LEFT"],[32,38,"gt"],[58,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3947,"text":"The sales of product1 should be higher than the sales of product3.","label":[[13,21,"CONST_ELMS_LEFT"],[32,43,"gt"],[57,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3948,"text":"The population of country3 should surpass the population of country6.","label":[[18,26,"CONST_ELMS_LEFT"],[34,41,"gt"],[60,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3949,"text":"The marathon time for runner1 should be faster than the time for runner5.","label":[[22,29,"CONST_ELMS_LEFT"],[40,51,"gt"],[65,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3950,"text":"The number of likes on post1 should be greater than the number of likes on post4.","label":[[23,28,"CONST_ELMS_LEFT"],[39,51,"gt"],[75,80,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3951,"text":"The IQ score of student3 should be higher than the IQ score of student7.","label":[[16,24,"CONST_ELMS_LEFT"],[35,46,"gt"],[63,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3952,"text":"The price of stock1 should be greater than the price of stock9.","label":[[13,19,"CONST_ELMS_LEFT"],[30,42,"gt"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3953,"text":"The weight of box2 should be greater than the weight of box3.","label":[[14,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3955,"text":"The rating of movie1 should be higher than the rating of movie6.","label":[[14,20,"CONST_ELMS_LEFT"],[31,42,"gt"],[57,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3956,"text":"The length of song2 should be longer than the length of song8.","label":[[14,19,"CONST_ELMS_LEFT"],[30,41,"gt"],[56,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3957,"text":"The speed of car1 should be greater than the speed of car4.","label":[[13,17,"CONST_ELMS_LEFT"],[28,40,"gt"],[54,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3958,"text":"The age of person2 should be greater than the age of person5.","label":[[11,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[53,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3959,"text":"The budget for project1 should exceed the budget for project9.","label":[[15,23,"CONST_ELMS_LEFT"],[31,37,"gt"],[53,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3960,"text":"The height of tree1 should be greater than the height of tree2.","label":[[14,19,"CONST_ELMS_LEFT"],[30,42,"gt"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3961,"text":"The volume of container1 should be greater than the volume of container3.","label":[[14,24,"CONST_ELMS_LEFT"],[35,47,"gt"],[62,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3962,"text":"The salary of employee1 should be higher than the salary of employee7.","label":[[14,23,"CONST_ELMS_LEFT"],[34,45,"gt"],[60,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3963,"text":"The score of team1 should be greater than the score of team3.","label":[[13,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[55,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3964,"text":"The attendance at event1 should be higher than the attendance at event4.","label":[[18,24,"CONST_ELMS_LEFT"],[35,46,"gt"],[65,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3965,"text":"The horsepower of engine2 should be greater than the horsepower of engine6.","label":[[18,25,"CONST_ELMS_LEFT"],[36,48,"gt"],[67,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3966,"text":"The brightness of light1 should be greater than the brightness of light5.","label":[[18,24,"CONST_ELMS_LEFT"],[35,47,"gt"],[66,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3967,"text":"The GPA of student1 should be higher than the GPA of student3.","label":[[11,19,"CONST_ELMS_LEFT"],[30,41,"gt"],[53,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3968,"text":"The number of subscribers for channel2 should be higher than the number of subscribers for channel9.","label":[[30,38,"CONST_ELMS_LEFT"],[49,60,"gt"],[91,99,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3970,"text":"The income of household1 should be higher than the income of household6.","label":[[14,24,"CONST_ELMS_LEFT"],[35,46,"gt"],[61,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3971,"text":"The age of dog1 should be less than or equal to the age of dog3.","label":[[11,15,"CONST_ELMS_LEFT"],[26,44,"le"],[59,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3972,"text":"The quantity of supplies in stock2 should be less than or equal to the quantity in stock7.","label":[[28,34,"CONST_ELMS_LEFT"],[45,63,"le"],[83,89,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3973,"text":"The price of item1 should be less than or equal to the price of item5.","label":[[13,18,"CONST_ELMS_LEFT"],[29,47,"le"],[64,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3974,"text":"The height of mountain1 should be less than or equal to the height of mountain4.","label":[[14,23,"CONST_ELMS_LEFT"],[34,52,"le"],[70,79,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3975,"text":"The duration of flight2 should be less than the duration of flight6.","label":[[16,23,"CONST_ELMS_LEFT"],[34,43,"lt"],[60,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3976,"text":"The temperature in city1 should be lower than the temperature in city2.","label":[[19,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[65,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3977,"text":"The sales of product1 should exceed the sales of product3.","label":[[13,21,"CONST_ELMS_LEFT"],[29,35,"gt"],[49,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3978,"text":"The population of country3 should be less than the population of country6.","label":[[18,26,"CONST_ELMS_LEFT"],[37,46,"lt"],[65,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3979,"text":"The marathon time for runner1 should be slower than the time for runner5.","label":[[22,29,"CONST_ELMS_LEFT"],[40,51,"lt"],[65,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3980,"text":"The number of likes on post1 should be fewer than the number of likes on post4.","label":[[23,28,"CONST_ELMS_LEFT"],[39,49,"lt"],[73,78,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3981,"text":"The IQ score of student3 should be lower than the IQ score of student7.","label":[[16,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[62,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3982,"text":"The price of stock1 should be less than the price of stock9.","label":[[13,19,"CONST_ELMS_LEFT"],[30,39,"lt"],[53,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3983,"text":"The weight of box2 should be less than the weight of box3.","label":[[14,18,"CONST_ELMS_LEFT"],[29,38,"lt"],[53,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3985,"text":"The rating of movie1 should be lower than the rating of movie6.","label":[[14,20,"CONST_ELMS_LEFT"],[31,41,"lt"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3986,"text":"The length of song2 should be shorter than the length of song8.","label":[[14,19,"CONST_ELMS_LEFT"],[30,42,"lt"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3987,"text":"The speed of car1 should be slower than the speed of car4.","label":[[13,17,"CONST_ELMS_LEFT"],[28,39,"lt"],[53,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3988,"text":"The age of person2 should be younger than the age of person5.","label":[[11,18,"CONST_ELMS_LEFT"],[29,41,"lt"],[53,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3989,"text":"The budget for project1 should be lower than the budget for project9.","label":[[15,23,"CONST_ELMS_LEFT"],[34,44,"lt"],[60,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3990,"text":"The height of tree1 should be shorter than the height of tree2.","label":[[14,19,"CONST_ELMS_LEFT"],[30,42,"lt"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3991,"text":"The volume of container1 should be less than the volume of container3.","label":[[14,24,"CONST_ELMS_LEFT"],[35,44,"lt"],[59,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3994,"text":"The attendance at event1 should be lower than the attendance at event4.","label":[[18,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[64,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3995,"text":"The horsepower of engine2 should be less than the horsepower of engine6.","label":[[18,25,"CONST_ELMS_LEFT"],[36,45,"lt"],[64,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3996,"text":"The brightness of light1 should be lower than the brightness of light5.","label":[[18,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[64,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3997,"text":"The GPA of student1 should be lower than the GPA of student3.","label":[[11,19,"CONST_ELMS_LEFT"],[30,40,"lt"],[52,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3998,"text":"The number of subscribers for channel2 should be fewer than the number of subscribers for channel9.","label":[[30,38,"CONST_ELMS_LEFT"],[49,59,"lt"],[90,98,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":3999,"text":"The level of pollution in city1 should be lower than the level of pollution in city4.","label":[[26,31,"CONST_ELMS_LEFT"],[42,52,"lt"],[79,84,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4000,"text":"The income of household1 should be lower than the income of household6.","label":[[14,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[60,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4001,"text":"The age of dog1 should be greater than or equal to the age of dog3.","label":[[11,15,"CONST_ELMS_LEFT"],[26,47,"ge"],[62,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4002,"text":"The quantity of supplies in stock2 should be greater than or equal to the quantity in stock7.","label":[[28,34,"CONST_ELMS_LEFT"],[45,66,"ge"],[86,92,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4003,"text":"The price of item1 should be greater than or equal to the price of item5.","label":[[13,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[67,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4004,"text":"The height of mountain1 should be greater than or equal to the height of mountain4.","label":[[14,23,"CONST_ELMS_LEFT"],[34,55,"ge"],[73,82,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4005,"text":"The duration of flight2 should be greater than the duration of flight6.","label":[[16,23,"CONST_ELMS_LEFT"],[34,46,"gt"],[63,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4006,"text":"The temperature in city1 should be higher than or equal to the temperature in city2.","label":[[19,24,"CONST_ELMS_LEFT"],[35,55,"ge"],[78,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4007,"text":"The sales of product1 should be greater than or equal to the sales of product3.","label":[[13,21,"CONST_ELMS_LEFT"],[32,53,"ge"],[70,78,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4008,"text":"The population of country3 should surpass or equal the population of country6.","label":[[18,26,"CONST_ELMS_LEFT"],[34,50,"ge"],[69,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4009,"text":"The marathon time for runner1 should be faster than or equal to the time for runner5.","label":[[22,29,"CONST_ELMS_LEFT"],[40,60,"ge"],[77,84,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4010,"text":"The number of likes on post1 should be greater than or equal to the number of likes on post4.","label":[[23,28,"CONST_ELMS_LEFT"],[39,60,"ge"],[87,92,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4011,"text":"The IQ score of student3 should be higher than or equal to the IQ score of student7.","label":[[16,24,"CONST_ELMS_LEFT"],[35,55,"ge"],[75,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4012,"text":"The price of stock1 should be greater than or equal to the price of stock9.","label":[[13,19,"CONST_ELMS_LEFT"],[30,51,"ge"],[68,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4013,"text":"The weight of box2 should be greater than or equal to the weight of box3.","label":[[14,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[68,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4015,"text":"The rating of movie1 should be higher than or equal to the rating of movie6.","label":[[14,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[69,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4016,"text":"The length of song2 should be longer than or equal to the length of song8.","label":[[14,19,"CONST_ELMS_LEFT"],[30,50,"ge"],[68,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4017,"text":"The speed of car1 should be greater than or equal to the speed of car4.","label":[[13,17,"CONST_ELMS_LEFT"],[28,49,"ge"],[66,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4018,"text":"The age of person2 should be greater than or equal to the age of person5.","label":[[11,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[65,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4019,"text":"The budget for project1 should exceed or equal the budget for project9.","label":[[15,23,"CONST_ELMS_LEFT"],[31,46,"ge"],[62,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4020,"text":"The height of tree1 should be greater than or equal to the height of tree2.","label":[[14,19,"CONST_ELMS_LEFT"],[30,51,"ge"],[69,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4021,"text":"The volume of container1 should be greater than or equal to the volume of container3.","label":[[14,24,"CONST_ELMS_LEFT"],[35,56,"ge"],[74,84,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4022,"text":"The salary of employee1 should be higher than or equal to the salary of employee7.","label":[[14,23,"CONST_ELMS_LEFT"],[34,54,"ge"],[72,81,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4023,"text":"The score of team1 should be greater than or equal to the score of team3.","label":[[13,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[67,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4024,"text":"The attendance at event1 should be higher than or equal to the attendance at event4.","label":[[18,24,"CONST_ELMS_LEFT"],[35,55,"ge"],[77,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4025,"text":"The horsepower of engine2 should be greater than or equal to the horsepower of engine6.","label":[[18,25,"CONST_ELMS_LEFT"],[36,57,"ge"],[79,86,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4026,"text":"The brightness of light1 should be greater than or equal to the brightness of light5.","label":[[18,24,"CONST_ELMS_LEFT"],[35,56,"ge"],[78,84,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4027,"text":"The GPA of student1 should be higher than or equal to the GPA of student3.","label":[[11,19,"CONST_ELMS_LEFT"],[30,50,"ge"],[65,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4028,"text":"The number of subscribers for channel2 should be higher than or equal to the number of subscribers for channel9.","label":[[30,38,"CONST_ELMS_LEFT"],[49,69,"ge"],[103,111,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4029,"text":"The level of pollution in city1 should be greater than or equal to the level of pollution in city4.","label":[[26,31,"CONST_ELMS_LEFT"],[42,63,"ge"],[93,98,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4030,"text":"The income of household1 should be higher than or equal to the income of household6.","label":[[14,24,"CONST_ELMS_LEFT"],[35,55,"ge"],[73,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4031,"text":"The age of dog1 should not be the same as the age of dog3.","label":[[11,15,"CONST_ELMS_LEFT"],[23,41,"ne"],[53,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4032,"text":"The quantity of supplies in stock2 should not be equal to the quantity in stock7.","label":[[28,34,"CONST_ELMS_LEFT"],[42,54,"ne"],[74,80,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4033,"text":"The price of item1 should not be equal to the price of item5.","label":[[13,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[55,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4034,"text":"The height of mountain1 should not be equal to the height of mountain4.","label":[[14,23,"CONST_ELMS_LEFT"],[31,43,"ne"],[61,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4035,"text":"The duration of flight2 should not be equal to the duration of flight6.","label":[[16,23,"CONST_ELMS_LEFT"],[31,43,"ne"],[63,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4036,"text":"The weight of object1 should be less than the weight of object3.","label":[[14,21,"CONST_ELMS_LEFT"],[32,41,"lt"],[56,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4038,"text":"The age of child1 should be younger than the age of child5.","label":[[11,17,"CONST_ELMS_LEFT"],[28,40,"lt"],[52,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4040,"text":"The score of team1 should be lower than the score of team5.","label":[[13,18,"CONST_ELMS_LEFT"],[29,39,"lt"],[53,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4041,"text":"The height of building1 should be shorter than the height of building3.","label":[[14,23,"CONST_ELMS_LEFT"],[34,46,"lt"],[61,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4042,"text":"The cost of item1 should be cheaper than the cost of item7.","label":[[12,17,"CONST_ELMS_LEFT"],[28,40,"lt"],[53,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4043,"text":"The quantity of apples in basket1 should be less than the quantity of oranges in basket2.","label":[[26,33,"CONST_ELMS_LEFT"],[44,53,"lt"],[81,88,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4044,"text":"The speed of Runner1 should be slower than the speed of Runner2.","label":[[13,20,"CONST_ELMS_LEFT"],[31,42,"lt"],[56,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4045,"text":"The score of TeamA should be lower than the score of TeamB.","label":[[13,18,"CONST_ELMS_LEFT"],[29,39,"lt"],[53,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4046,"text":"The capacity of Tank1 should be smaller than the capacity of Tank2.","label":[[16,21,"CONST_ELMS_LEFT"],[32,44,"lt"],[61,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4047,"text":"The age of Child1 should be less than the age of Child2.","label":[[11,17,"CONST_ELMS_LEFT"],[28,37,"lt"],[49,55,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4048,"text":"The weight of ParcelA should be lighter than the weight of ParcelB.","label":[[14,21,"CONST_ELMS_LEFT"],[32,44,"lt"],[59,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4049,"text":"The height of Tree1 should be shorter than the height of Tree2.","label":[[14,19,"CONST_ELMS_LEFT"],[30,42,"lt"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4051,"text":"The diameter of CircleA should be smaller than the diameter of CircleB.","label":[[16,23,"CONST_ELMS_LEFT"],[34,46,"lt"],[63,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4052,"text":"The IQ score of Student1 should be lower than the IQ score of Student2.","label":[[16,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[62,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4053,"text":"The value of StockA should be less than the value of StockB.","label":[[13,19,"CONST_ELMS_LEFT"],[30,39,"lt"],[53,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4054,"text":"The acidity of Solution1 should be lower than the acidity of Solution2.","label":[[15,24,"CONST_ELMS_LEFT"],[35,45,"lt"],[61,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4055,"text":"The magnitude of Earthquake1 should be smaller than the magnitude of Earthquake2.","label":[[17,28,"CONST_ELMS_LEFT"],[39,51,"lt"],[69,80,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4056,"text":"The duration of SongA should be shorter than the duration of SongB.","label":[[16,21,"CONST_ELMS_LEFT"],[32,44,"lt"],[61,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4057,"text":"The temperature in Room1 should be cooler than the temperature in Room2.","label":[[19,24,"CONST_ELMS_LEFT"],[35,46,"lt"],[66,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4058,"text":"The height of BuildingA should be less than the height of BuildingB.","label":[[14,23,"CONST_ELMS_LEFT"],[34,43,"lt"],[58,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4059,"text":"The population of City1 should be smaller than the population of City2.","label":[[18,23,"CONST_ELMS_LEFT"],[34,46,"lt"],[65,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4060,"text":"The resistance of Resistor1 should be lower than the resistance of Resistor2.","label":[[18,27,"CONST_ELMS_LEFT"],[38,48,"lt"],[67,76,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4061,"text":"The length of RoadA should be shorter than the length of RoadB.","label":[[14,19,"CONST_ELMS_LEFT"],[30,42,"lt"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4062,"text":"The speed of R1 should be slower than or equal to the speed of R2.","label":[[13,15,"CONST_ELMS_LEFT"],[26,46,"le"],[63,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4063,"text":"The score of TA should be lower than or equal to the score of TB.","label":[[13,15,"CONST_ELMS_LEFT"],[26,45,"le"],[62,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4064,"text":"The capacity of T1 should be smaller than or equal to the capacity of T2.","label":[[16,18,"CONST_ELMS_LEFT"],[29,50,"le"],[70,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4065,"text":"The age of C1 should be less than or equal to the age of C2.","label":[[11,13,"CONST_ELMS_LEFT"],[24,42,"le"],[57,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4066,"text":"The weight of PA should be lighter than or equal to the weight of PB.","label":[[14,16,"CONST_ELMS_LEFT"],[27,49,"le"],[66,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4067,"text":"The height of T1 should be shorter than or equal to the height of T2.","label":[[14,16,"CONST_ELMS_LEFT"],[27,48,"le"],[66,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4069,"text":"The diameter of CA should be smaller than or equal to the diameter of CB.","label":[[16,18,"CONST_ELMS_LEFT"],[29,50,"le"],[70,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4070,"text":"The IQ score of S1 should be lower than or equal to the IQ score of S2.","label":[[16,18,"CONST_ELMS_LEFT"],[29,48,"le"],[68,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4071,"text":"The value of SA should be less than or equal to the value of SB.","label":[[13,15,"CONST_ELMS_LEFT"],[26,44,"le"],[61,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4072,"text":"The acidity of S1 should be lower than or equal to the acidity of S2.","label":[[15,17,"CONST_ELMS_LEFT"],[28,47,"le"],[66,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4073,"text":"The magnitude of E1 should be smaller than or equal to the magnitude of E2.","label":[[17,19,"CONST_ELMS_LEFT"],[30,51,"le"],[72,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4074,"text":"The duration of SA should be shorter than or equal to the duration of SB.","label":[[16,18,"CONST_ELMS_LEFT"],[29,50,"le"],[70,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4075,"text":"The temperature in R1 should be cooler than or equal to the temperature in R2.","label":[[19,21,"CONST_ELMS_LEFT"],[32,52,"le"],[75,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4076,"text":"The height of BA should be less than or equal to the height of BB.","label":[[14,16,"CONST_ELMS_LEFT"],[27,45,"le"],[63,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4077,"text":"The population of C1 should be smaller than or equal to the population of C2.","label":[[18,20,"CONST_ELMS_LEFT"],[31,52,"le"],[74,76,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4078,"text":"The resistance of R1 should be lower than or equal to the resistance of R2.","label":[[18,20,"CONST_ELMS_LEFT"],[31,50,"le"],[72,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4079,"text":"The length of RA should be shorter than or equal to the length of RB.","label":[[14,16,"CONST_ELMS_LEFT"],[27,48,"le"],[66,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4080,"text":"V1 should be slower than or equal to V2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,33,"le"],[37,39,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4081,"text":"L1 should be shorter than or equal to L2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4082,"text":"P1 should be lower than or equal to P2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4083,"text":"G1 should be smaller than or equal to G2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,35,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4084,"text":"B1 should be smaller than or equal to B2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4085,"text":"O1 should be less than or equal to O2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,31,"le"],[35,37,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4086,"text":"M1 should be lower than or equal to M2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4087,"text":"W1 should be smaller than or equal to W2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4088,"text":"A1 should be cooler than or equal to A2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,33,"le"],[37,39,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4089,"text":"H1 should be shorter than or equal to H2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4090,"text":"D1 should be less than or equal to D2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,31,"le"],[35,37,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4091,"text":"S1 should be lower than or equal to S2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4092,"text":"T1 should be shorter than or equal to T2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4093,"text":"C1 should be smaller than or equal to C2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4094,"text":"B1 should be lighter than or equal to B2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4095,"text":"J1 should be smaller than or equal to J2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4096,"text":"R1 should be smaller than or equal to R2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4097,"text":"E1 should be lower than or equal to E2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4098,"text":"G1 should be lower than or equal to G2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4099,"text":"P1 should be smaller than or equal to P2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4100,"text":"L1 should be lower than or equal to L2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4101,"text":"I1 should be less than or equal to I2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,31,"le"],[35,37,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4102,"text":"C1 should be lower than or equal to C2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,32,"le"],[36,38,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4103,"text":"A1 should be shorter than or equal to A2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4105,"text":"R1 should be smaller than or equal to R2.","label":[[0,2,"CONST_ELMS_LEFT"],[13,34,"le"],[38,40,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4106,"text":"The speed of Vehicle1 should be faster than or equal to the speed of Vehicle2.","label":[[13,21,"CONST_ELMS_LEFT"],[32,52,"ge"],[69,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4107,"text":"The length of Line1 should be longer than or equal to the length of Line2.","label":[[14,19,"CONST_ELMS_LEFT"],[30,50,"ge"],[68,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4108,"text":"The cost of Product1 should be higher than or equal to the cost of Product2.","label":[[12,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[67,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4109,"text":"The power of Generator1 should be greater than or equal to the power of Generator2.","label":[[13,23,"CONST_ELMS_LEFT"],[34,55,"ge"],[72,82,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4110,"text":"The size of Box1 should be larger than or equal to the size of Box2.","label":[[12,16,"CONST_ELMS_LEFT"],[27,47,"ge"],[63,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4111,"text":"The depth of Ocean1 should be greater than or equal to the depth of Ocean2.","label":[[13,19,"CONST_ELMS_LEFT"],[30,51,"ge"],[68,74,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4112,"text":"The rating of Movie1 should be higher than or equal to the rating of Movie2.","label":[[14,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[69,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4113,"text":"The width of Widget1 should be larger than or equal to the width of Widget2.","label":[[13,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[68,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4114,"text":"The temperature of Area1 should be warmer than or equal to the temperature of Area2.","label":[[19,24,"CONST_ELMS_LEFT"],[35,55,"ge"],[78,83,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4115,"text":"The length of Highway1 should be longer than or equal to the length of Highway2.","label":[[14,22,"CONST_ELMS_LEFT"],[33,53,"ge"],[71,79,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4116,"text":"The age of Device1 should be greater than or equal to the age of Device2.","label":[[11,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[65,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4117,"text":"The price of Service1 should be higher than or equal to the price of Service2.","label":[[13,21,"CONST_ELMS_LEFT"],[32,52,"ge"],[69,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4118,"text":"The height of Tower1 should be taller than or equal to the height of Tower2.","label":[[14,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[69,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4119,"text":"The capacity of Container1 should be greater than or equal to the capacity of Container2.","label":[[16,26,"CONST_ELMS_LEFT"],[37,58,"ge"],[78,88,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4120,"text":"The weight of Bag1 should be heavier than or equal to the weight of Bag2.","label":[[14,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[68,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4121,"text":"The volume of Jar1 should be larger than or equal to the volume of Jar2.","label":[[14,18,"CONST_ELMS_LEFT"],[29,49,"ge"],[67,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4122,"text":"The diameter of Ring1 should be larger than or equal to the diameter of Ring2.","label":[[16,21,"CONST_ELMS_LEFT"],[32,52,"ge"],[72,77,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4123,"text":"The score of Exam1 should be higher than or equal to the score of Exam2.","label":[[13,18,"CONST_ELMS_LEFT"],[29,49,"ge"],[66,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4124,"text":"The level of Game1 should be higher than or equal to the level of Game2.","label":[[13,18,"CONST_ELMS_LEFT"],[29,49,"ge"],[66,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4125,"text":"The thickness of Panel1 should be larger than or equal to the thickness of Panel2.","label":[[17,23,"CONST_ELMS_LEFT"],[34,54,"ge"],[75,81,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4126,"text":"The intensity of Light1 should be higher than or equal to the intensity of Light2.","label":[[17,23,"CONST_ELMS_LEFT"],[34,54,"ge"],[75,81,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4127,"text":"The value of Item1 should be greater than or equal to the value of Item2.","label":[[13,18,"CONST_ELMS_LEFT"],[29,50,"ge"],[67,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4128,"text":"The efficiency of Component1 should be higher than or equal to the efficiency of Component2.","label":[[18,28,"CONST_ELMS_LEFT"],[39,59,"ge"],[81,91,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4130,"text":"The count of Sample1 should be greater than or equal to the count of Sample2.","label":[[13,20,"CONST_ELMS_LEFT"],[31,51,"ge"],[69,76,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4131,"text":"The area of Region1 should be larger than or equal to the area of Region2.","label":[[12,19,"CONST_ELMS_LEFT"],[30,51,"ge"],[66,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4132,"text":"The age of Cat3 should be less than or equal to the age of Cat8.","label":[[11,15,"CONST_ELMS_LEFT"],[26,44,"le"],[59,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4133,"text":"The cost of Pen5 should be lower than or equal to the cost of Pen9.","label":[[12,16,"CONST_ELMS_LEFT"],[27,46,"le"],[62,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4134,"text":"The size of Cup2 should be smaller than or equal to the size of Cup7.","label":[[12,16,"CONST_ELMS_LEFT"],[27,48,"le"],[64,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4135,"text":"The weight of Hat4 should be lighter than or equal to the weight of Hat6.","label":[[14,18,"CONST_ELMS_LEFT"],[29,50,"le"],[68,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4136,"text":"The count of Gem7 should be smaller than or equal to the count of Gem10.","label":[[13,17,"CONST_ELMS_LEFT"],[28,49,"le"],[66,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4137,"text":"The speed of Velocity3 should be faster than the speed of Velocity7.","label":[[13,22,"CONST_ELMS_LEFT"],[33,44,"gt"],[58,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4138,"text":"The length of LineSegment5 should be longer than the length of LineSegment9.","label":[[14,26,"CONST_ELMS_LEFT"],[37,48,"gt"],[63,75,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4139,"text":"The cost of Item2 should be higher than the cost of Item6.","label":[[12,17,"CONST_ELMS_LEFT"],[28,39,"gt"],[52,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4140,"text":"The power of GeneratorUnit4 should be greater than the power of GeneratorUnit8.","label":[[13,27,"CONST_ELMS_LEFT"],[38,50,"gt"],[64,78,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4141,"text":"The size of Container6 should be larger than the size of Container11.","label":[[12,22,"CONST_ELMS_LEFT"],[33,44,"gt"],[57,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4142,"text":"The depth of Ocean2 should be greater than the depth of Ocean5.","label":[[13,19,"CONST_ELMS_LEFT"],[30,42,"gt"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4143,"text":"The rating of Movie3 should be higher than the rating of Movie7.","label":[[14,20,"CONST_ELMS_LEFT"],[31,42,"gt"],[57,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4144,"text":"The width of Widget2 should be larger than the width of Widget6.","label":[[13,20,"CONST_ELMS_LEFT"],[31,42,"gt"],[56,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4145,"text":"The temperature of Zone4 should be warmer than the temperature of Zone9.","label":[[19,24,"CONST_ELMS_LEFT"],[35,46,"gt"],[66,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4146,"text":"The length of Highway3 should be longer than the length of Highway6.","label":[[14,22,"CONST_ELMS_LEFT"],[33,44,"gt"],[59,67,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4147,"text":"The age of Device5 should be greater than the age of Device10.","label":[[11,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[53,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4148,"text":"The price of Service4 should be higher than the price of Service9.","label":[[13,21,"CONST_ELMS_LEFT"],[32,43,"gt"],[57,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4149,"text":"The height of Tower6 should be taller than the height of Tower12.","label":[[14,20,"CONST_ELMS_LEFT"],[31,42,"gt"],[57,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4150,"text":"The capacity of Storage3 should be greater than the capacity of Storage7.","label":[[16,24,"CONST_ELMS_LEFT"],[35,47,"gt"],[64,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4151,"text":"The weight of Bag5 should be heavier than the weight of Bag8.","label":[[14,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4152,"text":"The volume of Container4 should be larger than the volume of Container9.","label":[[14,24,"CONST_ELMS_LEFT"],[35,46,"gt"],[61,71,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4153,"text":"The diameter of Ring2 should be larger than the diameter of Ring4.","label":[[16,21,"CONST_ELMS_LEFT"],[32,43,"gt"],[60,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4154,"text":"The score of Exam3 should be higher than the score of Exam6.","label":[[13,18,"CONST_ELMS_LEFT"],[29,40,"gt"],[54,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4155,"text":"The level of Game4 should be higher than the level of Game8.","label":[[13,18,"CONST_ELMS_LEFT"],[29,40,"gt"],[54,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4156,"text":"The thickness of Panel2 should be larger than the thickness of Panel5.","label":[[17,23,"CONST_ELMS_LEFT"],[34,45,"gt"],[63,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4157,"text":"The intensity of Light3 should be higher than the intensity of Light7.","label":[[17,23,"CONST_ELMS_LEFT"],[34,45,"gt"],[63,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4158,"text":"The value of Item3 should be greater than the value of Item6.","label":[[13,18,"CONST_ELMS_LEFT"],[29,41,"gt"],[55,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4159,"text":"The efficiency of Component4 should be higher than the efficiency of Component9.","label":[[18,28,"CONST_ELMS_LEFT"],[39,50,"gt"],[69,79,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4160,"text":"The distance of Location2 should be longer than the distance of Location4.","label":[[16,25,"CONST_ELMS_LEFT"],[36,47,"gt"],[64,73,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4161,"text":"The count of Sample3 should be greater than the count of Sample6.","label":[[13,20,"CONST_ELMS_LEFT"],[31,44,"gt"],[57,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4162,"text":"The area of Region2 should be larger than the area of Region5.","label":[[12,19,"CONST_ELMS_LEFT"],[30,41,"gt"],[54,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4163,"text":"The age of Cat4 should be less than the age of Cat7.","label":[[11,15,"CONST_ELMS_LEFT"],[26,35,"lt"],[47,51,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4164,"text":"The cost of Pen6 should be lower than the cost of Pen8.","label":[[12,16,"CONST_ELMS_LEFT"],[27,37,"lt"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4165,"text":"The size of Cup3 should be smaller than the size of Cup6.","label":[[12,16,"CONST_ELMS_LEFT"],[27,39,"lt"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4166,"text":"The weight of Hat5 should be lighter than the weight of Hat7.","label":[[14,18,"CONST_ELMS_LEFT"],[29,41,"lt"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4167,"text":"The count of Gem4 should be smaller than the count of Gem7.","label":[[13,17,"CONST_ELMS_LEFT"],[28,40,"lt"],[54,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4168,"text":"The height of Building3 should be taller than the height of Building6.","label":[[14,23,"CONST_ELMS_LEFT"],[34,45,"gt"],[60,69,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4169,"text":"The capacity of Tank2 should be greater than the capacity of Tank4.","label":[[16,21,"CONST_ELMS_LEFT"],[32,44,"gt"],[61,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4170,"text":"The speed of Vel3 should be equal to the speed of Vel7.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4171,"text":"The length of Lin5 should be equal to the length of Lin9.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4172,"text":"The cost of Itm2 should be equal to the cost of Itm6.","label":[[12,16,"CONST_ELMS_LEFT"],[24,32,"eq"],[48,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4173,"text":"The power of Gen4 should be equal to the power of Gen8.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4174,"text":"The size of Cnt6 should be equal to the size of Cnt11.","label":[[12,16,"CONST_ELMS_LEFT"],[24,33,"eq"],[48,53,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4175,"text":"The depth of Ocn2 should be equal to the depth of Ocn5.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4176,"text":"The rating of Mov3 should be equal to the rating of Mov7.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4177,"text":"The width of Wid2 should be equal to the width of Wid6.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4178,"text":"The temperature of Zon4 should be equal to the temperature of Zon9.","label":[[19,23,"CONST_ELMS_LEFT"],[31,39,"eq"],[62,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4179,"text":"The length of Hwy3 should be equal to the length of Hwy6.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4180,"text":"The age of Dev5 should be equal to the age of Dev10.","label":[[11,15,"CONST_ELMS_LEFT"],[23,31,"eq"],[46,51,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4181,"text":"The price of Srv4 should be equal to the price of Srv9.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4182,"text":"The height of Twr6 should be equal to the height of Twr12.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,57,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4183,"text":"The capacity of Sto3 should be equal to the capacity of Sto7.","label":[[16,20,"CONST_ELMS_LEFT"],[28,36,"eq"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4184,"text":"The weight of Bg5 should be equal to the weight of Bg8.","label":[[14,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[51,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4185,"text":"The volume of Cnt4 should be equal to the volume of Cnt9.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4186,"text":"The diameter of Rng2 should be equal to the diameter of Rng4.","label":[[16,20,"CONST_ELMS_LEFT"],[28,36,"eq"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4187,"text":"The score of Exm3 should be equal to the score of Exm6.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4188,"text":"The level of Gme4 should be equal to the level of Gme8.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4189,"text":"The thickness of Pnl2 should be equal to the thickness of Pnl5.","label":[[17,21,"CONST_ELMS_LEFT"],[29,37,"eq"],[58,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4191,"text":"The value of Itm3 should be equal to the value of Itm6.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4192,"text":"The efficiency of Cmp4 should be equal to the efficiency of Cmp9.","label":[[18,22,"CONST_ELMS_LEFT"],[30,38,"eq"],[60,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4193,"text":"The distance of Lct2 should be equal to the distance of Lct4.","label":[[16,20,"CONST_ELMS_LEFT"],[28,36,"eq"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4194,"text":"The count of Smp3 should be equal to the count of Smp6.","label":[[13,17,"CONST_ELMS_LEFT"],[25,33,"eq"],[50,54,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4195,"text":"The area of Reg2 should be equal to the area of Reg5.","label":[[12,16,"CONST_ELMS_LEFT"],[24,32,"eq"],[48,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4196,"text":"The age of Cat4 should be equal to the age of Cat7.","label":[[11,15,"CONST_ELMS_LEFT"],[23,31,"eq"],[46,50,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4197,"text":"The cost of Pen6 should be equal to the cost of Pen8.","label":[[12,16,"CONST_ELMS_LEFT"],[24,33,"eq"],[48,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4198,"text":"The size of Cup3 should be equal to the size of Cup6.","label":[[12,16,"CONST_ELMS_LEFT"],[24,32,"eq"],[48,52,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4199,"text":"The weight of Hat5 should be equal to the weight of Hat7.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4201,"text":"The height of Bld3 should be equal to the height of Bld6.","label":[[14,18,"CONST_ELMS_LEFT"],[26,34,"eq"],[52,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4202,"text":"The capacity of Tnk2 should be equal to the capacity of Tnk4.","label":[[16,20,"CONST_ELMS_LEFT"],[28,36,"eq"],[56,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4203,"text":"V1 should be equal to V3.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4204,"text":"L1 should be equal to L4.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4205,"text":"P2 should be equal to P5.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4206,"text":"G3 should be equal to G6.","label":[[0,2,"CONST_ELMS_LEFT"],[10,19,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4207,"text":"B2 should be equal to B4.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4208,"text":"O2 should be equal to O5.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4209,"text":"M1 should be equal to M3.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4210,"text":"W2 should be equal to W4.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4211,"text":"A3 should be equal to A6.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4212,"text":"H2 should be equal to H5.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4213,"text":"D3 should be equal to D6.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4214,"text":"S2 should be equal to S5.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4215,"text":"T2 should be equal to T4.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4216,"text":"C1 should be equal to C3.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4217,"text":"B1 should be equal to B3.","label":[[0,2,"CONST_ELMS_LEFT"],[10,18,"eq"],[22,24,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4218,"text":"The speed of Olivia should not be equal to the speed of Victor.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4219,"text":"The length of Lillian should not be equal to the length of Nathan.","label":[[14,21,"CONST_ELMS_LEFT"],[29,42,"ne"],[59,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4220,"text":"The cost of Isabella should not be equal to the cost of Harper.","label":[[12,20,"CONST_ELMS_LEFT"],[28,40,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4221,"text":"The power of Sophia should not be equal to the power of Daniel.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4222,"text":"The size of Carlos should not be equal to the size of George.","label":[[12,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[54,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4223,"text":"The depth of Oliver should not be equal to the depth of Xavier.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4224,"text":"The rating of Morgan should not be equal to the rating of Olivia.","label":[[14,20,"CONST_ELMS_LEFT"],[28,40,"ne"],[58,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4225,"text":"The width of Willow should not be equal to the width of Stella.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4226,"text":"The temperature of Zoey should not be equal to the temperature of Nicole.","label":[[19,23,"CONST_ELMS_LEFT"],[31,43,"ne"],[66,72,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4227,"text":"The length of Hazel should not be equal to the length of Sydney.","label":[[14,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[57,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4228,"text":"The age of Stella should not be equal to the age of Peyton.","label":[[11,17,"CONST_ELMS_LEFT"],[25,37,"ne"],[52,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4229,"text":"The price of Samuel should not be equal to the price of Andrew.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4230,"text":"The height of Taylor should not be equal to the height of Jordan.","label":[[14,20,"CONST_ELMS_LEFT"],[28,40,"ne"],[58,64,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4231,"text":"The capacity of Sydney should not be equal to the capacity of Taylor.","label":[[16,22,"CONST_ELMS_LEFT"],[30,42,"ne"],[62,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4233,"text":"The volume of Chloe should not be equal to the volume of Hannah.","label":[[14,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[57,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4234,"text":"The diameter of Riley should not be equal to the diameter of Ethan.","label":[[16,21,"CONST_ELMS_LEFT"],[29,41,"ne"],[61,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4235,"text":"The score of Emma should not be equal to the score of Isaac.","label":[[13,17,"CONST_ELMS_LEFT"],[25,37,"ne"],[54,59,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4236,"text":"The level of Grace should not be equal to the level of Megan.","label":[[13,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[55,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4237,"text":"The thickness of Ethan should not be equal to the thickness of Isaac.","label":[[17,22,"CONST_ELMS_LEFT"],[30,42,"ne"],[63,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4238,"text":"The intensity of Lucas should not be equal to the intensity of Grace.","label":[[17,22,"CONST_ELMS_LEFT"],[30,42,"ne"],[63,68,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4239,"text":"The value of Isaac should not be equal to the value of Andrew.","label":[[13,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[55,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4240,"text":"The efficiency of Caleb should not be equal to the efficiency of Ethan.","label":[[18,23,"CONST_ELMS_LEFT"],[31,43,"ne"],[65,70,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4241,"text":"The distance of Lily should not be equal to the distance of Sarah.","label":[[16,20,"CONST_ELMS_LEFT"],[28,40,"ne"],[60,65,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4242,"text":"The count of Sophia should not be equal to the count of Emily.","label":[[13,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[56,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4243,"text":"The area of Olivia should not be equal to the area of Daniel.","label":[[12,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[54,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4244,"text":"The age of Mason should not be equal to the age of Aiden.","label":[[11,16,"CONST_ELMS_LEFT"],[24,36,"ne"],[51,56,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4245,"text":"The cost of Penny should not be equal to the cost of Ethan.","label":[[12,17,"CONST_ELMS_LEFT"],[25,37,"ne"],[53,58,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4246,"text":"The size of Cooper should not be equal to the size of Jasper.","label":[[12,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[54,60,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4247,"text":"The weight of Harper should not be equal to the weight of Ethan.","label":[[14,20,"CONST_ELMS_LEFT"],[28,40,"ne"],[58,63,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4248,"text":"The count of Gemma should not be equal to the count of Stella.","label":[[13,18,"CONST_ELMS_LEFT"],[26,38,"ne"],[55,61,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4249,"text":"The height of Bella should not be equal to the height of Ethan.","label":[[14,19,"CONST_ELMS_LEFT"],[27,39,"ne"],[57,62,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4250,"text":"The capacity of Tyler should not be equal to the capacity of Henry.","label":[[16,21,"CONST_ELMS_LEFT"],[29,41,"ne"],[61,66,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4251,"text":"Olivia should not be equal to Ophelia.","label":[[0,6,"CONST_ELMS_LEFT"],[14,26,"ne"],[30,37,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4252,"text":"Lily should not be equal to Lauren.","label":[[0,4,"CONST_ELMS_LEFT"],[12,24,"ne"],[28,34,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4253,"text":"Parker should not be equal to Piper.","label":[[0,6,"CONST_ELMS_LEFT"],[14,26,"ne"],[30,35,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4254,"text":"Gavin should not be equal to Grayson.","label":[[0,5,"CONST_ELMS_LEFT"],[13,25,"ne"],[29,36,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4255,"text":"Brian should not be equal to Brady.","label":[[0,5,"CONST_ELMS_LEFT"],[13,25,"ne"],[29,34,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4256,"text":"Olivia should not be equal to Oliver.","label":[[0,6,"CONST_ELMS_LEFT"],[14,26,"ne"],[30,36,"gt"]],"Comments":[]}
+{"id":4257,"text":"Mason should not be equal to Matthew.","label":[[0,5,"CONST_ELMS_LEFT"],[13,25,"ne"],[29,36,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4258,"text":"Wyatt should not be equal to Warren.","label":[[0,5,"CONST_ELMS_LEFT"],[13,25,"ne"],[29,35,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4259,"text":"Audrey should not be equal to Aurora.","label":[[0,6,"CONST_ELMS_LEFT"],[14,26,"ne"],[30,36,"CONST_ELMS_RIGHT"]],"Comments":[]}
+{"id":4260,"text":"Dylan should not be equal to Daniel.","label":[[0,5,"CONST_ELMS_LEFT"],[13,25,"ne"],[29,35,"CONST_ELMS_RIGHT"]],"Comments":[]}

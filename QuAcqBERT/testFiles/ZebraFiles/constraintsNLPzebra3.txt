@@ -1,0 +1,65 @@
+red need to differ from green
+red need to differ from ivory
+red need to differ from yellow
+red need to differ from blue
+green need to differ from ivory
+green need to differ from yellow
+green need to differ from blue
+ivory need to differ from yellow
+ivory need to differ from blue
+yellow need to differ from blue
+dog need to differ from snails
+dog need to differ from fox
+dog need to differ from horse
+dog need to differ from zebra
+snails need to differ from fox
+snails need to differ from horse
+snails need to differ from zebra
+fox need to differ from horse
+fox need to differ from zebra
+horse need to differ from zebra
+coffee need to differ from tea
+coffee need to differ from milk
+coffee need to differ from orange juice
+coffee need to differ from water
+tea need to differ from milk
+tea need to differ from orange juice
+tea need to differ from water
+milk need to differ from orange juice
+milk need to differ from water
+orange juice need to differ from water
+English need to differ from Sparniad
+English need to differ from Ukranian
+English need to differ from Norwegian
+English need to differ from Japanese
+Sparniad need to differ from Ukranian
+Sparniad need to differ from Norwegian
+Sparniad need to differ from Japanese
+Ukranian need to differ from Norwegian
+Ukranian need to differ from Japanese
+Norwegian need to differ from Japanese
+Old Gold need to differ from Kools
+Old Gold need to differ from Chesterfields
+Old Gold need to differ from Lucky Strike
+Old Gold need to differ from Parliaments
+Kools need to differ from Chesterfields
+Kools need to differ from Lucky Strike
+Kools need to differ from Parliaments
+Chesterfields need to differ from Lucky Strike
+Chesterfields need to differ from Parliaments
+Lucky Strike need to differ from Parliaments
+English needs to be on par with red
+Sparniad needs to be on par with dog
+coffee needs to be on par with green
+Ukranian needs to be on par with tea
+Old Gold needs to be on par with snails
+Kools needs to be on par with yellow
+Lucky Strike needs to be on par with orange juice
+Japanese needs to be on par with Parliaments
+green needs to be higher than ivory
+the extent of separation between green and ivory needs to be on par with 1
+the extent of separation between Chesterfields and fox needs to be on par with 1
+the extent of separation between Kools and horse needs to be on par with 1
+the extent of separation between Norwegian and blue needs to be on par with 1
+milk needs to be on par with 3
+Norwegian needs to be on par with 1

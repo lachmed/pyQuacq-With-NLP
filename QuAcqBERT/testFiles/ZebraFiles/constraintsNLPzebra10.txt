@@ -1,0 +1,65 @@
+red is obligatory to exhibit differences from green
+red is obligatory to exhibit differences from ivory
+red is obligatory to exhibit differences from yellow
+red is obligatory to exhibit differences from blue
+green is obligatory to exhibit differences from ivory
+green is obligatory to exhibit differences from yellow
+green is obligatory to exhibit differences from blue
+ivory is obligatory to exhibit differences from yellow
+ivory is obligatory to exhibit differences from blue
+yellow is obligatory to exhibit differences from blue
+dog is obligatory to exhibit differences from snails
+dog is obligatory to exhibit differences from fox
+dog is obligatory to exhibit differences from horse
+dog is obligatory to exhibit differences from zebra
+snails is obligatory to exhibit differences from fox
+snails is obligatory to exhibit differences from horse
+snails is obligatory to exhibit differences from zebra
+fox is obligatory to exhibit differences from horse
+fox is obligatory to exhibit differences from zebra
+horse is obligatory to exhibit differences from zebra
+coffee is obligatory to exhibit differences from tea
+coffee is obligatory to exhibit differences from milk
+coffee is obligatory to exhibit differences from orange juice
+coffee is obligatory to exhibit differences from water
+tea is obligatory to exhibit differences from milk
+tea is obligatory to exhibit differences from orange juice
+tea is obligatory to exhibit differences from water
+milk is obligatory to exhibit differences from orange juice
+milk is obligatory to exhibit differences from water
+orange juice is obligatory to exhibit differences from water
+English is obligatory to exhibit differences from Sparniad
+English is obligatory to exhibit differences from Ukranian
+English is obligatory to exhibit differences from Norwegian
+English is obligatory to exhibit differences from Japanese
+Sparniad is obligatory to exhibit differences from Ukranian
+Sparniad is obligatory to exhibit differences from Norwegian
+Sparniad is obligatory to exhibit differences from Japanese
+Ukranian is obligatory to exhibit differences from Norwegian
+Ukranian is obligatory to exhibit differences from Japanese
+Norwegian is obligatory to exhibit differences from Japanese
+Old Gold is obligatory to exhibit differences from Kools
+Old Gold is obligatory to exhibit differences from Chesterfields
+Old Gold is obligatory to exhibit differences from Lucky Strike
+Old Gold is obligatory to exhibit differences from Parliaments
+Kools is obligatory to exhibit differences from Chesterfields
+Kools is obligatory to exhibit differences from Lucky Strike
+Kools is obligatory to exhibit differences from Parliaments
+Chesterfields is obligatory to exhibit differences from Lucky Strike
+Chesterfields is obligatory to exhibit differences from Parliaments
+Lucky Strike is obligatory to exhibit differences from Parliaments
+English calls for an equal value as red
+Sparniad calls for an equal value as dog
+coffee calls for an equal value as green
+Ukranian calls for an equal value as tea
+Old Gold calls for an equal value as snails
+Kools calls for an equal value as yellow
+Lucky Strike calls for an equal value as orange juice
+Japanese calls for an equal value as Parliaments
+green compulsory to be greater than ivory
+the expanse that lies between green and ivory calls for an equal value as 1
+the expanse that lies between Chesterfields and fox calls for an equal value as 1
+the expanse that lies between Kools and horse calls for an equal value as 1
+the expanse that lies between Norwegian and blue calls for an equal value as 1
+milk calls for an equal value as 3
+Norwegian calls for an equal value as 1

@@ -1,0 +1,108 @@
+The separation between point1 and point 3 should not equal 7
+The gap from location1 to location2 must not match 9
+The measure of separation between reference point1 and reference point2 should not equal 8
+The length between landmark3 and landmark4 must be dissimilar to 10
+The gap between position 3 and position 8 should not equal 20
+The distance between marker1 and marker2 should be distinct from 0
+The separation between reference spot 3 and reference spot 7 should contrast with 3
+The length between point 2 and point 3 should be different than 8
+The separation between point1 and point 3 should not equal 7.
+The gap from location7 to location4 must not match 9.
+The measure of separation between reference point2 and reference point9 should not equal 8.
+The length between landmark9 and landmark4 must be dissimilar to 10.
+The gap between position 3 and position 8 should not equal 20.
+The distance between marker1 and marker2 should be distinct from 0.
+The separation between reference spot 3 and reference spot 7 should contrast with 3.
+The length between point 2 and point 3 should be different than 8.
+The gap between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must not be equal to 15.
+The separation between point1 and point3 should equal 7.
+The gap from location1 to location2 must match 9.
+The measure of separation between reference point1 and reference point2 should equal 8.
+The length between landmark3 and landmark4 must be exactly 10.
+The gap between position3 and position8 should equal 20.
+The distance between marker1 and marker2 should be identical to 0.
+The separation between reference spot3 and reference spot7 should be precisely 3.
+The length between point2 and point3 should be equal to 8.
+The distance between node1 and node5 should equal 12.
+The measure of separation between vertex4 and vertex8 must be 15.
+The duration from event1 to event3 should equal 7 hours.
+The gap between cityA and cityB must match a distance of 50 kilometers.
+The measure of separation between objectA and objectB should equal 5 units.
+The length between destinationX and destinationY must be exactly 100 meters.
+The gap between index3 and index9 should equal 6.
+The distance between station1 and station2 should be identical to 2 miles.
+The separation between landmark9 and landmark12 should be precisely 10.
+The length between point6 and point7 should be equal to 9.
+The separation between point1 and point3 should be less than 7.
+The gap from location1 to location2 must be less than 9.
+The measure of separation between reference point1 and reference point2 should be less than 8.
+The length between landmark3 and landmark4 must be less than 10.
+The gap between position3 and position8 should be less than 20.
+The distance between marker1 and marker2 should be less than 0.
+The separation between reference spot3 and reference spot7 should be less than 3.
+The length between point2 and point3 should be less than 8.
+The distance between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must be less than 15.
+The duration from event1 to event3 should be less than 7 hours.
+The gap between cityA and cityB must be less than 50 kilometers.
+The measure of separation between objectA and objectB should be less than 5 units.
+The length between destinationX and destinationY must be less than 100 meters.
+The gap between index3 and index9 should be less than 6.
+The distance between station1 and station2 should be less than 2 miles.
+The separation between landmark9 and landmark12 should be less than 10.
+The length between point6 and point7 should be less than 9.
+The separation between point1 and point3 should be less than or equal to 7.
+The gap from location1 to location2 must be less than or equal to 9.
+The measure of separation between reference point1 and reference point2 should be less than or equal to 8.
+The length between landmark3 and landmark4 must be less than or equal to 10.
+The gap between position3 and position8 should be less than or equal to 20.
+The distance between marker1 and marker2 should be less than or equal to 0.
+The separation between reference spot3 and reference spot7 should be less than or equal to 3.
+The length between point2 and point3 should be less than or equal to 8.
+The distance between node5 and node9 should not exceed 12.
+The measure of separation between vertex4 and vertex8 must be less than or equal to 15.
+The duration from event1 to event3 should be less than or equal to 7 hours.
+The gap between cityA and cityB must be less than or equal to 50 kilometers.
+The measure of separation between objectA and objectB should be less than or equal to 5 units.
+The length between destinationX and destinationY must be less than or equal to 100 meters.
+The gap between index3 and index9 should be less than or equal to 6.
+The distance between station1 and station2 should be less than or equal to 2 miles.
+The separation between landmark9 and landmark12 should be less than or equal to 10.
+The length between point6 and point7 should be less than or equal to 9.
+The separation between point1 and point3 should be greater than 7.
+The gap from location1 to location2 must be greater than 9.
+The measure of separation between reference point1 and reference point2 should be greater than 8.
+The length between landmark3 and landmark4 must be greater than 10.
+The gap between position3 and position8 should be greater than 20.
+The distance between marker1 and marker2 should be greater than 0.
+The separation between reference spot3 and reference spot7 should be greater than 3.
+The length between point2 and point3 should be greater than 8.
+The distance between node5 and node9 should exceed 12.
+The measure of separation between vertex4 and vertex8 must be greater than 15.
+The duration from event1 to event3 should exceed 7 hours.
+The gap between cityA and cityB must be greater than 50 kilometers.
+The measure of separation between objectA and objectB should be greater than 5 units.
+The length between destinationX and destinationY must be greater than 100 meters.
+The gap between index3 and index9 should be greater than 6.
+The distance between station1 and station2 should be greater than 2 miles.
+The separation between landmark9 and landmark12 should be greater than 10.
+The length between point6 and point7 should be greater than 9.
+The separation between point1 and point3 should be greater than or equal to 7.
+The gap from location1 to location2 must be greater than or equal to 9.
+The measure of separation between reference point1 and reference point2 should be greater than or equal to 8.
+The length between landmark3 and landmark4 must be greater than or equal to 10.
+The gap between position3 and position8 should be greater than or equal to 20.
+The distance between marker1 and marker2 should be greater than or equal to 0.
+The separation between reference spot3 and reference spot7 should be greater than or equal to 3.
+The length between point2 and point3 should be greater than or equal to 8.
+The distance between node5 and node9 should exceed or equal 12.
+The measure of separation between vertex4 and vertex8 must be greater than or equal to 15.
+The duration from event1 to event3 should exceed or equal 7 hours.
+The gap between cityA and cityB must be greater than or equal to 50 kilometers.
+The measure of separation between objectA and objectB should be greater than or equal to 5 units.
+The length between destinationX and destinationY must be greater than or equal to 100 meters.
+The gap between index3 and index9 should be greater than or equal to 6.
+The distance between station1 and station2 should be greater than or equal to 2 miles.
+The separation between landmark9 and landmark12 should be greater than or equal to 10.
+The length between point6 and point7 should be greater than or equal to 9.

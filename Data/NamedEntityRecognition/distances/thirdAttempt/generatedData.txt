@@ -1,0 +1,285 @@
+The separation between point1 and point 3 should not equal the separation between point8 and point9.
+The gap from location1 to location2 must not match the gap from location4 to location8.
+The interval between checkpoint2 and checkpoint1 ought to differ from the interval between checkpoint9 and checkpoint19.
+The space separating spot1 and spot2 should not mirror the space separating spot3 and spot2.
+The span between node9 and node 7 must contrast with the span between node88 and node 7.
+The distance from destination 1 to destination 2 should not replicate the distance from destination 3 to destination 4.
+The measure of separation between reference point1 and reference point2 should deviate from the measure of separation between reference point9 and reference point10.
+The length between landmark3 and landmark4 must be dissimilar to the length between landmark5 and landmark99.
+The gap between position 3 and position 8 should not resemble the gap between position 9 and position 10.
+The difference in distance between marker1 and marker2 should be distinct from the difference in distance between marker3 and marker 9.
+The extent of separation between reference spot 3 and reference spot 7 should contrast with the extent of separation between reference spot 9 and reference spot 20.
+The discrepancy between the gap from checkpoint 9 to checkpoint 2 and the gap from checkpoint 4 to checkpoint 9 should be noticeable.
+The divergence in length between point 2 and point 3 and the divergence in length between point 1 and point 3 should be discernible.
+The dissimilarity in distance between landmark 8 and landmark 10 and the dissimilarity in distance between landmark 3 and landmark 7 should be apparent.
+The distance between marker7 and marker12 must be different from the distance between marker5 and marker 18.
+The separation from location6 to location11 should not equal the separation from location 3 to location 17.
+The interval between checkpoint14 and checkpoint5 ought to contrast with the interval between checkpoint3 and checkpoint7.
+The space separating spot9 and spot 15 should not match the space separating spot6 and spot15.
+The span between node22 and node 12 must differ from the span between node10 and node12.
+The distance from destination 11 to destination4 should not be equal to the distance from destination8 to destination6.
+The measure of separation between reference point 13 and reference point 5 should deviate from the measure of separation between reference point 16 and reference point 9.
+The length between landmark 19 and landmark 7 should be distinct from the length between landmark14 and landmark3.
+The gap between position6 and position11 must not equal the gap between position15 and position9.
+The difference in distance between marker4 and marker6 should be noticeable compared to the difference in distance between marker11 and marker3.
+The extent of separation between reference spot13 and reference spot6 should contrast with the extent of separation between reference spot9 and reference spot17.
+The discrepancy between the gap from checkpoint11 to checkpoint4 and the gap from checkpoint7 to checkpoint14 should be discernible.
+The divergence in length between point6 and point9 should be apparent compared to the divergence in length between point2 and point9.
+The dissimilarity in distance between landmark16 and landmark9 should be distinguishable from the dissimilarity in distance between landmark7 and landmark22.
+The variation in separation between spot11 and spot8 should be evident compared to the variation in separation between spot6 and spot14.
+The contrast in interval between node19 and node3 should be noticeable compared to the contrast in interval between node15 and node7.
+The discrepancy between the length from point5 to point13 and the length from point18 to point2 should be observable.
+The difference in distance between checkpoint6 and checkpoint11 should be apparent compared to the difference in distance between checkpoint9 and checkpoint17.
+The distance between marker 7 and marker 12 must be greater than the distance between marker 5 and marker 18.
+The separation from location 6 to location 11 should be greater than the separation from location 3 to location 17.
+The interval between checkpoint 14 and checkpoint 5 ought to be greater than the interval between checkpoint 3 and checkpoint 7.
+The space separating spot 9 and spot 15 should exceed the space separating spot 6 and spot 15.
+The span between node 22 and node 12 must be greater than the span between node 10 and node 12.
+The distance from destination 11 to destination 4 should be greater than the distance from destination 8 to destination 6.
+The measure of separation between reference point 13 and reference point 5 should be greater than the measure of separation between reference point 16 and reference point 9.
+The length between landmark 19 and landmark 7 should be greater than the length between landmark 14 and landmark 3.
+The gap between position 6 and position 11 must be greater than the gap between position 15 and position 9.
+The difference in distance between marker 4 and marker 6 should be greater than the difference in distance between marker 11 and marker 3.
+The extent of separation between reference spot 13 and reference spot 6 should contrast with the extent of separation between reference spot 9 and reference spot 17.
+The discrepancy between the gap from checkpoint 11 to checkpoint 4 and the gap from checkpoint 7 to checkpoint 14 should be discernible.
+The divergence in length between point 6 and point 9 should be greater than the divergence in length between point 2 and point 9.
+The dissimilarity in distance between landmark 16 and landmark 9 should be greater than the dissimilarity in distance between landmark 7 and landmark 22.
+The variation in separation between spot 11 and spot 8 should be greater than the variation in separation between spot 6 and spot 14.
+The contrast in interval between node 19 and node 3 should be greater than the contrast in interval between node 15 and node 7.
+The discrepancy between the length from point 5 to point 13 and the length from point 18 to point 2 should be greater.
+The difference in distance between checkpoint 6 and checkpoint 11 should be greater than the difference in distance between checkpoint 9 and checkpoint 17.
+The distance between marker 7 and marker 12 must be greater than or equal to the distance between marker 5 and marker 18.
+The separation from location 6 to location 11 should be greater than or equal to the separation from location 3 to location 17.
+The interval between checkpoint 14 and checkpoint 5 ought to be greater than or equal to the interval between checkpoint 3 and checkpoint 7.
+The space separating spot 9 and spot 15 should be greater than or equal to the space separating spot 6 and spot 15.
+The span between node 22 and node 12 must be greater than or equal to the span between node 10 and node 12.
+The distance from destination 11 to destination 4 should be greater than or equal to the distance from destination 8 to destination 6.
+The measure of separation between reference point 13 and reference point 5 should be greater than or equal to the measure of separation between reference point 16 and reference point 9.
+The length between landmark 19 and landmark 7 should be greater than or equal to the length between landmark 14 and landmark 3.
+The gap between position 6 and position 11 must be greater than or equal to the gap between position 15 and position 9.
+The difference in distance between marker 4 and marker 6 should be greater than or equal to the difference in distance between marker 11 and marker 3.
+The extent of separation between reference spot 13 and reference spot 6 should contrast with the extent of separation between reference spot 9 and reference spot 17.
+The discrepancy between the gap from checkpoint 11 to checkpoint 4 and the gap from checkpoint 7 to checkpoint 14 should be discernible.
+The divergence in length between point 6 and point 9 should be greater than or equal to the divergence in length between point 2 and point 9.
+The dissimilarity in distance between landmark 16 and landmark 9 should be greater than or equal to the dissimilarity in distance between landmark 7 and landmark 22.
+The variation in separation between spot 11 and spot 8 should be greater than or equal to the variation in separation between spot 6 and spot 14.
+The contrast in interval between node 19 and node 3 should be greater than or equal to the contrast in interval between node 15 and node 7.
+The discrepancy between the length from point 5 to point 13 and the length from point 18 to point 2 should be greater than or equal to.
+The difference in distance between checkpoint 6 and checkpoint 11 should be greater than or equal to the difference in distance between checkpoint 9 and checkpoint 17.
+The distance between marker 7 and marker 12 must be less than the distance between marker 5 and marker 18.
+The separation from location 6 to location 11 should be less than the separation from location 3 to location 17.
+The interval between checkpoint 14 and checkpoint 5 ought to be less than the interval between checkpoint 3 and checkpoint 7.
+The space separating spot 9 and spot 15 should be less than the space separating spot 6 and spot 15.
+The span between node 22 and node 12 must be less than the span between node 10 and node 12.
+The distance from destination 11 to destination 4 should be less than the distance from destination 8 to destination 6.
+The measure of separation between reference point 13 and reference point 5 should be less than the measure of separation between reference point 16 and reference point 9.
+The length between landmark 19 and landmark 7 should be less than the length between landmark 14 and landmark 3.
+The gap between position 6 and position 11 must be less than the gap between position 15 and position 9.
+The difference in distance between marker 4 and marker 6 should be less than the difference in distance between marker 11 and marker 3.
+The extent of separation between reference spot 13 and reference spot 6 should be less than the extent of separation between reference spot 9 and reference spot 17.
+The discrepancy between the gap from checkpoint 11 to checkpoint 4 and the gap from checkpoint 7 to checkpoint 14 should be noticeable.
+The divergence in length between point 6 and point 9 should be less than the divergence in length between point 2 and point 9.
+The dissimilarity in distance between landmark 16 and landmark 9 should be less than the dissimilarity in distance between landmark 7 and landmark 22.
+The variation in separation between spot 11 and spot 8 should be less than the variation in separation between spot 6 and spot 14.
+The contrast in interval between node 19 and node 3 should be less than the contrast in interval between node 15 and node 7.
+The discrepancy between the length from point 5 to point 13 and the length from point 18 to point 2 should be observable.
+The difference in distance between checkpoint 6 and checkpoint 11 should be less than the difference in distance between checkpoint 9 and checkpoint 17.
+The distance between marker 7 and marker 12 must be less than or equal to the distance between marker 5 and marker 18.
+The separation from location 6 to location 11 should be less than or equal to the separation from location 3 to location 17.
+The interval between checkpoint 14 and checkpoint 5 ought to be less than or equal to the interval between checkpoint 3 and checkpoint 7.
+The space separating spot 9 and spot 15 should be less than or equal to the space separating spot 6 and spot 15.
+The span between node 22 and node 12 must be less than or equal to the span between node 10 and node 12.
+The distance from destination 11 to destination 4 should be less than or equal to the distance from destination 8 to destination 6.
+The measure of separation between reference point 13 and reference point 5 should be less than or equal to the measure of separation between reference point 16 and reference point 9.
+The length between landmark 19 and landmark 7 should be less than or equal to the length between landmark 14 and landmark 3.
+The gap between position 6 and position 11 must be less than or equal to the gap between position 15 and position 9.
+The difference in distance between marker 4 and marker 6 should be less than or equal to the difference in distance between marker 11 and marker 3.
+The extent of separation between reference spot 13 and reference spot 6 should be less than or equal to the extent of separation between reference spot 9 and reference spot 17.
+The discrepancy between the gap from checkpoint 11 to checkpoint 4 and the gap from checkpoint 7 to checkpoint 14 should be noticeable.
+The divergence in length between point 6 and point 9 should be less than or equal to the divergence in length between point 2 and point 9.
+The dissimilarity in distance between landmark 16 and landmark 9 should be less than or equal to the dissimilarity in distance between landmark 7 and landmark 22.
+The variation in separation between spot 11 and spot 8 should be less than or equal to the variation in separation between spot 6 and spot 14.
+The contrast in interval between node 19 and node 3 should be less than or equal to the contrast in interval between node 15 and node 7.
+The discrepancy between the length from point 5 to point 13 and the length from point 18 to point 2 should be observable.
+The difference in distance between checkpoint 6 and checkpoint 11 should be less than or equal to the difference in distance between checkpoint 9 and checkpoint 17.
+The spatial interval connecting Point Alpha and Point Bravo must not mirror the spatial interval connecting Point Charlie and Point Delta.
+The physical gap between Structure A and Structure B must diverge from the physical gap between Structure C and Structure D.
+The disparity in distance separating Location X from House 1 should not coincide with the disparity in distance separating Location W from House 3.
+The spatial distinction between Point Zulu and Point Yankee must be dissimilar to the spatial distinction between Point Tango and Point Foxtrot.
+The separation in distance linking Position Echo and Position Hotel should contrast with the separation in distance linking Position India and Position Juliet.
+The gap between Locale Omega and Locale Kappa ought to vary from the gap between Locale Mike and Locale November.
+The spatial differentiation between Site Quebec and Site Sierra should deviate from the spatial differentiation between Site Uniform and Site Victor.
+The disparity in distance separating Place Golf from Dwelling 2 should not resemble the disparity in distance separating Place Lima from Dwelling 4.
+The spatial interval connecting Zone Papa and Zone Oscar must differ from the spatial interval connecting Zone Romeo and Zone Sierra.
+The separation in distance linking Venue Delta and Residence 1 should contrast with the separation in distance linking Venue Foxtrot and Residence 3.
+The distinction in distance separating Location Charlie from Point A must not mirror the distinction in distance separating Location Bravo from Point C.
+The distance between A and B should be equal to the distance between C and D.
+The separation between House 1 and X needs to be equal to the separation between H3 and W.
+The spatial interval connecting D and S must equal the spatial interval connecting K and L.
+The physical gap between A and B must be equal to the physical gap between C and D.
+The disparity in distance separating B5 from H8 should coincide with the disparity in distance separating W6 from M9.
+The spatial distinction between Point Zulu and Point Yankee must not deviate from the spatial distinction between Point Tango and Point Foxtrot.
+The separation in distance linking Position Echo and Position Hotel should match the separation in distance linking Position India and Position Juliet.
+The gap between Locale Omega and Locale Kappa ought to be the same as the gap between Locale Mike and Locale November.
+The spatial differentiation between Site Quebec and Site Sierra should equal the spatial differentiation between Site Uniform and Site Victor.
+The disparity in distance separating Place Golf from Dwelling 2 should resemble the disparity in distance separating Place Lima from Dwelling 4.
+The spatial interval connecting Zone Papa and Zone Oscar must be equal to the spatial interval connecting Zone Romeo and Zone Sierra.
+The separation in distance linking Venue Delta and Residence 1 should match the separation in distance linking Venue Foxtrot and Residence 3.
+The distinction in distance separating Location Charlie from Point A must mirror the distinction in distance separating Location Bravo from Point C.
+The distance between A and B should equal the distance between C and D.
+The separation between House 1 and X needs to be equal to the separation between H3 and W.
+The spatial interval connecting Point Alpha and Point Bravo must equal the spatial interval connecting Point Charlie and Point Delta.
+The physical gap between Structure A and Structure B must be equal to the physical gap between Structure C and Structure D.
+The disparity in distance separating Location X from House 1 should coincide with the disparity in distance separating Location W from House 3.
+The spatial distinction between Point Zulu and Point Yankee must not deviate from the spatial distinction between Point Tango and Point Foxtrot.
+The separation in distance linking Position Echo and Position Hotel should match the separation in distance linking Position India and Position Juliet.
+The gap between Locale Omega and Locale Kappa ought to be the same as the gap between Locale Mike and Locale November.
+The spatial differentiation between Site Quebec and Site Sierra should equal the spatial differentiation between Site Uniform and Site Victor.
+The disparity in distance separating Place Golf from Dwelling 2 should resemble the disparity in distance separating Place Lima from Dwelling 4.
+The spatial interval connecting Zone Papa and Zone Oscar must be equal to the spatial interval connecting Zone Romeo and Zone Sierra.
+The separation in distance linking Venue Delta and Residence 1 should match the separation in distance linking Venue Foxtrot and Residence 3.
+The distinction in distance separating Location Charlie from Point A must mirror the distinction in distance separating Location Bravo from Point C.
+The distance between A and B should equal the distance between C and D.
+The separation between House 1 and X needs to be equal to the separation between H3 and W.
+The spatial interval connecting Point Alpha and Point Bravo must equal the spatial interval connecting Point Charlie and Point Delta.
+The physical gap between Structure A and Structure B must be equal to the physical gap between Structure C and Structure D.
+The disparity in distance separating Location X from House 1 should coincide with the disparity in distance separating Location W from House 3.
+The spatial distinction between Point Zulu and Point Yankee must not deviate from the spatial distinction between Point Tango and Point Foxtrot.
+The separation in distance linking Position Echo and Position Hotel should match the separation in distance linking Position India and Position Juliet.
+The gap between Locale Omega and Locale Kappa ought to be the same as the gap between Locale Mike and Locale November.
+The distance between A and B should be less than the distance between C and D.
+The separation between House 1 and X needs to be less than the separation between H3 and W.
+The spatial interval connecting Pa and Poio must be less than the spatial interval connecting lie and a.
+The physical gap between e and z must be less than the physical gap between v and d.
+The disparity in distance separating x from u 1 should be less than the disparity in distance separating c from z.
+The spatial distinction between Plu and Pe must not exceed the spatial distinction between o and rot.
+The separation in distance linking Position ho and el should be less than the separation in distance linking ia and Po.
+The gap between ga and pa ought to be smaller than the gap between ike and mber.
+The spatial differentiation between uebec and Sra should be less than the spatial differentiation between Sform and Sir.
+The disparity in distance separating Plf from Dw 2 should be less than the disparity in distance separating P from g 4.
+The spatial interval connecting Zona and Zar must be less than the spatial interval connecting Reo and Zone Sia.
+The separation in distance linking Venulta and Reside should be less than the separation in distance linking Vextrot and Re.
+The distinction in distance separating Locarlie from PoA must be smaller than the distinction in distance separating Location Br from C.
+The distance between A and E should be less than the distance between C and ZES.
+The separation between Ho1 and SZ needs to be less than the separation between Y3 and Sce.
+The spatial interval connecting Ppha and Pravo must be less than the spatial interval connecting e and Polta.
+The physical gap between SA and StreB must be less than the physical gap between ctC and ureD.
+The disparity in distance separating LoX from oe1 should be less than the disparity in distance separating on2 from H3.
+The spatial distinction between lu and ee must not exceed the spatial distinction between Pgo and Prot.
+The separation in distance linking Poscho and Pol should be less than the separation in distance linking ia and iet.
+The gap between La and Lappa ought to be smaller than the gap between ike and Lber.
+The spatial differentiation between bec and Srra should be less than the spatial differentiation between Siorm and sor.
+The disparity in distance separating Plsf from S2 should be less than the disparity in distance separating Szma from DZ2.
+The spatial interval connecting Za and Zr must be less than the spatial interval connecting Za and Zone.
+The separation in distance linking Venta and Residence 1 should be less than the separation in distance linking VFot and Residence 3.
+The distinction in distance separating Locnlie from Po A must be smaller than the distinction in distance separating avo from Po2.
+The distance between JZ and B should be less than the distance between ce and SK.
+The separation between House 1 and X needs to be less than the separation between H3 and W.
+The spatial interval connecting Point Alpha and Point Bravo must be less than the spatial interval connecting Point Charlie and Point Delta.
+The physical gap between Structure A and Structure B must be less than the physical gap between Structure C and Structure D.
+The disparity in distance separating Location X from House 1 should be less than the disparity in distance separating Location W from House 3.
+The spatial distinction between Point Zulu and Point Yankee must not exceed the spatial distinction between Point Tango and Point Foxtrot.
+The separation in distance linking Position Echo and Position Hotel should be less than the separation in distance linking Position India and Position Juliet.
+The gap between Locale Omega and Locale Kappa ought to be smaller than the gap between Locale Mike and Locale Nove
+The distance between A and B should be less than or equal to the distance between C and D.
+The separation between H1 and X needs to be less than or equal to the separation between H3 and W.
+The spatial interval connecting P and Pio must be less than or equal to the spatial interval connecting L and A.
+The physical gap between E and Z must be less than or equal to the physical gap between V and D.
+The disparity in distance separating X from U1 should be less than or equal to the disparity in distance separating C from Z.
+The spatial distinction between P and P must not exceed the spatial distinction between O and R.
+The separation in distance linking H and E should be less than or equal to the separation in distance linking I and J.
+The gap between G and P ought to be smaller than or equal to the gap between I and M.
+The spatial differentiation between Q and S should be less than or equal to the spatial differentiation between S and S.
+The disparity in distance separating F from D2 should be less than or equal to the disparity in distance separating P from G4.
+The spatial interval connecting Z and R must be less than or equal to the spatial interval connecting R and Z.
+The separation in distance linking V and R1 should be less than or equal to the separation in distance linking V and R3.
+The distinction in distance separating L from P must be smaller than or equal to the distinction in distance separating B from C.
+The distance between A and E should be less than or equal to the distance between C and Z.
+The separation between H1 and S needs to be less than or equal to the separation between Y3 and S.
+The spatial interval connecting P and P must be less than or equal to the spatial interval connecting E and P.
+The physical gap between S and B must be less than or equal to the physical gap between C and D.
+The disparity in distance separating X from H1 should be less than or equal to the disparity in distance separating O from H3.
+The spatial distinction between L and E must not exceed the spatial distinction between P and P.
+The separation in distance linking E and H should be less than or equal to the separation in distance linking I and J.
+The gap between L and L ought to be smaller than or equal to the gap between I and L.
+The spatial differentiation between B and S should be less than or equal to the spatial differentiation between S and S.
+The disparity in distance separating F from S2 should be less than or equal to the disparity in distance separating S from D2.
+The spatial interval connecting Z and R must be less than or equal to the spatial interval connecting Z and Z.
+The separation in distance linking V and R1 should be less than or equal to the separation in distance linking V and R3.
+The distinction in distance separating L from P must be smaller than or equal to the distinction in distance separating P from P2.
+The distance between J and B should be less than or equal to the distance between C and S.
+The separation between H1 and X needs to be less than or equal to the separation between H3 and W.
+The spatial interval connecting P and P must be less than or equal to the spatial interval connecting E and P.
+The physical gap between S and SB must be less than or equal to the physical gap between C and CD.
+The disparity in distance separating X from U1 should be less than or equal to the disparity in distance separating C from Z.
+The spatial distinction between Z and Y must not exceed the spatial distinction between T and F.
+The separation in distance linking H and E should be less than or equal to the separation in distance linking I and J.
+The gap between O and K ought to be smaller than or equal to the gap between M and N.
+The distance between P and Q should be greater than the distance between X and Y.
+The separation between A1 and B needs to be greater than the separation between C3 and D.
+The spatial interval connecting R and Sio must be greater than the spatial interval connecting L and M.
+The physical gap between U and V must be greater than the physical gap between W and X.
+The disparity in distance separating P from Q1 should be greater than the disparity in distance separating R from S.
+The spatial distinction between A and B must not exceed the spatial distinction between C and D.
+The separation in distance linking E and F should be greater than the separation in distance linking G and H.
+The gap between I and J ought to be greater than the gap between K and L.
+The spatial differentiation between M and N should be greater than the spatial differentiation between O and P.
+The disparity in distance separating S from T2 should be greater than the disparity in distance separating U from V4.
+The spatial interval connecting Z and A must be greater than the spatial interval connecting B and C.
+The separation in distance linking X and Y1 should be greater than the separation in distance linking X and Y3.
+The distinction in distance separating P from Q must be greater than the distinction in distance separating R from S.
+The distance between A and B should be greater than the distance between C and D.
+The separation between H1 and S needs to be greater than the separation between Y3 and S.
+The spatial interval connecting P and P must be greater than the spatial interval connecting E and F.
+The physical gap between A and B must be greater than the physical gap between C and D.
+The disparity in distance separating X from H1 should be greater than the disparity in distance separating O from H3.
+The spatial distinction between L and E must not exceed the spatial distinction between P and Q.
+The separation in distance linking E and H should be greater than the separation in distance linking I and J.
+The gap between L and L ought to be greater than the gap between I and L.
+The spatial differentiation between B and S should be greater than the spatial differentiation between S and S.
+The disparity in distance separating F from S2 should be greater than the disparity in distance separating S from D2.
+The spatial interval connecting Z and R must be greater than the spatial interval connecting Z and Z.
+The separation in distance linking V and R1 should be greater than the separation in distance linking V and R3.
+The distinction in distance separating L from P must be greater than the distinction in distance separating P from P2.
+The distance between J and B should be greater than the distance between C and S.
+The separation between A1 and X needs to be greater than the separation between C3 and W.
+The spatial interval connecting P and P must be greater than the spatial interval connecting E and F.
+The physical gap between A and SB must be greater than the physical gap between C and CD.
+The disparity in distance separating X from U1 should be greater than the disparity in distance separating C from Z.
+The spatial distinction between Z and Y must not exceed the spatial distinction between T and F.
+The separation in distance linking E and F should be greater than the separation in distance linking G and H.
+The gap between O and K ought to be greater than the gap between M and N.
+The distance between P2 and Q7 should be greater than or equal to the distance between X5 and Y1.
+The separation between A4 and B6 needs to be greater than or equal to the separation between C2 and D9.
+The spatial interval connecting R8 and S3o must be greater than or equal to the spatial interval connecting L6 and M1.
+The physical gap between U7 and V2 must be greater than or equal to the physical gap between W3 and X9.
+The disparity in distance separating P4 from Q8 should be greater than or equal to the disparity in distance separating R1 from S6.
+The spatial distinction between A2 and B9 must not exceed the spatial distinction between C7 and D4.
+The separation in distance linking E5 and F8 should be greater than or equal to the separation in distance linking G3 and H9.
+The gap between I1 and J6 ought to be greater than or equal to the gap between K4 and L7.
+The spatial differentiation between M5 and N9 should be greater than or equal to the spatial differentiation between O1 and P6.
+The disparity in distance separating S9 from T2 should be greater than or equal to the disparity in distance separating U5 from V8.
+The spatial interval connecting Z7 and A3 must be greater than or equal to the spatial interval connecting B1 and C4.
+The separation in distance linking X2 and Y7 should be greater than or equal to the separation in distance linking X9 and Y5.
+The distinction in distance separating P3 from Q6 must be greater than or equal to the distinction in distance separating R9 from S2.
+The distance between A5 and B2 should be greater than or equal to the distance between C8 and D1.
+The separation between H3 and S9 needs to be greater than or equal to the separation between Y4 and S1.
+The spatial interval connecting P6 and P7 must be greater than or equal to the spatial interval connecting E2 and F9.
+The physical gap between A9 and B5 must be greater than or equal to the physical gap between C6 and D3.
+The disparity in distance separating X8 from H4 should be greater than or equal to the disparity in distance separating O3 from H9.
+The spatial distinction between L7 and E5 must not exceed the spatial distinction between P4 and Q2.
+The separation in distance linking E8 and H2 should be greater than or equal to the separation in distance linking I9 and J3.
+The gap between L1 and L2 ought to be greater than or equal to the gap between I4 and L5.
+The spatial differentiation between B3 and S7 should be greater than or equal to the spatial differentiation between S9 and S6.
+The disparity in distance separating F7 from S2 should be greater than or equal to the disparity in distance separating S4 from D2.
+The spatial interval connecting Z5 and R9 must be greater than or equal to the spatial interval connecting Z8 and Z1.
+The separation in distance linking V3 and R7 should be greater than or equal to the separation in distance linking V6 and R9.
+The distinction in distance separating L2 from P9 must be greater than or equal to the distinction in distance separating P3 from P5.
+The distance between J9 and B2 should be greater than or equal to the distance between C1 and S6.
+The separation between A5 and X8 needs to be greater than or equal to the separation between C9 and W3.
+The spatial interval connecting P3 and P9 must be greater than or equal to the spatial interval connecting E4 and F7.
+The physical gap between A1 and SB6 must be greater than or equal to the physical gap between C8 and CD3.
+The disparity in distance separating X6 from U4 should be greater than or equal to the disparity in distance separating C7 from Z9.
+The spatial distinction between Z3 and Y8 must not exceed the spatial distinction between T5 and F2.
+The separation in distance linking E9 and F5 should be greater than or equal to the separation in distance linking G2 and H7.
+The gap between O6 and K3 ought to be greater than or equal to the gap between M8 and N1.

@@ -1,0 +1,65 @@
+red is recommended to have contrasts with green
+red is recommended to have contrasts with ivory
+red is recommended to have contrasts with yellow
+red is recommended to have contrasts with blue
+green is recommended to have contrasts with ivory
+green is recommended to have contrasts with yellow
+green is recommended to have contrasts with blue
+ivory is recommended to have contrasts with yellow
+ivory is recommended to have contrasts with blue
+yellow is recommended to have contrasts with blue
+dog is recommended to have contrasts with snails
+dog is recommended to have contrasts with fox
+dog is recommended to have contrasts with horse
+dog is recommended to have contrasts with zebra
+snails is recommended to have contrasts with fox
+snails is recommended to have contrasts with horse
+snails is recommended to have contrasts with zebra
+fox is recommended to have contrasts with horse
+fox is recommended to have contrasts with zebra
+horse is recommended to have contrasts with zebra
+coffee is recommended to have contrasts with tea
+coffee is recommended to have contrasts with milk
+coffee is recommended to have contrasts with orange juice
+coffee is recommended to have contrasts with water
+tea is recommended to have contrasts with milk
+tea is recommended to have contrasts with orange juice
+tea is recommended to have contrasts with water
+milk is recommended to have contrasts with orange juice
+milk is recommended to have contrasts with water
+orange juice is recommended to have contrasts with water
+English is recommended to have contrasts with Sparniad
+English is recommended to have contrasts with Ukranian
+English is recommended to have contrasts with Norwegian
+English is recommended to have contrasts with Japanese
+Sparniad is recommended to have contrasts with Ukranian
+Sparniad is recommended to have contrasts with Norwegian
+Sparniad is recommended to have contrasts with Japanese
+Ukranian is recommended to have contrasts with Norwegian
+Ukranian is recommended to have contrasts with Japanese
+Norwegian is recommended to have contrasts with Japanese
+Old Gold is recommended to have contrasts with Kools
+Old Gold is recommended to have contrasts with Chesterfields
+Old Gold is recommended to have contrasts with Lucky Strike
+Old Gold is recommended to have contrasts with Parliaments
+Kools is recommended to have contrasts with Chesterfields
+Kools is recommended to have contrasts with Lucky Strike
+Kools is recommended to have contrasts with Parliaments
+Chesterfields is recommended to have contrasts with Lucky Strike
+Chesterfields is recommended to have contrasts with Parliaments
+Lucky Strike is recommended to have contrasts with Parliaments
+English demands equality with red
+Sparniad demands equality with dog
+coffee demands equality with green
+Ukranian demands equality with tea
+Old Gold demands equality with snails
+Kools demands equality with yellow
+Lucky Strike demands equality with orange juice
+Japanese demands equality with Parliaments
+green essential to have a higher value than ivory
+the scope of the distance from green to ivory demands equality with 1
+the scope of the distance from Chesterfields to fox demands equality with 1
+the scope of the distance from Kools to horse demands equality with 1
+the scope of the distance from Norwegian to blue demands equality with 1
+milk demands equality with 3
+Norwegian demands equality with 1

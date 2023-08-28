@@ -1,0 +1,65 @@
+red is required to be unlike green
+red is required to be unlike ivory
+red is required to be unlike yellow
+red is required to be unlike blue
+green is required to be unlike ivory
+green is required to be unlike yellow
+green is required to be unlike blue
+ivory is required to be unlike yellow
+ivory is required to be unlike blue
+yellow is required to be unlike blue
+dog is required to be unlike snails
+dog is required to be unlike fox
+dog is required to be unlike horse
+dog is required to be unlike zebra
+snails is required to be unlike fox
+snails is required to be unlike horse
+snails is required to be unlike zebra
+fox is required to be unlike horse
+fox is required to be unlike zebra
+horse is required to be unlike zebra
+coffee is required to be unlike tea
+coffee is required to be unlike milk
+coffee is required to be unlike orange juice
+coffee is required to be unlike water
+tea is required to be unlike milk
+tea is required to be unlike orange juice
+tea is required to be unlike water
+milk is required to be unlike orange juice
+milk is required to be unlike water
+orange juice is required to be unlike water
+English is required to be unlike Sparniad
+English is required to be unlike Ukranian
+English is required to be unlike Norwegian
+English is required to be unlike Japanese
+Sparniad is required to be unlike Ukranian
+Sparniad is required to be unlike Norwegian
+Sparniad is required to be unlike Japanese
+Ukranian is required to be unlike Norwegian
+Ukranian is required to be unlike Japanese
+Norwegian is required to be unlike Japanese
+Old Gold is required to be unlike Kools
+Old Gold is required to be unlike Chesterfields
+Old Gold is required to be unlike Lucky Strike
+Old Gold is required to be unlike Parliaments
+Kools is required to be unlike Chesterfields
+Kools is required to be unlike Lucky Strike
+Kools is required to be unlike Parliaments
+Chesterfields is required to be unlike Lucky Strike
+Chesterfields is required to be unlike Parliaments
+Lucky Strike is required to be unlike Parliaments
+English ought to be the same as red
+Sparniad ought to be the same as dog
+coffee ought to be the same as green
+Ukranian ought to be the same as tea
+Old Gold ought to be the same as snails
+Kools ought to be the same as yellow
+Lucky Strike ought to be the same as orange juice
+Japanese ought to be the same as Parliaments
+green necessitates being larger than ivory
+the measure of space between green and ivory ought to be the same as 1
+the measure of space between Chesterfields and fox ought to be the same as 1
+the measure of space between Kools and horse ought to be the same as 1
+the measure of space between Norwegian and blue ought to be the same as 1
+milk ought to be the same as 3
+Norwegian ought to be the same as 1
