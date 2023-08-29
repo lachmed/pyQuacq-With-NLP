@@ -1,0 +1,5 @@
+ner-bert-binaryData-justparams: https://drive.google.com/file/d/1Ign2-RxfYw-dw1tZmJkoTSWtZnJ6CxLQ/view?usp=drive_link
+ner-bert-unaryConstraints-justparams: https://drive.google.com/file/d/16ewkqljJbK5stGMr8pMxKb2IfRjp1lWa/view?usp=drive_link
+ner-bert-distancesUnary-justparams: https://drive.google.com/file/d/1pDYix4GPjyZZDP29Iq-bncJJzcEOQb3U/view?usp=drive_link
+ner-bert-distances-justparams: https://drive.google.com/file/d/19OajoLpAP8PMUYGEU8qzKnEJE-9b1_A1/view?usp=drive_link
+classif23classes: https://drive.google.com/file/d/1oJPm8450UhQLCKLK8hw7JGAFPFAzaHn0/view?usp=drive_link
