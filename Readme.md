@@ -24,7 +24,7 @@ They are arranged like this:
 
 56 directories, 305 files. 
 
-<font size="1">
+```
 .
 ├── Data
 │   ├── Classification
@@ -386,6 +386,6 @@ They are arranged like this:
 │           ├── constraintsNLPzebra9.txt
 │           └── zebraCoods.txt
 ├── Readme.md
-</font>
+```
 
 
