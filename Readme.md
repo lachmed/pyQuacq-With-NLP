@@ -1,4 +1,4 @@
-This direcotry contains the following folders and files:
+This is the repositiory of my graduation project tittled  : "Implementing a constraint acquisition system called Quacq using python and enhancing it with natural language processing (NLP)"
 
 Data:
 It contains the different data files generated for classification and named entity recognition in a csv format. For the NER data, we a folder
